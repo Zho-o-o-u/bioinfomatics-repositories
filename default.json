@@ -45,7 +45,9 @@
                 "MariaNattestad",
 		"Ming-Lian",
 		"pcingola",
-		"GregoryFaust"
+		"GregoryFaust",
+		"alimanfoo",
+		"shenwei356"
         ],
         "teams": [
                 "illumina",
@@ -98,6 +100,9 @@
 		"bioinform",
 		"gatk-workflows",
 		"vcftools",
-		"refresh-bio"
+		"refresh-bio",
+		"pysam-developers",
+		"griffithlab",
+		"igvteam"
         ]
 }
