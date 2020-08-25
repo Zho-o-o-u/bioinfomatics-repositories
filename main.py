@@ -49,7 +49,7 @@ def get_repositories(user: str, url: str = None) -> dict:
             next_elements = r.html.find(
                 'a[class="btn btn-outline BtnGroup-item"]')
         else:
-            username = "Team |" + h1_text
+            username = "Org |" + h1_text
             parents = r.html.find(
                 'li[class="public source d-block py-4 border-bottom"]')
             next_elements = r.html.find('a[class="next_page"]')
