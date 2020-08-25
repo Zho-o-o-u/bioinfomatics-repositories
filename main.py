@@ -66,19 +66,21 @@ def get_repositories(user: str, url: str = None) -> dict:
                 if score >= MIN_SCORE:
                     language = e.find('span[itemprop="programmingLanguage"]')
                     language = language[0].text if language else None
-                    r = e.find('a[itemprop="name codeRepository"]')[0]
-                    repository = f"[{r.text}]({list(r.absolute_links)[0]})"
-                    description = e.find('p[itemprop="description"]')
-                    description = description[0].text if description else "None"
-                    user_link = f"[{user}](https://github.com/{user})"
-                    cell[repository] = {
-                        "star": star,
-                        "username": username,
-                        "user": user_link,
-                        "description": description.strip(),
-                        "language": language,
-                        "update": update,
-                    }
+                    if language:
+                        r = e.find('a[itemprop="name codeRepository"]')[0]
+                        repository = f"[{r.text}]({list(r.absolute_links)[0]})"
+                        description = e.find('p[itemprop="description"]')
+                        description = description[
+                            0].text if description else "None"
+                        user_link = f"[{user}](https://github.com/{user})"
+                        cell[repository] = {
+                            "star": star,
+                            "username": username,
+                            "user": user_link,
+                            "description": description.strip(),
+                            "language": language,
+                            "update": update,
+                        }
         if next_elements:
             for e in next_elements:
                 if e.text == "Next":
