@@ -54,6 +54,7 @@
         "xjtu-omics": "msisensor-pro",
         "biopython": "biopython",
         "biothings": "biothings_client.py",
-        "Edinburgh-Genome-Foundry": "DnaFeaturesViewer"
+        "Edinburgh-Genome-Foundry": "DnaFeaturesViewer",
+        "GeneDx": "phenopy"
     }
 }
