@@ -19,7 +19,9 @@
         "GregoryFaust": "samblaster",
         "shenwei356": "seqkit",
         "gpertea": "stringtie",
-        "shubhamchandak94": "Spring"
+        "shubhamchandak94": "Spring",
+        "seppinho": "haplogrep-cmd",
+        "andreas-wilm": "nimreadfq"
     },
     "teams": {
         "illumina": "strelka",
@@ -49,6 +51,9 @@
         "refresh-bio": "DSRC",
         "pysam-developers": "pysam",
         "igvteam": "igv",
-        "xjtu-omics": "msisensor-pro"
+        "xjtu-omics": "msisensor-pro",
+        "biopython": "biopython",
+        "biothings": "biothings_client.py",
+        "Edinburgh-Genome-Foundry": "DnaFeaturesViewer"
     }
 }
