@@ -12,55 +12,53 @@ Collection of bioinformatician and their repositories.
 | ID | User | Type |Name | Stars |
 | :-: | :-: | :-: | :-: | :-: |
 | 1 | [lh3](https://github.com/lh3) | One |Heng Li | 5239 |
-| 2 | [broadinstitute](https://github.com/broadinstitute) | Org |Broad Institute | 5164 |
+| 2 | [broadinstitute](https://github.com/broadinstitute) | Org |Broad Institute | 5169 |
 | 3 | [brentp](https://github.com/brentp) | One |Brent Pedersen | 3173 |
 | 4 | [samtools](https://github.com/samtools) | Org |samtools | 2461 |
 | 5 | [arq5x](https://github.com/arq5x) | One |Aaron Quinlan | 1792 |
 | 6 | [shenwei356](https://github.com/shenwei356) | One |Wei Shen | 1771 |
-| 7 | [biocore](https://github.com/biocore) | Org |biocore | 1717 |
-| 8 | [opengene](https://github.com/opengene) | Org |OpenGene - Open Source Genetics Toolbox | 1603 |
-| 9 | [illumina](https://github.com/illumina) | Org |Illumina | 1591 |
-| 10 | [griffithlab](https://github.com/griffithlab) | Org |The Griffith Lab | 1583 |
-| 11 | [ncbi](https://github.com/ncbi) | Org |NCBI - National Center for Biotechnology Information/NLM/NIH | 1551 |
-| 12 | [tseemann](https://github.com/tseemann) | One |Torsten Seemann | 1340 |
-| 13 | [bioconda](https://github.com/bioconda) | Org |Bioconda | 1276 |
-| 14 | [pacificbiosciences](https://github.com/pacificbiosciences) | Org |Pacific Biosciences | 1223 |
-| 15 | [ekg](https://github.com/ekg) | One |Erik Garrison | 1192 |
-| 16 | [ewels](https://github.com/ewels) | One |Phil Ewels | 1047 |
-| 17 | [deeptools](https://github.com/deeptools) | Org |The deepTools ecosystem | 1028 |
-| 18 | [benlangmead](https://github.com/benlangmead) | One |Ben | 1015 |
-| 19 | [igvteam](https://github.com/igvteam) | Org |igvteam | 974 |
-| 20 | [vgteam](https://github.com/vgteam) | Org |vgteam | 933 |
-| 21 | [ensembl](https://github.com/ensembl) | Org |Ensembl Project | 874 |
-| 22 | [tanghaibao](https://github.com/tanghaibao) | One |Haibao Tang | 851 |
-| 23 | [nf-core](https://github.com/nf-core) | Org |nf-core | 835 |
-| 24 | [statgen](https://github.com/statgen) | Org |Center for Statistical Genetics | 648 |
-| 25 | [openvax](https://github.com/openvax) | Org |OpenVax | 645 |
-| 26 | [daehwankimlab](https://github.com/daehwankimlab) | Org |Kim Lab at UT Southwestern Medical Center | 515 |
-| 27 | [daler](https://github.com/daler) | One |Ryan Dale | 508 |
-| 28 | [hall-lab](https://github.com/hall-lab) | Org |Ira Hall lab | 464 |
-| 29 | [pysam-developers](https://github.com/pysam-developers) | Org |pysam-developers | 454 |
-| 30 | [cgatoxford](https://github.com/cgatoxford) | Org |CGAT | 434 |
-| 31 | [biod](https://github.com/biod) | Org |BioD | 428 |
-| 32 | [wglab](https://github.com/wglab) | Org |Wang Genomics Lab | 421 |
-| 33 | [felixkrueger](https://github.com/felixkrueger) | One |Felix Krueger | 413 |
-| 34 | [bbuchfink](https://github.com/bbuchfink) | One |Benjamin Buchfink | 412 |
-| 35 | [gpertea](https://github.com/gpertea) | One |Geo Pertea | 408 |
-| 36 | [mdshw5](https://github.com/mdshw5) | One |Matt Shirley | 404 |
-| 37 | [bioinform](https://github.com/bioinform) | Org |The Bioinformatics Repository | 387 |
-| 38 | [genome](https://github.com/genome) | Org |The McDonnell Genome Institute | 366 |
-| 39 | [dzerbino](https://github.com/dzerbino) | One |Daniel Zerbino | 344 |
-| 40 | [qiime2](https://github.com/qiime2) | Org |QIIME 2 | 343 |
-| 41 | [benjjneb](https://github.com/benjjneb) | One |Benjamin Callahan | 337 |
-| 42 | [bwa-mem2](https://github.com/bwa-mem2) | Org |bwa-mem2 | 336 |
-| 43 | [ga4gh](https://github.com/ga4gh) | Org |Global Alliance for Genomics and Health | 329 |
-| 44 | [marianattestad](https://github.com/marianattestad) | One |Maria Nattestad | 312 |
-| 45 | [vcftools](https://github.com/vcftools) | Org |vcftools | 295 |
-| 46 | [ding-lab](https://github.com/ding-lab) | Org |Li Ding's Lab | 295 |
-| 47 | [refresh-bio](https://github.com/refresh-bio) | Org |REFRESH Bioinformatics Group | 293 |
-| 48 | [astrazeneca-ngs](https://github.com/astrazeneca-ngs) | Org |AstraZeneca - NGS Team | 281 |
-| 49 | [yongxinliu](https://github.com/yongxinliu) | One |Yong-Xin Liu | 280 |
-| 50 | [etal](https://github.com/etal) | One |Eric Talevich | 257 |
+| 7 | [opengene](https://github.com/opengene) | Org |OpenGene - Open Source Genetics Toolbox | 1604 |
+| 8 | [illumina](https://github.com/illumina) | Org |Illumina | 1591 |
+| 9 | [ncbi](https://github.com/ncbi) | Org |NCBI - National Center for Biotechnology Information/NLM/NIH | 1551 |
+| 10 | [bioconda](https://github.com/bioconda) | Org |Bioconda | 1276 |
+| 11 | [ekg](https://github.com/ekg) | One |Erik Garrison | 1193 |
+| 12 | [ewels](https://github.com/ewels) | One |Phil Ewels | 1046 |
+| 13 | [deeptools](https://github.com/deeptools) | Org |The deepTools ecosystem | 1028 |
+| 14 | [benlangmead](https://github.com/benlangmead) | One |Ben | 1015 |
+| 15 | [igvteam](https://github.com/igvteam) | Org |igvteam | 974 |
+| 16 | [ensembl](https://github.com/ensembl) | Org |Ensembl Project | 874 |
+| 17 | [daehwankimlab](https://github.com/daehwankimlab) | Org |Kim Lab at UT Southwestern Medical Center | 515 |
+| 18 | [pysam-developers](https://github.com/pysam-developers) | Org |pysam-developers | 454 |
+| 19 | [cgatoxford](https://github.com/cgatoxford) | Org |CGAT | 434 |
+| 20 | [biod](https://github.com/biod) | Org |BioD | 428 |
+| 21 | [wglab](https://github.com/wglab) | Org |Wang Genomics Lab | 421 |
+| 22 | [felixkrueger](https://github.com/felixkrueger) | One |Felix Krueger | 415 |
+| 23 | [bbuchfink](https://github.com/bbuchfink) | One |Benjamin Buchfink | 412 |
+| 24 | [gpertea](https://github.com/gpertea) | One |Geo Pertea | 408 |
+| 25 | [mdshw5](https://github.com/mdshw5) | One |Matt Shirley | 404 |
+| 26 | [bioinform](https://github.com/bioinform) | Org |The Bioinformatics Repository | 387 |
+| 27 | [dzerbino](https://github.com/dzerbino) | One |Daniel Zerbino | 344 |
+| 28 | [qiime2](https://github.com/qiime2) | Org |QIIME 2 | 343 |
+| 29 | [bwa-mem2](https://github.com/bwa-mem2) | Org |bwa-mem2 | 336 |
+| 30 | [ding-lab](https://github.com/ding-lab) | Org |Li Ding's Lab | 296 |
+| 31 | [vcftools](https://github.com/vcftools) | Org |vcftools | 295 |
+| 32 | [refresh-bio](https://github.com/refresh-bio) | Org |REFRESH Bioinformatics Group | 293 |
+| 33 | [astrazeneca-ngs](https://github.com/astrazeneca-ngs) | Org |AstraZeneca - NGS Team | 283 |
+| 34 | [etal](https://github.com/etal) | One |Eric Talevich | 257 |
+| 35 | [pcingola](https://github.com/pcingola) | One |Pablo Cingolani | 249 |
+| 36 | [dellytools](https://github.com/dellytools) | Org |delly | 224 |
+| 37 | [s-andrews](https://github.com/s-andrews) | One |Simon Andrews | 182 |
+| 38 | [gregoryfaust](https://github.com/gregoryfaust) | One |Gregory Faust | 171 |
+| 39 | [gt1](https://github.com/gt1) | One |German Tischler | 159 |
+| 40 | [atks](https://github.com/atks) | One |Adrian Tan | 151 |
+| 41 | [mozack](https://github.com/mozack) | One |Lisle Mose | 141 |
+| 42 | [abyzovlab](https://github.com/abyzovlab) | Org |Abyzov lab | 137 |
+| 43 | [humanlongevity](https://github.com/humanlongevity) | Org |Human Longevity, Inc. | 80 |
+| 44 | [mathonco](https://github.com/mathonco) | Org |IMO | 65 |
+| 45 | [shubhamchandak94](https://github.com/shubhamchandak94) | One |Shubham Chandak | 52 |
+| 46 | [niu-lab](https://github.com/niu-lab) | Org |Beifang Niu's Lab | 43 |
+| 47 | [pharmgkb](https://github.com/pharmgkb) | Org |PharmGKB | 40 |
+| 48 | [xjtu-omics](https://github.com/xjtu-omics) | Org |xjtu-omics | 17 |
 ## Repositories
 
 ##### [bioconda](https://github.com/bioconda)/[bioconda-recipes](https://github.com/bioconda/bioconda-recipes)
@@ -73,3838 +71,2263 @@ Conda recipes for the bioconda channel.
 ID = 2, Stars = 971, Language = C, Update = 2020-09-01
 
 Tools (written in C using htslib) for manipulating next-generation sequencing data
-##### [griffithlab](https://github.com/griffithlab)/[rnaseq_tutorial](https://github.com/griffithlab/rnaseq_tutorial)
-
-ID = 3, Stars = 970, Language = R, Update = 2020-06-19
-
-Informatics for RNA-seq: A web resource for analysis on the cloud. Educational tutorials and working pipelines for RNA-seq analysis including an introduction to: cloud computing, critical file formats, reference genomes, gene annotation, expression, differential expression, alternative splicing, data visualization, and interpretation.
 ##### [lh3](https://github.com/lh3)/[bwa](https://github.com/lh3/bwa)
 
-ID = 4, Stars = 889, Language = C, Update = 2020-08-19
+ID = 3, Stars = 889, Language = C, Update = 2020-08-19
 
 Burrow-Wheeler Aligner for short-read alignment (see minimap2 for long-read alignment)
 ##### [broadinstitute](https://github.com/broadinstitute)/[gatk](https://github.com/broadinstitute/gatk)
 
-ID = 5, Stars = 881, Language = Java, Update = 2020-09-01
+ID = 4, Stars = 881, Language = Java, Update = 2020-09-01
 
 Official code repository for GATK versions 4 and up
 ##### [opengene](https://github.com/opengene)/[fastp](https://github.com/OpenGene/fastp)
 
-ID = 6, Stars = 822, Language = C++, Update = 2020-07-21
+ID = 5, Stars = 822, Language = C++, Update = 2020-07-21
 
 An ultra-fast all-in-one FASTQ preprocessor (QC/adapters/trimming/filtering/splitting/merging...)
 ##### [lh3](https://github.com/lh3)/[minimap2](https://github.com/lh3/minimap2)
 
-ID = 7, Stars = 785, Language = C, Update = 2020-08-28
+ID = 6, Stars = 785, Language = C, Update = 2020-08-28
 
 A versatile pairwise aligner for genomic and spliced nucleotide sequences
 ##### [lh3](https://github.com/lh3)/[seqtk](https://github.com/lh3/seqtk)
 
-ID = 8, Stars = 721, Language = C, Update = 2020-06-16
+ID = 7, Stars = 721, Language = C, Update = 2020-06-16
 
 Toolkit for processing sequences in FASTA/Q formats
-##### [vgteam](https://github.com/vgteam)/[vg](https://github.com/vgteam/vg)
-
-ID = 9, Stars = 663, Language = C++, Update = 2020-09-02
-
-tools for working with genome variation graphs
 ##### [ewels](https://github.com/ewels)/[MultiQC](https://github.com/ewels/MultiQC)
 
-ID = 10, Stars = 643, Language = Python, Update = 2020-08-30
+ID = 8, Stars = 642, Language = Python, Update = 2020-08-30
 
 Aggregate results from bioinformatics analyses across many samples into a single report.
 ##### [arq5x](https://github.com/arq5x)/[bedtools2](https://github.com/arq5x/bedtools2)
 
-ID = 11, Stars = 624, Language = C, Update = 2020-08-19
+ID = 9, Stars = 624, Language = C, Update = 2020-08-19
 
 bedtools - the swiss army knife for genome arithmetic
 ##### [broadinstitute](https://github.com/broadinstitute)/[picard](https://github.com/broadinstitute/picard)
 
-ID = 12, Stars = 597, Language = Java, Update = 2020-09-02
+ID = 10, Stars = 597, Language = Java, Update = 2020-09-02
 
 A set of command line tools (in Java) for manipulating high-throughput sequencing (HTS) data and formats such as SAM/BAM/CRAM and VCF.
 ##### [broadinstitute](https://github.com/broadinstitute)/[cromwell](https://github.com/broadinstitute/cromwell)
 
-ID = 13, Stars = 590, Language = Scala, Update = 2020-09-01
+ID = 11, Stars = 590, Language = Scala, Update = 2020-09-01
 
 Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments
-##### [biocore](https://github.com/biocore)/[scikit-bio](https://github.com/biocore/scikit-bio)
-
-ID = 14, Stars = 564, Language = Python, Update = 2020-09-01
-
-scikit-bio is an open-source, BSD-licensed, Python package providing data structures, algorithms, and educational resources for bioinformatics.
 ##### [shenwei356](https://github.com/shenwei356)/[seqkit](https://github.com/shenwei356/seqkit)
 
-ID = 15, Stars = 525, Language = Go, Update = 2020-08-08
+ID = 12, Stars = 525, Language = Go, Update = 2020-08-08
 
 A cross-platform and ultrafast toolkit for FASTA/Q file manipulation in Golang
 ##### [broadinstitute](https://github.com/broadinstitute)/[keras-rcnn](https://github.com/broadinstitute/keras-rcnn)
 
-ID = 16, Stars = 515, Language = Python, Update = 2020-05-20
+ID = 13, Stars = 515, Language = Python, Update = 2020-05-20
 
 Keras package for region-based convolutional neural networks (RCNNs)
 ##### [shenwei356](https://github.com/shenwei356)/[csvtk](https://github.com/shenwei356/csvtk)
 
-ID = 17, Stars = 506, Language = Go, Update = 2020-08-20
+ID = 14, Stars = 506, Language = Go, Update = 2020-08-20
 
 A cross-platform, efficient and practical CSV/TSV toolkit in Golang
 ##### [samtools](https://github.com/samtools)/[htslib](https://github.com/samtools/htslib)
 
-ID = 18, Stars = 492, Language = C, Update = 2020-09-01
+ID = 15, Stars = 492, Language = C, Update = 2020-09-01
 
 C library for high-throughput sequencing data formats
 ##### [ekg](https://github.com/ekg)/[freebayes](https://github.com/ekg/freebayes)
 
-ID = 19, Stars = 486, Language = C++, Update = 2020-08-19
+ID = 16, Stars = 486, Language = C++, Update = 2020-08-19
 
 Bayesian haplotype-based genetic polymorphism discovery and genotyping.
 ##### [pysam-developers](https://github.com/pysam-developers)/[pysam](https://github.com/pysam-developers/pysam)
 
-ID = 20, Stars = 454, Language = C, Update = 2020-06-30
+ID = 17, Stars = 454, Language = C, Update = 2020-06-30
 
 Pysam is a Python module for reading and manipulating SAM/BAM/VCF/BCF files. It's a lightweight wrapper of the htslib C-API, the same one that powers samtools, bcftools, and tabix.
 ##### [ncbi](https://github.com/ncbi)/[sra-tools](https://github.com/ncbi/sra-tools)
 
-ID = 21, Stars = 452, Language = C, Update = 2020-09-01
+ID = 18, Stars = 452, Language = C, Update = 2020-09-01
 
 SRA Tools
 ##### [lh3](https://github.com/lh3)/[bioawk](https://github.com/lh3/bioawk)
 
-ID = 22, Stars = 436, Language = C, Update = 2019-09-15
+ID = 19, Stars = 436, Language = C, Update = 2019-09-15
 
 BWK awk modified for biological data
 ##### [deeptools](https://github.com/deeptools)/[deepTools](https://github.com/deeptools/deepTools)
 
-ID = 23, Stars = 413, Language = Python, Update = 2020-08-21
+ID = 20, Stars = 413, Language = Python, Update = 2020-08-21
 
 Tools to process and analyze deep sequencing data.
 ##### [bbuchfink](https://github.com/bbuchfink)/[diamond](https://github.com/bbuchfink/diamond)
 
-ID = 24, Stars = 412, Language = C++, Update = 2020-09-01
+ID = 21, Stars = 412, Language = C++, Update = 2020-09-01
 
 Accelerated BLAST compatible local sequence aligner.
 ##### [igvteam](https://github.com/igvteam)/[igv](https://github.com/igvteam/igv)
 
-ID = 25, Stars = 393, Language = Java, Update = 2020-08-23
+ID = 22, Stars = 393, Language = Java, Update = 2020-08-23
 
 Integrative Genomics Viewer. Fast, efficient, scalable visualization tool for genomics data and annotations
-##### [tseemann](https://github.com/tseemann)/[prokka](https://github.com/tseemann/prokka)
-
-ID = 26, Stars = 388, Language = Perl, Update = 2020-08-24
-
-⚡
-♒
-Rapid prokaryotic genome annotation
 ##### [samtools](https://github.com/samtools)/[hts-specs](https://github.com/samtools/hts-specs)
 
-ID = 27, Stars = 388, Language = TeX, Update = 2020-08-31
+ID = 23, Stars = 388, Language = TeX, Update = 2020-08-31
 
 Specifications of SAM/BAM and related high-throughput sequencing file formats
 ##### [biod](https://github.com/biod)/[sambamba](https://github.com/biod/sambamba)
 
-ID = 28, Stars = 385, Language = D, Update = 2020-08-12
+ID = 24, Stars = 385, Language = D, Update = 2020-08-12
 
 Tools for working with SAM/BAM/CRAM data
 ##### [deeptools](https://github.com/deeptools)/[pyGenomeTracks](https://github.com/deeptools/pyGenomeTracks)
 
-ID = 29, Stars = 381, Language = Python, Update = 2020-09-01
+ID = 25, Stars = 381, Language = Python, Update = 2020-09-01
 
 python module to plot beautiful and highly customizable genome browser tracks
 ##### [igvteam](https://github.com/igvteam)/[igv.js](https://github.com/igvteam/igv.js)
 
-ID = 30, Stars = 378, Language = JavaScript, Update = 2020-09-01
+ID = 26, Stars = 378, Language = JavaScript, Update = 2020-09-01
 
 Embeddable genomic visualization component based on the Integrative Genomics Viewer
-##### [pacificbiosciences](https://github.com/pacificbiosciences)/[Bioinformatics-Training](https://github.com/PacificBiosciences/Bioinformatics-Training)
-
-ID = 31, Stars = 369, Language = R, Update = 2017-09-14
-
-Bioinformatics training resources
-##### [tanghaibao](https://github.com/tanghaibao)/[goatools](https://github.com/tanghaibao/goatools)
-
-ID = 32, Stars = 359, Language = Python, Update = 2020-08-26
-
-Python library to handle Gene Ontology (GO) terms
-##### [tanghaibao](https://github.com/tanghaibao)/[jcvi](https://github.com/tanghaibao/jcvi)
-
-ID = 33, Stars = 347, Language = Python, Update = 2020-08-26
-
-Python library to facilitate genome assembly, annotation and comparative genomics
 ##### [bwa-mem2](https://github.com/bwa-mem2)/[bwa-mem2](https://github.com/bwa-mem2/bwa-mem2)
 
-ID = 34, Stars = 336, Language = C++, Update = 2020-08-28
+ID = 27, Stars = 336, Language = C++, Update = 2020-08-28
 
 The next version of bwa-mem
 ##### [brentp](https://github.com/brentp)/[mosdepth](https://github.com/brentp/mosdepth)
 
-ID = 35, Stars = 332, Language = Nim, Update = 2020-07-24
+ID = 28, Stars = 332, Language = Nim, Update = 2020-07-24
 
 fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing
 ##### [samtools](https://github.com/samtools)/[bcftools](https://github.com/samtools/bcftools)
 
-ID = 36, Stars = 323, Language = C, Update = 2020-09-01
+ID = 29, Stars = 323, Language = C, Update = 2020-09-01
 
 This is the official development repository for BCFtools. To compile, the develop branch of htslib is needed: git clone --branch=develop git://github.com/samtools/htslib.git htslib
 ##### [benlangmead](https://github.com/benlangmead)/[bowtie2](https://github.com/BenLangmead/bowtie2)
 
-ID = 37, Stars = 316, Language = C++, Update = 2020-09-01
+ID = 30, Stars = 316, Language = C++, Update = 2020-09-01
 
 A fast and sensitive gapped read aligner
 ##### [shenwei356](https://github.com/shenwei356)/[rush](https://github.com/shenwei356/rush)
 
-ID = 38, Stars = 315, Language = Go, Update = 2020-05-02
+ID = 31, Stars = 315, Language = Go, Update = 2020-05-02
 
 A cross-platform command-line tool for executing jobs in parallel
 ##### [vcftools](https://github.com/vcftools)/[vcftools](https://github.com/vcftools/vcftools)
 
-ID = 39, Stars = 295, Language = C++, Update = 2020-03-10
+ID = 32, Stars = 295, Language = C++, Update = 2020-03-10
 
 A set of tools written in Perl and C++ for working with VCF files, such as those generated by the 1000 Genomes Project.
 ##### [cgatoxford](https://github.com/cgatoxford)/[UMI-tools](https://github.com/CGATOxford/UMI-tools)
 
-ID = 40, Stars = 279, Language = Python, Update = 2020-08-13
+ID = 33, Stars = 279, Language = Python, Update = 2020-08-13
 
 Tools for handling Unique Molecular Identifiers in NGS data sets
 ##### [mdshw5](https://github.com/mdshw5)/[pyfaidx](https://github.com/mdshw5/pyfaidx)
 
-ID = 41, Stars = 278, Language = Python, Update = 2020-08-06
+ID = 34, Stars = 278, Language = Python, Update = 2020-08-06
 
 Efficient pythonic random access to fasta subsequences
 ##### [arq5x](https://github.com/arq5x)/[gemini](https://github.com/arq5x/gemini)
 
-ID = 42, Stars = 273, Language = Python, Update = 2020-04-28
+ID = 35, Stars = 273, Language = Python, Update = 2020-04-28
 
 a lightweight db framework for exploring genetic variation.
-##### [hall-lab](https://github.com/hall-lab)/[speedseq](https://github.com/hall-lab/speedseq)
-
-ID = 43, Stars = 270, Language = C, Update = 2018-02-08
-
-A flexible framework for rapid genome analysis and interpretation
-##### [biocore](https://github.com/biocore)/[qiime](https://github.com/biocore/qiime)
-
-ID = 44, Stars = 265, Language = Python, Update = 2018-01-23
-
-Official QIIME 1 software repository. QIIME 2 (https://qiime2.org) has succeeded QIIME 1 as of January 2018.
 ##### [etal](https://github.com/etal)/[cnvkit](https://github.com/etal/cnvkit)
 
-ID = 45, Stars = 257, Language = Python, Update = 2020-08-29
+ID = 36, Stars = 257, Language = Python, Update = 2020-08-29
 
 Copy number variant detection from targeted DNA sequencing
-##### [nanopore-wgs-consortium](https://github.com/nanopore-wgs-consortium)/[NA12878](https://github.com/nanopore-wgs-consortium/NA12878)
-
-ID = 46, Stars = 254, Language = Python, Update = 2020-01-25
-
-Data and analysis for NA12878 genome on nanopore
 ##### [daehwankimlab](https://github.com/daehwankimlab)/[hisat2](https://github.com/DaehwanKimLab/hisat2)
 
-ID = 47, Stars = 253, Language = C++, Update = 2020-09-01
+ID = 37, Stars = 253, Language = C++, Update = 2020-09-01
 
 Graph-based alignment (Hierarchical Graph FM index)
-##### [benjjneb](https://github.com/benjjneb)/[dada2](https://github.com/benjjneb/dada2)
-
-ID = 48, Stars = 245, Language = R, Update = 2020-08-31
-
-Accurate sample inference from amplicon data with single nucleotide resolution
 ##### [brentp](https://github.com/brentp)/[vcfanno](https://github.com/brentp/vcfanno)
 
-ID = 49, Stars = 241, Language = Go, Update = 2020-04-15
+ID = 38, Stars = 241, Language = Go, Update = 2020-04-15
 
 annotate a VCF with other VCFs/BEDs/tabixed files
 ##### [illumina](https://github.com/illumina)/[manta](https://github.com/Illumina/manta)
 
-ID = 50, Stars = 238, Language = C++, Update = 2019-07-17
+ID = 39, Stars = 238, Language = C++, Update = 2019-07-17
 
 Structural variant and indel caller for mapped sequencing data
 ##### [broadinstitute](https://github.com/broadinstitute)/[keras-resnet](https://github.com/broadinstitute/keras-resnet)
 
-ID = 51, Stars = 232, Language = Python, Update = 2020-07-25
+ID = 40, Stars = 233, Language = Python, Update = 2020-07-25
 
 Keras package for deep residual networks
-##### [openvax](https://github.com/openvax)/[pyensembl](https://github.com/openvax/pyensembl)
-
-ID = 52, Stars = 230, Language = Python, Update = 2020-08-28
-
-Python interface to access reference genome features (such as genes, transcripts, and exons) from Ensembl
 ##### [qiime2](https://github.com/qiime2)/[qiime2](https://github.com/qiime2/qiime2)
 
-ID = 53, Stars = 230, Language = Python, Update = 2020-08-24
+ID = 41, Stars = 230, Language = Python, Update = 2020-08-24
 
 Official repository for the QIIME 2 framework.
 ##### [dzerbino](https://github.com/dzerbino)/[velvet](https://github.com/dzerbino/velvet)
 
-ID = 54, Stars = 226, Language = C, Update = 2018-07-05
+ID = 42, Stars = 226, Language = C, Update = 2018-07-05
 
 Short read de novo assembler using de Bruijn graphs
 ##### [ensembl](https://github.com/ensembl)/[ensembl-vep](https://github.com/Ensembl/ensembl-vep)
 
-ID = 55, Stars = 224, Language = Perl, Update = 2020-08-28
+ID = 43, Stars = 224, Language = Perl, Update = 2020-08-28
 
 The Ensembl Variant Effect Predictor predicts the functional effects of genomic variants
 ##### [arq5x](https://github.com/arq5x)/[poretools](https://github.com/arq5x/poretools)
 
-ID = 56, Stars = 223, Language = Jupyter Notebook, Update = 2017-12-16
+ID = 44, Stars = 223, Language = Jupyter Notebook, Update = 2017-12-16
 
 a toolkit for working with Oxford nanopore data
 ##### [illumina](https://github.com/illumina)/[hap.py](https://github.com/Illumina/hap.py)
 
-ID = 57, Stars = 223, Language = C++, Update = 2020-02-27
+ID = 45, Stars = 223, Language = C++, Update = 2020-02-27
 
 Haplotype VCF comparison tools
 ##### [illumina](https://github.com/illumina)/[strelka](https://github.com/Illumina/strelka)
 
-ID = 58, Stars = 215, Language = C++, Update = 2019-09-26
+ID = 46, Stars = 215, Language = C++, Update = 2019-09-26
 
 Strelka2 germline and somatic small variant caller
 ##### [brentp](https://github.com/brentp)/[cyvcf2](https://github.com/brentp/cyvcf2)
 
-ID = 59, Stars = 214, Language = Python, Update = 2020-08-31
+ID = 47, Stars = 214, Language = Python, Update = 2020-08-31
 
 cython + htslib == fast VCF and BCF processing
-##### [nf-core](https://github.com/nf-core)/[rnaseq](https://github.com/nf-core/rnaseq)
-
-ID = 60, Stars = 214, Language = Nextflow, Update = 2020-09-01
-
-RNA sequencing analysis pipeline using STAR, HISAT2 and Salmon with gene counts and quality control
 ##### [samtools](https://github.com/samtools)/[htsjdk](https://github.com/samtools/htsjdk)
 
-ID = 61, Stars = 213, Language = Java, Update = 2020-09-01
+ID = 48, Stars = 213, Language = Java, Update = 2020-09-01
 
 A Java API for high-throughput sequencing data (HTS) formats.
 ##### [dellytools](https://github.com/dellytools)/[delly](https://github.com/dellytools/delly)
 
-ID = 62, Stars = 213, Language = C++, Update = 2020-08-28
+ID = 49, Stars = 213, Language = C++, Update = 2020-08-28
 
 DELLY2: Structural variant discovery by integrated paired-end and split-read analysis
 ##### [benlangmead](https://github.com/benlangmead)/[comp-genomics-class](https://github.com/BenLangmead/comp-genomics-class)
 
-ID = 63, Stars = 211, Language = Jupyter Notebook, Update = 2019-10-29
+ID = 50, Stars = 211, Language = Jupyter Notebook, Update = 2019-10-29
 
 Code and examples for JHU Computational Genomics class
-##### [tseemann](https://github.com/tseemann)/[snippy](https://github.com/tseemann/snippy)
-
-ID = 64, Stars = 211, Language = Perl, Update = 2020-08-03
-
-✂️
-⚡
-Rapid haploid variant calling and core genome alignment
 ##### [benlangmead](https://github.com/benlangmead)/[bowtie](https://github.com/BenLangmead/bowtie)
 
-ID = 65, Stars = 210, Language = C++, Update = 2020-08-24
+ID = 51, Stars = 210, Language = C++, Update = 2020-08-24
 
 An ultrafast memory-efficient short read aligner
 ##### [benlangmead](https://github.com/benlangmead)/[c-cpp-notes](https://github.com/BenLangmead/c-cpp-notes)
 
-ID = 66, Stars = 209, Language = Python, Update = 2020-05-09
+ID = 52, Stars = 209, Language = Python, Update = 2020-05-09
 
 Lecture notes and example code for teaching C & C++
 ##### [lh3](https://github.com/lh3)/[miniasm](https://github.com/lh3/miniasm)
 
-ID = 67, Stars = 208, Language = TeX, Update = 2020-04-03
+ID = 53, Stars = 208, Language = TeX, Update = 2020-04-03
 
 Ultrafast de novo assembly for long noisy reads (though having no consensus step)
-##### [daler](https://github.com/daler)/[pybedtools](https://github.com/daler/pybedtools)
-
-ID = 68, Stars = 206, Language = Python, Update = 2020-07-08
-
-Python wrapper -- and more -- for Aaron Quinlan's BEDTools (bioinformatics tools)
 ##### [felixkrueger](https://github.com/felixkrueger)/[TrimGalore](https://github.com/FelixKrueger/TrimGalore)
 
-ID = 69, Stars = 206, Language = Perl, Update = 2020-05-11
+ID = 54, Stars = 206, Language = Perl, Update = 2020-05-11
 
 A wrapper around Cutadapt and FastQC to consistently apply adapter and quality trimming to FastQ files, with extra functionality for RRBS data
 ##### [arq5x](https://github.com/arq5x)/[lumpy-sv](https://github.com/arq5x/lumpy-sv)
 
-ID = 70, Stars = 204, Language = C, Update = 2019-04-16
+ID = 55, Stars = 204, Language = C, Update = 2019-04-16
 
 lumpy: a general probabilistic framework for structural variant discovery
 ##### [broadinstitute](https://github.com/broadinstitute)/[pilon](https://github.com/broadinstitute/pilon)
 
-ID = 71, Stars = 203, Language = Scala, Update = 2020-02-20
+ID = 56, Stars = 203, Language = Scala, Update = 2020-02-20
 
 Pilon is an automated genome assembly improvement and variant detection tool
-##### [pacificbiosciences](https://github.com/pacificbiosciences)/[FALCON](https://github.com/PacificBiosciences/FALCON)
-
-ID = 72, Stars = 187, Language = Python, Update = 2018-10-01
-
-FALCON: experimental PacBio diploid assembler -- Out-of-date -- Please use a binary release: https://github.com/PacificBiosciences/FALCON_unzip/wiki/Binaries
-##### [maxplanck-ie](https://github.com/maxplanck-ie)/[snakepipes](https://github.com/maxplanck-ie/snakepipes)
-
-ID = 73, Stars = 186, Language = Python, Update = 2020-09-01
-
-Customizable workflows based on snakemake and python for the analysis of NGS data
 ##### [felixkrueger](https://github.com/felixkrueger)/[Bismark](https://github.com/FelixKrueger/Bismark)
 
-ID = 74, Stars = 175, Language = HTML, Update = 2020-04-28
+ID = 57, Stars = 176, Language = HTML, Update = 2020-04-28
 
 A tool to map bisulfite converted sequence reads and determine cytosine methylation states
-##### [gpertea](https://github.com/gpertea)/[stringtie](https://github.com/gpertea/stringtie) *new+*
+##### [gpertea](https://github.com/gpertea)/[stringtie](https://github.com/gpertea/stringtie)
 
-ID = 75, Stars = 169, Language = C++, Update = 2020-08-25
+ID = 58, Stars = 169, Language = C++, Update = 2020-08-25
 
 Transcript assembly and quantification for RNA-Seq
 ##### [ekg](https://github.com/ekg)/[intervaltree](https://github.com/ekg/intervaltree)
 
-ID = 76, Stars = 169, Language = C++, Update = 2020-06-18
+ID = 59, Stars = 169, Language = C++, Update = 2020-06-18
 
 a minimal C++ interval tree implementation
-##### [griffithlab](https://github.com/griffithlab)/[GenVisR](https://github.com/griffithlab/GenVisR)
-
-ID = 77, Stars = 167, Language = R, Update = 2020-06-08
-
-Genome data visualizations
 ##### [broadinstitute](https://github.com/broadinstitute)/[infercnv](https://github.com/broadinstitute/infercnv)
 
-ID = 78, Stars = 167, Language = R, Update = 2020-07-20
+ID = 60, Stars = 167, Language = R, Update = 2020-07-20
 
 Inferring CNV from Single-Cell RNA-Seq
 ##### [opengene](https://github.com/opengene)/[AfterQC](https://github.com/OpenGene/AfterQC)
 
-ID = 79, Stars = 166, Language = Python, Update = 2020-05-14
+ID = 61, Stars = 166, Language = Python, Update = 2020-05-14
 
 Automatic Filtering, Trimming, Error Removing and Quality Control for fastq data
-##### [eweitz](https://github.com/eweitz)/[ideogram](https://github.com/eweitz/ideogram)
-
-ID = 80, Stars = 165, Language = JavaScript, Update = 2020-08-31
-
-Chromosome visualization for the web
 ##### [lh3](https://github.com/lh3)/[wgsim](https://github.com/lh3/wgsim)
 
-ID = 81, Stars = 165, Language = C, Update = 2019-10-02
+ID = 62, Stars = 165, Language = C, Update = 2019-10-02
 
 Reads simulator
 ##### [brentp](https://github.com/brentp)/[goleft](https://github.com/brentp/goleft)
 
-ID = 82, Stars = 164, Language = Go, Update = 2020-02-04
+ID = 63, Stars = 164, Language = Go, Update = 2020-02-04
 
 goleft is a collection of bioinformatics tools distributed under MIT license in a single static binary
 ##### [broadinstitute](https://github.com/broadinstitute)/[gtex-pipeline](https://github.com/broadinstitute/gtex-pipeline)
 
-ID = 83, Stars = 164, Language = Python, Update = 2020-08-21
+ID = 64, Stars = 164, Language = Python, Update = 2020-08-21
 
 GTEx & TOPMed data production and analysis pipelines
-##### [genome](https://github.com/genome)/[bam-readcount](https://github.com/genome/bam-readcount)
-
-ID = 84, Stars = 164, Language = Python, Update = 2020-02-10
-
-count DNA sequence reads in BAM files
-##### [marianattestad](https://github.com/marianattestad)/[Ribbon](https://github.com/MariaNattestad/Ribbon)
-
-ID = 85, Stars = 161, Language = JavaScript, Update = 2020-08-14
-
-A genome browser that shows long reads and complex variants better
 ##### [ncbi](https://github.com/ncbi)/[PubReader](https://github.com/ncbi/PubReader)
 
-ID = 86, Stars = 159, Language = JavaScript, Update = 2018-06-21
+ID = 65, Stars = 159, Language = JavaScript, Update = 2018-06-21
 
 A new way to view journal articles
-##### [sigven](https://github.com/sigven)/[pcgr](https://github.com/sigven/pcgr)
-
-ID = 87, Stars = 152, Language = R, Update = 2020-02-25
-
-Personal Cancer Genome Reporter (PCGR)
-##### [atks](https://github.com/atks)/[vt](https://github.com/atks/vt)
-
-ID = 88, Stars = 151, Language = C, Update = 2020-03-31
-
-A tool set for short variant discovery in genetic sequence data.
 ##### [lh3](https://github.com/lh3)/[minigraph](https://github.com/lh3/minigraph)
 
-ID = 89, Stars = 151, Language = C, Update = 2020-07-03
+ID = 66, Stars = 151, Language = C, Update = 2020-07-03
 
 Proof-of-concept seq-to-graph mapper and graph generator
+##### [atks](https://github.com/atks)/[vt](https://github.com/atks/vt)
+
+ID = 67, Stars = 151, Language = C, Update = 2020-03-31
+
+A tool set for short variant discovery in genetic sequence data.
 ##### [gregoryfaust](https://github.com/gregoryfaust)/[samblaster](https://github.com/GregoryFaust/samblaster)
 
-ID = 90, Stars = 150, Language = C++, Update = 2020-06-04
+ID = 68, Stars = 150, Language = C++, Update = 2020-06-04
 
 samblaster: a tool to mark duplicates and extract discordant and split reads from sam files.
 ##### [brentp](https://github.com/brentp)/[bio-playground](https://github.com/brentp/bio-playground)
 
-ID = 91, Stars = 150, Language = C, Update = 2018-11-26
+ID = 69, Stars = 150, Language = C, Update = 2018-11-26
 
 miscellaneous scripts for bioinformatics/genomics that dont merit their own repo.
-##### [daler](https://github.com/daler)/[gffutils](https://github.com/daler/gffutils)
+##### [gpertea](https://github.com/gpertea)/[gffread](https://github.com/gpertea/gffread)
 
-ID = 92, Stars = 149, Language = Python, Update = 2020-07-28
-
-GFF and GTF file manipulation and interconversion
-##### [bioinformaticsfmrp](https://github.com/bioinformaticsfmrp)/[TCGAbiolinks](https://github.com/BioinformaticsFMRP/TCGAbiolinks)
-
-ID = 93, Stars = 149, Language = R, Update = 2020-08-25
-
-TCGAbiolinks
-##### [gpertea](https://github.com/gpertea)/[gffread](https://github.com/gpertea/gffread) *new+*
-
-ID = 94, Stars = 140, Language = C++, Update = 2020-08-25
+ID = 70, Stars = 140, Language = C++, Update = 2020-08-25
 
 GFF/GTF utility providing format conversions, region filtering, FASTA sequence extraction and more
 ##### [ekg](https://github.com/ekg)/[fraction.js](https://github.com/ekg/fraction.js)
 
-ID = 95, Stars = 139, Language = JavaScript, Update = 2018-07-25
+ID = 71, Stars = 139, Language = JavaScript, Update = 2018-07-25
 
 A fraction math library in javascript.
 ##### [illumina](https://github.com/illumina)/[SpliceAI](https://github.com/Illumina/SpliceAI)
 
-ID = 96, Stars = 139, Language = Python, Update = 2020-05-15
+ID = 72, Stars = 139, Language = Python, Update = 2020-05-15
 
 A deep learning-based tool to identify splice variants
-##### [daehwankimlab](https://github.com/daehwankimlab)/[centrifuge](https://github.com/DaehwanKimLab/centrifuge)
-
-ID = 97, Stars = 139, Language = C++, Update = 2020-08-17
-
-Classifier for metagenomic sequences
 ##### [broadinstitute](https://github.com/broadinstitute)/[viral-ngs](https://github.com/broadinstitute/viral-ngs)
 
-ID = 98, Stars = 139, Language = Python, Update = 2020-05-20
+ID = 73, Stars = 139, Language = Python, Update = 2020-05-20
 
 Viral genomics analysis pipelines
+##### [daehwankimlab](https://github.com/daehwankimlab)/[centrifuge](https://github.com/DaehwanKimLab/centrifuge)
+
+ID = 74, Stars = 139, Language = C++, Update = 2020-08-17
+
+Classifier for metagenomic sequences
 ##### [arq5x](https://github.com/arq5x)/[bedtools](https://github.com/arq5x/bedtools)
 
-ID = 99, Stars = 131, Language = C++, Update = 2019-03-10
+ID = 75, Stars = 131, Language = C++, Update = 2019-03-10
 
 A powerful toolset for genome arithmetic.
 ##### [s-andrews](https://github.com/s-andrews)/[FastQC](https://github.com/s-andrews/FastQC)
 
-ID = 100, Stars = 127, Language = Java, Update = 2020-08-18
+ID = 76, Stars = 127, Language = Java, Update = 2020-08-18
 
 A quality control analysis tool for high throughput sequencing data
 ##### [brentp](https://github.com/brentp)/[hts-nim](https://github.com/brentp/hts-nim)
 
-ID = 101, Stars = 127, Language = Nim, Update = 2020-09-01
+ID = 77, Stars = 127, Language = Nim, Update = 2020-09-01
 
 nim wrapper for htslib for parsing genomics data files
 ##### [brentp](https://github.com/brentp)/[smoove](https://github.com/brentp/smoove)
 
-ID = 102, Stars = 127, Language = Go, Update = 2019-11-11
+ID = 78, Stars = 127, Language = Go, Update = 2019-11-11
 
 structural variant calling and genotyping with existing tools, but, smoothly.
 ##### [astrazeneca-ngs](https://github.com/astrazeneca-ngs)/[VarDict](https://github.com/AstraZeneca-NGS/VarDict)
 
-ID = 103, Stars = 126, Language = Perl, Update = 2020-08-25
+ID = 79, Stars = 127, Language = Perl, Update = 2020-09-02
 
 VarDict
 ##### [abyzovlab](https://github.com/abyzovlab)/[CNVnator](https://github.com/abyzovlab/CNVnator)
 
-ID = 104, Stars = 125, Language = C++, Update = 2020-07-07
+ID = 80, Stars = 125, Language = C++, Update = 2020-07-07
 
 a tool for CNV discovery and genotyping from depth-of-coverage by mapped reads
-##### [tseemann](https://github.com/tseemann)/[abricate](https://github.com/tseemann/abricate)
-
-ID = 105, Stars = 124, Language = Perl, Update = 2020-05-12
-
-🔎
-💊
-Mass screening of contigs for antimicrobial and virulence genes
 ##### [cgatoxford](https://github.com/cgatoxford)/[cgat](https://github.com/CGATOxford/cgat)
 
-ID = 106, Stars = 118, Language = Python, Update = 2018-11-08
+ID = 81, Stars = 118, Language = Python, Update = 2018-11-08
 
 Do not use - please refer to our newest code: https://github.com/cgat-developers/cgat-apps
-##### [ga4gh](https://github.com/ga4gh)/[benchmarking-tools](https://github.com/ga4gh/benchmarking-tools)
-
-ID = 107, Stars = 118, Language = HTML, Update = 2020-04-07
-
-Repository for the GA4GH Benchmarking Team work developing standardized benchmarking methods for germline small variant calls
-##### [bioinform](https://github.com/bioinform)/[neusomatic](https://github.com/bioinform/neusomatic)
-
-ID = 108, Stars = 117, Language = Python, Update = 2020-07-30
-
-NeuSomatic: Deep convolutional neural networks for accurate somatic mutation detection
 ##### [deeptools](https://github.com/deeptools)/[pyBigWig](https://github.com/deeptools/pyBigWig)
 
-ID = 109, Stars = 117, Language = C, Update = 2020-05-02
+ID = 82, Stars = 117, Language = C, Update = 2020-05-02
 
 A python extension for quick access to bigWig and bigBed files
-##### [pacificbiosciences](https://github.com/pacificbiosciences)/[blasr](https://github.com/PacificBiosciences/blasr)
+##### [bioinform](https://github.com/bioinform)/[neusomatic](https://github.com/bioinform/neusomatic)
 
-ID = 110, Stars = 116, Language = C++, Update = 2020-06-04
+ID = 83, Stars = 117, Language = Python, Update = 2020-07-30
 
-BLASR: The PacBio® long read aligner
+NeuSomatic: Deep convolutional neural networks for accurate somatic mutation detection
 ##### [shenwei356](https://github.com/shenwei356)/[brename](https://github.com/shenwei356/brename)
 
-ID = 111, Stars = 115, Language = Go, Update = 2020-05-02
+ID = 84, Stars = 115, Language = Go, Update = 2020-05-02
 
 A practical cross-platform command-line tool for safely batch renaming files/directories via regular expression
-##### [ocxtal](https://github.com/ocxtal)/[minialign](https://github.com/ocxtal/minialign)
-
-ID = 112, Stars = 114, Language = C, Update = 2018-09-10
-
-fast and accurate alignment tool for PacBio and Nanopore long reads
 ##### [lh3](https://github.com/lh3)/[readfq](https://github.com/lh3/readfq)
 
-ID = 113, Stars = 114, Language = C, Update = 2019-08-09
+ID = 85, Stars = 114, Language = C, Update = 2019-08-09
 
 Fast multi-line FASTA/Q reader in several programming languages
 ##### [brentp](https://github.com/brentp)/[cruzdb](https://github.com/brentp/cruzdb)
 
-ID = 114, Stars = 113, Language = Python, Update = 2020-08-27
+ID = 86, Stars = 113, Language = Python, Update = 2020-08-27
 
 python access to UCSC genomes database
-##### [papenfusslab](https://github.com/papenfusslab)/[gridss](https://github.com/PapenfussLab/gridss)
-
-ID = 115, Stars = 112, Language = Java, Update = 2020-09-02
-
-GRIDSS: the Genomic Rearrangement IDentification Software Suite
 ##### [brentp](https://github.com/brentp)/[somalier](https://github.com/brentp/somalier)
 
-ID = 116, Stars = 111, Language = Nim, Update = 2020-07-14
+ID = 87, Stars = 111, Language = Nim, Update = 2020-07-14
 
 fast sample-swap and relatedness checks on BAMs/CRAMs/VCFs/GVCFs... "like damn that is one smart wine guy"
 ##### [lh3](https://github.com/lh3)/[kmer-cnt](https://github.com/lh3/kmer-cnt)
 
-ID = 117, Stars = 110, Language = C++, Update = 2020-03-10
+ID = 88, Stars = 110, Language = C++, Update = 2020-03-10
 
 Code examples of fast and simple k-mer counters for tutorial purposes
 ##### [opengene](https://github.com/opengene)/[MutScan](https://github.com/OpenGene/MutScan)
 
-ID = 118, Stars = 110, Language = C, Update = 2020-01-21
+ID = 89, Stars = 110, Language = C, Update = 2020-01-21
 
 Detect and visualize target mutations by scanning FastQ files directly
 ##### [lh3](https://github.com/lh3)/[cgranges](https://github.com/lh3/cgranges)
 
-ID = 119, Stars = 108, Language = C, Update = 2020-07-29
+ID = 90, Stars = 108, Language = C, Update = 2020-07-29
 
 A C/C++ library for fast interval overlap queries (with a "bedtools coverage" example)
 ##### [refresh-bio](https://github.com/refresh-bio)/[KMC](https://github.com/refresh-bio/KMC)
 
-ID = 120, Stars = 108, Language = C++, Update = 2020-07-10
+ID = 91, Stars = 108, Language = C++, Update = 2020-07-10
 
 Fast and frugal disk based k-mer counter
-##### [vibansal](https://github.com/vibansal)/[HapCUT2](https://github.com/vibansal/HapCUT2)
-
-ID = 121, Stars = 107, Language = C, Update = 2020-07-16
-
-software tools for haplotype assembly from sequence data
-##### [biocore](https://github.com/biocore)/[emp](https://github.com/biocore/emp)
-
-ID = 122, Stars = 106, Language = Jupyter Notebook, Update = 2020-08-05
-
-Code repository of the Earth Microbiome Project.
-##### [tseemann](https://github.com/tseemann)/[shovill](https://github.com/tseemann/shovill)
-
-ID = 123, Stars = 105, Language = Perl, Update = 2020-08-03
-
-⚡
-♠️
-Assemble bacterial isolate genomes from Illumina paired-end reads
-##### [bioinform](https://github.com/bioinform)/[somaticseq](https://github.com/bioinform/somaticseq)
-
-ID = 124, Stars = 105, Language = Python, Update = 2020-09-01
-
-An ensemble approach to accurately detect somatic mutations using SomaticSeq
-##### [wglab](https://github.com/wglab)/[InterVar](https://github.com/WGLab/InterVar)
-
-ID = 125, Stars = 105, Language = Python, Update = 2020-01-02
-
-A bioinformatics software tool for clinical interpretation of genetic variants by the 2015 ACMG-AMP guideline
 ##### [ncbi](https://github.com/ncbi)/[pgap](https://github.com/ncbi/pgap)
 
-ID = 126, Stars = 105, Language = Common Workflow Language, Update = 2020-08-27
+ID = 92, Stars = 105, Language = Common Workflow Language, Update = 2020-08-27
 
 NCBI Prokaryotic Genome Annotation Pipeline
+##### [wglab](https://github.com/wglab)/[InterVar](https://github.com/WGLab/InterVar)
+
+ID = 93, Stars = 105, Language = Python, Update = 2020-01-02
+
+A bioinformatics software tool for clinical interpretation of genetic variants by the 2015 ACMG-AMP guideline
+##### [bioinform](https://github.com/bioinform)/[somaticseq](https://github.com/bioinform/somaticseq)
+
+ID = 94, Stars = 105, Language = Python, Update = 2020-09-02
+
+An ensemble approach to accurately detect somatic mutations using SomaticSeq
 ##### [igvteam](https://github.com/igvteam)/[igv-jupyter](https://github.com/igvteam/igv-jupyter)
 
-ID = 127, Stars = 104, Language = Python, Update = 2019-10-11
+ID = 95, Stars = 104, Language = Python, Update = 2019-10-11
 
 Extension for Jupyter Notebook which integrates igv.js
-##### [vals](https://github.com/vals)/[umis](https://github.com/vals/umis)
-
-ID = 128, Stars = 103, Language = Python, Update = 2020-03-28
-
-Tools for processing UMI RNA-tag data
 ##### [ncbi](https://github.com/ncbi)/[ngs](https://github.com/ncbi/ngs)
 
-ID = 129, Stars = 103, Language = C++, Update = 2020-07-21
+ID = 96, Stars = 103, Language = C++, Update = 2020-07-21
 
 NGS Language Bindings
 ##### [illumina](https://github.com/illumina)/[pyflow](https://github.com/Illumina/pyflow)
 
-ID = 130, Stars = 101, Language = Python, Update = 2020-07-01
+ID = 97, Stars = 101, Language = Python, Update = 2020-07-01
 
 A lightweight parallel task engine
 ##### [deeptools](https://github.com/deeptools)/[HiCExplorer](https://github.com/deeptools/HiCExplorer)
 
-ID = 131, Stars = 101, Language = Python, Update = 2020-09-01
+ID = 98, Stars = 101, Language = Python, Update = 2020-09-01
 
 HiCExplorer is a powerful and easy to use set of tools to process, normalize and visualize Hi-C data.
 ##### [lh3](https://github.com/lh3)/[minimap](https://github.com/lh3/minimap)
 
-ID = 132, Stars = 100, Language = C, Update = 2017-09-20
+ID = 99, Stars = 100, Language = C, Update = 2017-09-20
 
 This repo is DEPRECATED. Please use minimap2, the successor of minimap.
-##### [alimanfoo](https://github.com/alimanfoo)/[pysamstats](https://github.com/alimanfoo/pysamstats)
-
-ID = 133, Stars = 99, Language = Python, Update = 2020-09-01
-
-A fast Python and command-line utility for extracting simple statistics against genome positions based on sequence alignments from a SAM or BAM file.
 ##### [brentp](https://github.com/brentp)/[nim-plotly](https://github.com/brentp/nim-plotly)
 
-ID = 134, Stars = 99, Language = Nim, Update = 2020-07-03
+ID = 100, Stars = 99, Language = Nim, Update = 2020-07-03
 
 plotting library for nim-lang
 ##### [broadinstitute](https://github.com/broadinstitute)/[xtermcolor](https://github.com/broadinstitute/xtermcolor)
 
-ID = 135, Stars = 99, Language = Python, Update = 2017-10-08
+ID = 101, Stars = 99, Language = Python, Update = 2017-10-08
 
 Python library for terminal color support (including 256-color support)
 ##### [ensembl](https://github.com/ensembl)/[WiggleTools](https://github.com/Ensembl/WiggleTools)
 
-ID = 136, Stars = 98, Language = C, Update = 2020-08-20
+ID = 102, Stars = 98, Language = C, Update = 2020-08-20
 
 Basic operations on the space of numerical functions defined on the genome using lazy evaluators for flexibility and efficiency
-##### [sunbeam-labs](https://github.com/sunbeam-labs)/[sunbeam](https://github.com/sunbeam-labs/sunbeam)
-
-ID = 137, Stars = 98, Language = Python, Update = 2020-07-15
-
-A robust, extensible metagenomics pipeline
 ##### [ding-lab](https://github.com/ding-lab)/[msisensor](https://github.com/ding-lab/msisensor)
 
-ID = 138, Stars = 97, Language = C++, Update = 2020-07-07
+ID = 103, Stars = 98, Language = C++, Update = 2020-07-07
 
 microsatellite instability detection using tumor only or paired tumor-normal data
-##### [a-slide](https://github.com/a-slide)/[pycoQC](https://github.com/a-slide/pycoQC)
-
-ID = 139, Stars = 96, Language = Python, Update = 2020-08-14
-
-pycoQC computes metrics and generates Interactive QC plots from the sequencing summary report generated by Oxford Nanopore technologies basecaller (Albacore/Guppy)
 ##### [pcingola](https://github.com/pcingola)/[SnpEff](https://github.com/pcingola/SnpEff)
 
-ID = 140, Stars = 96, Language = Java, Update = 2020-08-19
+ID = 104, Stars = 96, Language = Java, Update = 2020-08-19
 
 None
 ##### [ensembl](https://github.com/ensembl)/[ensembl-rest](https://github.com/Ensembl/ensembl-rest)
 
-ID = 141, Stars = 96, Language = Perl, Update = 2020-08-13
+ID = 105, Stars = 96, Language = Perl, Update = 2020-08-13
 
 Language agnostic RESTful data access to Ensembl data over HTTP
 ##### [brentp](https://github.com/brentp)/[peddy](https://github.com/brentp/peddy)
 
-ID = 142, Stars = 95, Language = Jupyter Notebook, Update = 2020-07-03
+ID = 106, Stars = 95, Language = Jupyter Notebook, Update = 2020-07-03
 
 genotype :: ped correspondence check, ancestry check, sex check. directly, quickly on VCF
-##### [openvax](https://github.com/openvax)/[mhcflurry](https://github.com/openvax/mhcflurry)
-
-ID = 143, Stars = 94, Language = Python, Update = 2020-07-24
-
-Peptide-MHC I binding affinity prediction
-##### [vgteam](https://github.com/vgteam)/[sequenceTubeMap](https://github.com/vgteam/sequenceTubeMap)
-
-ID = 144, Stars = 94, Language = JavaScript, Update = 2020-08-27
-
-displays multiple genomic sequences in the form of a tube map
-##### [brentp](https://github.com/brentp)/[slivar](https://github.com/brentp/slivar)
-
-ID = 145, Stars = 91, Language = Nim, Update = 2020-08-21
-
-variant expressions, annotation, and filtering for great good.
 ##### [lh3](https://github.com/lh3)/[biofast](https://github.com/lh3/biofast)
 
-ID = 146, Stars = 91, Language = C, Update = 2020-07-08
+ID = 107, Stars = 91, Language = C, Update = 2020-07-08
 
 Benchmarking programming languages/implementations for common tasks in Bioinformatics
+##### [brentp](https://github.com/brentp)/[slivar](https://github.com/brentp/slivar)
+
+ID = 108, Stars = 91, Language = Nim, Update = 2020-08-21
+
+variant expressions, annotation, and filtering for great good.
 ##### [illumina](https://github.com/illumina)/[Nirvana](https://github.com/Illumina/Nirvana)
 
-ID = 147, Stars = 91, Language = C#, Update = 2020-07-29
+ID = 109, Stars = 91, Language = C#, Update = 2020-07-29
 
 The nimble & robust variant annotator
-##### [biocore](https://github.com/biocore)/[American-Gut](https://github.com/biocore/American-Gut)
-
-ID = 148, Stars = 91, Language = Jupyter Notebook, Update = 2017-03-17
-
-American Gut open-access data and IPython notebooks
 ##### [mdshw5](https://github.com/mdshw5)/[fastqp](https://github.com/mdshw5/fastqp)
 
-ID = 149, Stars = 90, Language = Python, Update = 2018-05-29
+ID = 110, Stars = 90, Language = Python, Update = 2018-05-29
 
 Simple FASTQ quality assessment using Python
-##### [biocore](https://github.com/biocore)/[sortmerna](https://github.com/biocore/sortmerna)
-
-ID = 150, Stars = 90, Language = C++, Update = 2020-08-14
-
-SortMeRNA: next-generation sequence filtering and alignment tool
-##### [biocore](https://github.com/biocore)/[qiita](https://github.com/biocore/qiita)
-
-ID = 151, Stars = 89, Language = Python, Update = 2020-08-27
-
-Qiita - A multi-omics databasing effort
-##### [kamilsjaron](https://github.com/kamilsjaron)/[smudgeplot](https://github.com/KamilSJaron/smudgeplot)
-
-ID = 152, Stars = 88, Language = R, Update = 2020-08-31
-
-Inference of ploidy and heterozygosity structure using whole genome sequencing data
 ##### [lh3](https://github.com/lh3)/[fermikit](https://github.com/lh3/fermikit)
 
-ID = 153, Stars = 88, Language = TeX, Update = 2017-12-20
+ID = 111, Stars = 88, Language = TeX, Update = 2017-12-20
 
 De novo assembly based variant calling pipeline for Illumina short reads
 ##### [illumina](https://github.com/illumina)/[paragraph](https://github.com/Illumina/paragraph)
 
-ID = 154, Stars = 88, Language = C++, Update = 2019-09-24
+ID = 112, Stars = 88, Language = C++, Update = 2019-09-24
 
 Graph realignment tools for structural variants
-##### [statgen](https://github.com/statgen)/[locuszoom](https://github.com/statgen/locuszoom)
-
-ID = 155, Stars = 88, Language = JavaScript, Update = 2020-09-01
-
-A Javascript/d3 embeddable plugin for interactively visualizing statistical genetic data from customizable sources.
 ##### [lh3](https://github.com/lh3)/[psmc](https://github.com/lh3/psmc)
 
-ID = 156, Stars = 87, Language = C, Update = 2016-01-21
+ID = 113, Stars = 87, Language = C, Update = 2016-01-21
 
 Implementation of the Pairwise Sequentially Markovian Coalescent (PSMC) model
 ##### [ewels](https://github.com/ewels)/[ClusterFlow](https://github.com/ewels/ClusterFlow)
 
-ID = 157, Stars = 86, Language = Perl, Update = 2019-06-08
+ID = 114, Stars = 86, Language = Perl, Update = 2019-06-08
 
 A pipelining tool to automate and standardise bioinformatics analyses on cluster environments.
 ##### [lh3](https://github.com/lh3)/[bedtk](https://github.com/lh3/bedtk)
 
-ID = 158, Stars = 86, Language = C, Update = 2020-08-19
+ID = 115, Stars = 86, Language = C, Update = 2020-08-19
 
 A simple toolset for BED files (warning: CLI may change before bedtk becomes stable)
-##### [fhcrc](https://github.com/fhcrc)/[seqmagick](https://github.com/fhcrc/seqmagick)
-
-ID = 159, Stars = 86, Language = Python, Update = 2020-08-25
-
-An imagemagick-like frontend to Biopython SeqIO
-##### [daehwankimlab](https://github.com/daehwankimlab)/[tophat](https://github.com/DaehwanKimLab/tophat)
-
-ID = 160, Stars = 86, Language = C++, Update = 2018-05-24
-
-Spliced read mapper for RNA-Seq
 ##### [broadinstitute](https://github.com/broadinstitute)/[mutect](https://github.com/broadinstitute/mutect)
 
-ID = 161, Stars = 86, Language = Java, Update = 2015-08-26
+ID = 116, Stars = 86, Language = Java, Update = 2015-08-26
 
 MuTect -- Accurate and sensitive cancer mutation detection
-##### [hall-lab](https://github.com/hall-lab)/[svtools](https://github.com/hall-lab/svtools)
-
-ID = 162, Stars = 86, Language = Python, Update = 2019-10-24
-
-Tools for processing and analyzing structural variants.
-##### [cschin](https://github.com/cschin)/[ipython_d3_mashup](https://github.com/cschin/ipython_d3_mashup)
-
-ID = 163, Stars = 85, Language = JavaScript, Update = 2012-09-10
-
-None
-##### [gpertea](https://github.com/gpertea)/[gffcompare](https://github.com/gpertea/gffcompare) *new+*
-
-ID = 164, Stars = 85, Language = C++, Update = 2020-08-25
-
-classify, merge, tracking and annotation of GFF files by comparing to a reference annotation GFF
-##### [pcingola](https://github.com/pcingola)/[BigDataScript](https://github.com/pcingola/BigDataScript)
-
-ID = 165, Stars = 85, Language = Java, Update = 2020-08-17
-
-BigDataScript: Scirpting language for big data
-##### [pacificbiosciences](https://github.com/pacificbiosciences)/[GenomicConsensus](https://github.com/PacificBiosciences/GenomicConsensus)
-
-ID = 166, Stars = 85, Language = Python, Update = 2019-04-25
-
-PacBio® variant and consensus caller
 ##### [astrazeneca-ngs](https://github.com/astrazeneca-ngs)/[VarDictJava](https://github.com/AstraZeneca-NGS/VarDictJava)
 
-ID = 167, Stars = 85, Language = Java, Update = 2020-08-25
+ID = 117, Stars = 86, Language = Java, Update = 2020-09-02
 
 VarDict Java port
-##### [tseemann](https://github.com/tseemann)/[barrnap](https://github.com/tseemann/barrnap)
+##### [daehwankimlab](https://github.com/daehwankimlab)/[tophat](https://github.com/DaehwanKimLab/tophat)
 
-ID = 168, Stars = 84, Language = Perl, Update = 2018-10-29
+ID = 118, Stars = 86, Language = C++, Update = 2018-05-24
 
-🔬
-♌
-Bacterial ribosomal RNA predictor
-##### [danielecook](https://github.com/danielecook)/[Quiver-alfred](https://github.com/danielecook/Quiver-alfred)
+Spliced read mapper for RNA-Seq
+##### [pcingola](https://github.com/pcingola)/[BigDataScript](https://github.com/pcingola/BigDataScript)
 
-ID = 169, Stars = 84, Language = Python, Update = 2018-08-22
+ID = 119, Stars = 85, Language = Java, Update = 2020-08-17
 
-Search Quiver from Alfred
+BigDataScript: Scirpting language for big data
+##### [gpertea](https://github.com/gpertea)/[gffcompare](https://github.com/gpertea/gffcompare)
+
+ID = 120, Stars = 85, Language = C++, Update = 2020-08-25
+
+classify, merge, tracking and annotation of GFF files by comparing to a reference annotation GFF
 ##### [broadinstitute](https://github.com/broadinstitute)/[ssGSEA2.0](https://github.com/broadinstitute/ssGSEA2.0)
 
-ID = 170, Stars = 84, Language = R, Update = 2020-08-11
+ID = 121, Stars = 84, Language = R, Update = 2020-08-11
 
 Single sample Gene Set Enrichment analysis (ssGSEA) and PTM Enrichment Analysis (PTM-SEA)
-##### [hall-lab](https://github.com/hall-lab)/[svtyper](https://github.com/hall-lab/svtyper)
+##### [ewels](https://github.com/ewels)/[sra-explorer](https://github.com/ewels/sra-explorer)
 
-ID = 171, Stars = 84, Language = Python, Update = 2020-02-27
+ID = 122, Stars = 81, Language = HTML, Update = 2020-08-23
 
-Bayesian genotyper for structural variants
-##### [dpryan79](https://github.com/dpryan79)/[MethylDackel](https://github.com/dpryan79/MethylDackel)
-
-ID = 172, Stars = 83, Language = C, Update = 2020-05-23
-
-A (mostly) universal methylation extractor for BS-seq experiments.
-##### [benjjneb](https://github.com/benjjneb)/[decontam](https://github.com/benjjneb/decontam)
-
-ID = 173, Stars = 82, Language = R, Update = 2020-07-06
-
-Simple statistical identification and removal of contaminants in marker-gene and metagenomics sequencing data
-##### [tseemann](https://github.com/tseemann)/[nullarbor](https://github.com/tseemann/nullarbor)
-
-ID = 174, Stars = 82, Language = Perl, Update = 2020-08-03
-
-💾
-📃
-"Reads to report" for public health and clinical microbiology
+Web application to explore the Sequence Read Archive.
 ##### [shenwei356](https://github.com/shenwei356)/[taxonkit](https://github.com/shenwei356/taxonkit)
 
-ID = 175, Stars = 81, Language = Go, Update = 2020-08-21
+ID = 123, Stars = 81, Language = Go, Update = 2020-08-21
 
 A Cross-platform and Efficient NCBI Taxonomy Toolkit
 ##### [gt1](https://github.com/gt1)/[biobambam2](https://github.com/gt1/biobambam2)
 
-ID = 176, Stars = 81, Language = C++, Update = 2019-03-12
+ID = 124, Stars = 81, Language = C++, Update = 2019-03-12
 
 Tools for early stage alignment file processing
-##### [ewels](https://github.com/ewels)/[sra-explorer](https://github.com/ewels/sra-explorer)
-
-ID = 177, Stars = 81, Language = HTML, Update = 2020-08-23
-
-Web application to explore the Sequence Read Archive.
-##### [pacificbiosciences](https://github.com/pacificbiosciences)/[pb-assembly](https://github.com/PacificBiosciences/pb-assembly)
-
-ID = 178, Stars = 81, Language = Python, Update = 2019-11-17
-
-PacBio Assembly Tool Suite: Reads in ⇨ Assembly out
-##### [genome](https://github.com/genome)/[sciclone](https://github.com/genome/sciclone)
-
-ID = 179, Stars = 80, Language = R, Update = 2017-03-08
-
-An R package for inferring the subclonal architecture of tumors
 ##### [brentp](https://github.com/brentp)/[bwa-meth](https://github.com/brentp/bwa-meth)
 
-ID = 180, Stars = 79, Language = PostScript, Update = 2018-08-07
+ID = 125, Stars = 79, Language = PostScript, Update = 2018-08-07
 
 fast and accurate alignment of BS-Seq reads using bwa-mem and a 3-letter genome
-##### [arq5x](https://github.com/arq5x)/[grabix](https://github.com/arq5x/grabix)
-
-ID = 181, Stars = 78, Language = C, Update = 2018-05-10
-
-a wee tool for random access into BGZF files.
 ##### [lh3](https://github.com/lh3)/[bgt](https://github.com/lh3/bgt)
 
-ID = 182, Stars = 78, Language = C, Update = 2019-09-04
+ID = 126, Stars = 78, Language = C, Update = 2019-09-04
 
 Flexible genotype query among 30,000+ samples whole-genome
 ##### [lh3](https://github.com/lh3)/[ksw2](https://github.com/lh3/ksw2)
 
-ID = 183, Stars = 78, Language = C, Update = 2019-04-29
+ID = 127, Stars = 78, Language = C, Update = 2019-04-29
 
 Global alignment and alignment extension
-##### [danielecook](https://github.com/danielecook)/[gist-alfred](https://github.com/danielecook/gist-alfred)
+##### [arq5x](https://github.com/arq5x)/[grabix](https://github.com/arq5x/grabix)
 
-ID = 184, Stars = 78, Language = Python, Update = 2019-11-14
+ID = 128, Stars = 78, Language = C, Update = 2018-05-10
 
-An alfred workflow for accessing gists
+a wee tool for random access into BGZF files.
 ##### [brentp](https://github.com/brentp)/[pyfasta](https://github.com/brentp/pyfasta)
 
-ID = 185, Stars = 77, Language = Python, Update = 2017-12-11
+ID = 129, Stars = 77, Language = Python, Update = 2017-12-11
 
 fast, memory-efficient, pythonic (and command-line) access to fasta sequence files
-##### [mhammell-laboratory](https://github.com/mhammell-laboratory)/[TEtranscripts](https://github.com/mhammell-laboratory/TEtranscripts)
-
-ID = 186, Stars = 77, Language = Python, Update = 2020-07-27
-
-A package for including transposable elements in differential enrichment analysis of sequencing datasets.
 ##### [broadinstitute](https://github.com/broadinstitute)/[wot](https://github.com/broadinstitute/wot)
 
-ID = 187, Stars = 77, Language = Jupyter Notebook, Update = 2020-08-24
+ID = 130, Stars = 77, Language = Jupyter Notebook, Update = 2020-08-24
 
 A software package for analyzing snapshots of developmental processes
 ##### [brentp](https://github.com/brentp)/[combat.py](https://github.com/brentp/combat.py)
 
-ID = 188, Stars = 76, Language = Python, Update = 2018-12-31
+ID = 131, Stars = 76, Language = Python, Update = 2018-12-31
 
 python / numpy / pandas / patsy version of ComBat for removing batch effects.
-##### [tseemann](https://github.com/tseemann)/[mlst](https://github.com/tseemann/mlst)
-
-ID = 189, Stars = 76, Language = Perl, Update = 2020-08-03
-
-🆔
-Scan contig files against PubMLST typing schemes
 ##### [opengene](https://github.com/opengene)/[repaq](https://github.com/OpenGene/repaq)
 
-ID = 190, Stars = 76, Language = C, Update = 2020-06-14
+ID = 132, Stars = 76, Language = C, Update = 2020-06-14
 
 A fast lossless FASTQ compressor with ultra-high compression ratio
 ##### [broadinstitute](https://github.com/broadinstitute)/[ichorCNA](https://github.com/broadinstitute/ichorCNA)
 
-ID = 191, Stars = 76, Language = R, Update = 2020-05-06
+ID = 133, Stars = 76, Language = R, Update = 2020-05-06
 
 Estimating tumor fraction in cell-free DNA from ultra-low-pass whole genome sequencing.
-##### [richarddurbin](https://github.com/richarddurbin)/[pbwt](https://github.com/richarddurbin/pbwt)
-
-ID = 192, Stars = 75, Language = C, Update = 2020-06-10
-
-Implementation of Positional Burrows-Wheeler Transform for genetic data
-##### [umcugenetics](https://github.com/umcugenetics)/[MutationalPatterns](https://github.com/UMCUGenetics/MutationalPatterns)
-
-ID = 193, Stars = 75, Language = R, Update = 2020-08-31
-
-R package for extracting and visualizing mutational patterns in base substitution catalogues
-##### [andersenlab](https://github.com/andersenlab)/[VCF-kit](https://github.com/AndersenLab/VCF-kit)
-
-ID = 194, Stars = 75, Language = Python, Update = 2020-08-27
-
-VCF-kit: Assorted utilities for the variant call format
-##### [shenwei356](https://github.com/shenwei356)/[bio_scripts](https://github.com/shenwei356/bio_scripts)
-
-ID = 195, Stars = 74, Language = Perl, Update = 2019-02-12
-
-Practical, reusable scripts for bioinformatics
-##### [marianattestad](https://github.com/marianattestad)/[Assemblytics](https://github.com/MariaNattestad/Assemblytics)
-
-ID = 196, Stars = 74, Language = JavaScript, Update = 2020-07-23
-
-Assemblytics is a bioinformatics tool to detect and analyze structural variants from a genome assembly by comparing it to a reference genome.
 ##### [lh3](https://github.com/lh3)/[gfatools](https://github.com/lh3/gfatools)
 
-ID = 197, Stars = 74, Language = C, Update = 2020-07-14
+ID = 134, Stars = 74, Language = C, Update = 2020-07-14
 
 Tools for manipulating sequence graphs in the GFA and rGFA formats
-##### [gatk-workflows](https://github.com/gatk-workflows)/[gatk4-data-processing](https://github.com/gatk-workflows/gatk4-data-processing)
+##### [shenwei356](https://github.com/shenwei356)/[bio_scripts](https://github.com/shenwei356/bio_scripts)
 
-ID = 198, Stars = 74, Language = wdl, Update = 2020-08-18
+ID = 135, Stars = 74, Language = Perl, Update = 2019-02-12
 
-Workflows for processing high-throughput sequencing data for variant discovery with GATK4 and related tools
-##### [samtools](https://github.com/samtools)/[tabix](https://github.com/samtools/tabix)
-
-ID = 199, Stars = 74, Language = C, Update = 2020-07-27
-
-Note: tabix and bgzip binaries are now part of the HTSlib project.
-##### [nf-core](https://github.com/nf-core)/[tools](https://github.com/nf-core/tools)
-
-ID = 200, Stars = 74, Language = Python, Update = 2020-08-19
-
-Python package with helper tools for the nf-core community.
+Practical, reusable scripts for bioinformatics
 ##### [ncbi](https://github.com/ncbi)/[robotframework-pageobjects](https://github.com/ncbi/robotframework-pageobjects)
 
-ID = 201, Stars = 74, Language = Python, Update = 2018-11-30
+ID = 136, Stars = 74, Language = Python, Update = 2018-11-30
 
 Implementation of the Page Object pattern with Robot Framework and selenium. Also facilitates page object pattern independent of Robot Framework
-##### [gatk-workflows](https://github.com/gatk-workflows)/[gatk4-germline-snps-indels](https://github.com/gatk-workflows/gatk4-germline-snps-indels)
+##### [samtools](https://github.com/samtools)/[tabix](https://github.com/samtools/tabix)
 
-ID = 202, Stars = 73, Language = wdl, Update = 2020-07-21
+ID = 137, Stars = 74, Language = C, Update = 2020-07-27
 
-Workflows for germline short variant discovery with GATK4
+Note: tabix and bgzip binaries are now part of the HTSlib project.
 ##### [ensembl](https://github.com/ensembl)/[VEP_plugins](https://github.com/Ensembl/VEP_plugins)
 
-ID = 203, Stars = 73, Language = Perl, Update = 2020-08-28
+ID = 138, Stars = 73, Language = Perl, Update = 2020-08-28
 
 Plugins for the Ensembl Variant Effect Predictor (VEP)
 ##### [brentp](https://github.com/brentp)/[gargs](https://github.com/brentp/gargs)
 
-ID = 204, Stars = 72, Language = Go, Update = 2018-01-26
+ID = 139, Stars = 72, Language = Go, Update = 2018-01-26
 
 better(?) xargs in go
-##### [genome](https://github.com/genome)/[analysis-workflows](https://github.com/genome/analysis-workflows)
-
-ID = 205, Stars = 72, Language = Common Workflow Language, Update = 2020-09-01
-
-Open workflow definitions for genomic analysis from MGI at WUSM.
 ##### [ekg](https://github.com/ekg)/[seqwish](https://github.com/ekg/seqwish)
 
-ID = 206, Stars = 71, Language = C++, Update = 2020-08-04
+ID = 140, Stars = 71, Language = C++, Update = 2020-08-04
 
 alignment to variation graph inducer
-##### [griffithlab](https://github.com/griffithlab)/[pVACtools](https://github.com/griffithlab/pVACtools)
-
-ID = 207, Stars = 71, Language = Python, Update = 2020-08-18
-
-None
-##### [statgen](https://github.com/statgen)/[demuxlet](https://github.com/statgen/demuxlet)
-
-ID = 208, Stars = 71, Language = C++, Update = 2020-03-25
-
-Genetic multiplexing of barcoded single cell RNA-seq
-##### [biocore](https://github.com/biocore)/[deblur](https://github.com/biocore/deblur)
-
-ID = 209, Stars = 71, Language = Python, Update = 2020-04-14
-
-Deblur is a greedy deconvolution algorithm based on known read error profiles.
-##### [cschin](https://github.com/cschin)/[Peregrine](https://github.com/cschin/Peregrine)
-
-ID = 210, Stars = 70, Language = Jupyter Notebook, Update = 2020-05-03
-
-Peregrine: Fast Genome Assembler Using SHIMMER Index
-##### [mroosmalen](https://github.com/mroosmalen)/[nanosv](https://github.com/mroosmalen/nanosv)
-
-ID = 211, Stars = 70, Language = Python, Update = 2020-06-07
-
-SV caller for nanopore data
-##### [yongxinliu](https://github.com/yongxinliu)/[QIIME2ChineseManual](https://github.com/YongxinLiu/QIIME2ChineseManual)
-
-ID = 212, Stars = 70, Language = JavaScript, Update = 2020-05-15
-
-QIIME 2中文文档(QIIME 2 Chinese Manual)
-##### [daler](https://github.com/daler)/[metaseq](https://github.com/daler/metaseq)
-
-ID = 213, Stars = 69, Language = Python, Update = 2020-08-25
-
-Framework for integrated analysis and plotting of ChIP/RIP/RNA/*-seq data
 ##### [lh3](https://github.com/lh3)/[fermi](https://github.com/lh3/fermi)
 
-ID = 214, Stars = 69, Language = C, Update = 2013-12-06
+ID = 141, Stars = 69, Language = C, Update = 2013-12-06
 
 A WGS de novo assembler based on the FMD-index for large genomes
-##### [statgen](https://github.com/statgen)/[pheweb](https://github.com/statgen/pheweb)
-
-ID = 215, Stars = 69, Language = Python, Update = 2020-08-21
-
-A tool to build multi-phenotype GWAS browsers
 ##### [opengene](https://github.com/opengene)/[gencore](https://github.com/OpenGene/gencore)
 
-ID = 216, Stars = 69, Language = C++, Update = 2020-08-31
+ID = 142, Stars = 69, Language = C++, Update = 2020-08-31
 
 Generate consensus reads to reduce sequencing noises and remove duplications
 ##### [illumina](https://github.com/illumina)/[ExpansionHunter](https://github.com/Illumina/ExpansionHunter)
 
-ID = 217, Stars = 68, Language = C++, Update = 2020-07-13
+ID = 143, Stars = 68, Language = C++, Update = 2020-07-13
 
 A tool for estimating repeat sizes
 ##### [brentp](https://github.com/brentp)/[slurmpy](https://github.com/brentp/slurmpy)
 
-ID = 218, Stars = 67, Language = Python, Update = 2020-06-30
+ID = 144, Stars = 67, Language = Python, Update = 2020-06-30
 
 submit jobs to slurm with quick-and-dirty python
 ##### [arq5x](https://github.com/arq5x)/[bedtools-protocols](https://github.com/arq5x/bedtools-protocols)
 
-ID = 219, Stars = 67, Language = CSS, Update = 2014-03-06
-
-None
-##### [statgen](https://github.com/statgen)/[bamUtil](https://github.com/statgen/bamUtil)
-
-ID = 220, Stars = 67, Language = C++, Update = 2020-06-02
+ID = 145, Stars = 67, Language = CSS, Update = 2014-03-06
 
 None
 ##### [brentp](https://github.com/brentp)/[duphold](https://github.com/brentp/duphold)
 
-ID = 221, Stars = 66, Language = Nim, Update = 2020-05-27
+ID = 146, Stars = 66, Language = Nim, Update = 2020-05-27
 
 don't get DUP'ed or DEL'ed by your putative SVs.
-##### [griffithlab](https://github.com/griffithlab)/[dgi-db](https://github.com/griffithlab/dgi-db)
-
-ID = 222, Stars = 66, Language = Ruby, Update = 2020-09-01
-
-Rails frontend to The Genome Institute's drug gene interaction database.
 ##### [broadinstitute](https://github.com/broadinstitute)/[Drop-seq](https://github.com/broadinstitute/Drop-seq)
 
-ID = 223, Stars = 66, Language = Java, Update = 2020-08-21
+ID = 147, Stars = 66, Language = Java, Update = 2020-08-21
 
 Java tools for analyzing Drop-seq data
-##### [yongxinliu](https://github.com/yongxinliu)/[Note](https://github.com/YongxinLiu/Note)
-
-ID = 224, Stars = 65, Language = HTML, Update = 2020-09-01
-
-None
-##### [ding-lab](https://github.com/ding-lab)/[CharGer](https://github.com/ding-lab/CharGer)
-
-ID = 225, Stars = 65, Language = Python, Update = 2020-04-10
-
-Characterization of Germline variants
 ##### [ncbi](https://github.com/ncbi)/[ncbi-vdb](https://github.com/ncbi/ncbi-vdb)
 
-ID = 226, Stars = 65, Language = C, Update = 2020-09-01
+ID = 148, Stars = 65, Language = C, Update = 2020-09-01
 
 ncbi-vdb
-##### [pacificbiosciences](https://github.com/pacificbiosciences)/[pbmm2](https://github.com/PacificBiosciences/pbmm2)
+##### [ding-lab](https://github.com/ding-lab)/[CharGer](https://github.com/ding-lab/CharGer)
 
-ID = 227, Stars = 64, Language = C++, Update = 2020-06-03
+ID = 149, Stars = 65, Language = Python, Update = 2020-04-10
 
-A minimap2 frontend for PacBio native data formats
-##### [nf-core](https://github.com/nf-core)/[sarek](https://github.com/nf-core/sarek)
-
-ID = 228, Stars = 64, Language = Nextflow, Update = 2020-09-01
-
-Analysis pipeline to detect germline or somatic variants from WGS / targeted sequencing
+Characterization of Germline variants
 ##### [ncbi](https://github.com/ncbi)/[TPMCalculator](https://github.com/ncbi/TPMCalculator)
 
-ID = 229, Stars = 64, Language = C++, Update = 2020-08-13
+ID = 150, Stars = 64, Language = C++, Update = 2020-08-13
 
 TPMCalculator quantifies mRNA abundance directly from the alignments by parsing BAM files
-##### [dzerbino](https://github.com/dzerbino)/[ascii_plots](https://github.com/dzerbino/ascii_plots)
-
-ID = 230, Stars = 63, Language = Python, Update = 2017-10-30
-
-Convenience function for quick and dirty data analysis
 ##### [lh3](https://github.com/lh3)/[hickit](https://github.com/lh3/hickit)
 
-ID = 231, Stars = 63, Language = C, Update = 2019-05-13
+ID = 151, Stars = 63, Language = C, Update = 2019-05-13
 
 TAD calling, phase imputation, 3D modeling and more for diploid single-cell Hi-C (Dip-C) and general Hi-C
+##### [dzerbino](https://github.com/dzerbino)/[ascii_plots](https://github.com/dzerbino/ascii_plots)
+
+ID = 152, Stars = 63, Language = Python, Update = 2017-10-30
+
+Convenience function for quick and dirty data analysis
 ##### [humanlongevity](https://github.com/humanlongevity)/[HLA](https://github.com/humanlongevity/HLA)
 
-ID = 232, Stars = 63, Language = Jupyter Notebook, Update = 2018-10-11
+ID = 153, Stars = 63, Language = Jupyter Notebook, Update = 2018-10-11
 
 xHLA: Fast and accurate HLA typing from short read sequence data
-##### [parklab](https://github.com/parklab)/[NGSCheckMate](https://github.com/parklab/NGSCheckMate)
-
-ID = 233, Stars = 63, Language = Python, Update = 2020-05-28
-
-Software program for checking sample matching for NGS data
-##### [alimanfoo](https://github.com/alimanfoo)/[csvvalidator](https://github.com/alimanfoo/csvvalidator)
-
-ID = 234, Stars = 62, Language = Python, Update = 2020-07-03
-
-A small CSV validator library for Python.
 ##### [lh3](https://github.com/lh3)/[fermi-lite](https://github.com/lh3/fermi-lite)
 
-ID = 235, Stars = 62, Language = C, Update = 2020-06-26
+ID = 154, Stars = 62, Language = C, Update = 2020-06-26
 
 Standalone C library for assembling Illumina short reads in small regions
 ##### [illumina](https://github.com/illumina)/[Pisces](https://github.com/Illumina/Pisces)
 
-ID = 236, Stars = 62, Language = C#, Update = 2019-08-09
+ID = 155, Stars = 62, Language = C#, Update = 2019-08-09
 
 Somatic and germline variant caller for amplicon data. Recommended caller for tumor-only workflows.
 ##### [bioinform](https://github.com/bioinform)/[varsim](https://github.com/bioinform/varsim)
 
-ID = 237, Stars = 62, Language = Java, Update = 2020-05-15
+ID = 156, Stars = 62, Language = Java, Update = 2020-05-15
 
 VarSim: A high-fidelity simulation validation framework for high-throughput genome sequencing with cancer applications
 ##### [bioinform](https://github.com/bioinform)/[rnacocktail](https://github.com/bioinform/rnacocktail)
 
-ID = 238, Stars = 62, Language = Jupyter Notebook, Update = 2019-11-23
+ID = 157, Stars = 62, Language = Jupyter Notebook, Update = 2019-11-23
 
 None
-##### [biocore](https://github.com/biocore)/[biom-format](https://github.com/biocore/biom-format)
-
-ID = 239, Stars = 62, Language = Python, Update = 2020-08-13
-
-The Biological Observation Matrix (BIOM) Format Project
-##### [bioconda](https://github.com/bioconda)/[bioconda-utils](https://github.com/bioconda/bioconda-utils)
-
-ID = 240, Stars = 61, Language = Python, Update = 2020-08-30
-
-Utilities for building and managing bioconda recipes
 ##### [opengene](https://github.com/opengene)/[GeneFuse](https://github.com/OpenGene/GeneFuse)
 
-ID = 241, Stars = 61, Language = C, Update = 2020-06-29
+ID = 158, Stars = 61, Language = C, Update = 2020-06-29
 
 Gene fusion detection and visualization
+##### [bioconda](https://github.com/bioconda)/[bioconda-utils](https://github.com/bioconda/bioconda-utils)
+
+ID = 159, Stars = 61, Language = Python, Update = 2020-08-30
+
+Utilities for building and managing bioconda recipes
 ##### [mozack](https://github.com/mozack)/[abra](https://github.com/mozack/abra)
 
-ID = 242, Stars = 60, Language = Java, Update = 2018-05-24
+ID = 160, Stars = 60, Language = Java, Update = 2018-05-24
 
 Assembly Based ReAligner
-##### [griffithlab](https://github.com/griffithlab)/[regtools](https://github.com/griffithlab/regtools)
-
-ID = 243, Stars = 60, Language = C++, Update = 2020-06-25
-
-Integrate DNA-seq and RNA-seq data to identify mutations that are associated with regulatory effects on gene expression.
-##### [statgen](https://github.com/statgen)/[SLURM-examples](https://github.com/statgen/SLURM-examples)
-
-ID = 244, Stars = 59, Language = Python, Update = 2019-06-26
-
-None
 ##### [opengene](https://github.com/opengene)/[OpenGene.jl](https://github.com/OpenGene/OpenGene.jl)
 
-ID = 245, Stars = 59, Language = Julia, Update = 2017-10-08
+ID = 161, Stars = 59, Language = Julia, Update = 2017-10-08
 
 (No maintenance) OpenGene, core libraries for NGS data analysis and bioinformatics in Julia
 ##### [broadinstitute](https://github.com/broadinstitute)/[oncotator](https://github.com/broadinstitute/oncotator)
 
-ID = 246, Stars = 59, Language = Python, Update = 2020-02-26
+ID = 162, Stars = 59, Language = Python, Update = 2020-02-26
 
 None
 ##### [ewels](https://github.com/ewels)/[AWS-iGenomes](https://github.com/ewels/AWS-iGenomes)
 
-ID = 247, Stars = 58, Language = HTML, Update = 2019-11-06
+ID = 163, Stars = 58, Language = HTML, Update = 2019-11-06
 
 Documentation and description of AWS iGenomes S3 resource.
 ##### [lh3](https://github.com/lh3)/[bfc](https://github.com/lh3/bfc)
 
-ID = 248, Stars = 58, Language = TeX, Update = 2016-05-31
+ID = 164, Stars = 58, Language = TeX, Update = 2016-05-31
 
 High-performance error correction for Illumina resequencing data
-##### [nf-core](https://github.com/nf-core)/[chipseq](https://github.com/nf-core/chipseq)
-
-ID = 249, Stars = 58, Language = Nextflow, Update = 2020-08-18
-
-ChIP-seq peak-calling, QC and differential analysis pipeline.
 ##### [ncbi](https://github.com/ncbi)/[dbsnp](https://github.com/ncbi/dbsnp)
 
-ID = 250, Stars = 58, Language = Jupyter Notebook, Update = 2020-04-22
+ID = 165, Stars = 58, Language = Jupyter Notebook, Update = 2020-04-22
 
 dbSNP
-##### [dutilh](https://github.com/dutilh)/[CAT](https://github.com/dutilh/CAT)
-
-ID = 251, Stars = 57, Language = Python, Update = 2020-07-15
-
-CAT/BAT: tool for taxonomic classification of contigs and metagenome-assembled genomes (MAGs)
 ##### [shenwei356](https://github.com/shenwei356)/[bio](https://github.com/shenwei356/bio)
 
-ID = 252, Stars = 57, Language = Go, Update = 2020-07-07
+ID = 166, Stars = 57, Language = Go, Update = 2020-07-07
 
 A lightweight and high-performance bioinformatics package in Golang
-##### [cschin](https://github.com/cschin)/[DCNet](https://github.com/cschin/DCNet)
-
-ID = 253, Stars = 57, Language = Jupyter Notebook, Update = 2018-04-16
-
-DCNet — Denoising (DNA) Sequence With a LSTM-RNN and PyTorch & Neural DBG
 ##### [mozack](https://github.com/mozack)/[abra2](https://github.com/mozack/abra2)
 
-ID = 254, Stars = 56, Language = Java, Update = 2020-04-23
+ID = 167, Stars = 56, Language = Java, Update = 2020-04-23
 
 ABRA2
 ##### [ensembl](https://github.com/ensembl)/[ensembl](https://github.com/Ensembl/ensembl)
 
-ID = 255, Stars = 56, Language = Perl, Update = 2020-09-01
+ID = 168, Stars = 56, Language = Perl, Update = 2020-09-01
 
 The Ensembl Core Perl API and SQL schema
-##### [yongxinliu](https://github.com/yongxinliu)/[MicrobiomeStatPlot](https://github.com/YongxinLiu/MicrobiomeStatPlot)
-
-ID = 256, Stars = 55, Language = HTML, Update = 2020-09-01
-
-Interpretation and visualization of microbiome charts
 ##### [dzerbino](https://github.com/dzerbino)/[oases](https://github.com/dzerbino/oases)
 
-ID = 257, Stars = 55, Language = C, Update = 2018-03-12
+ID = 169, Stars = 55, Language = C, Update = 2018-03-12
 
 De novo transcriptome assembler for short reads
-##### [tseemann](https://github.com/tseemann)/[any2fasta](https://github.com/tseemann/any2fasta)
-
-ID = 258, Stars = 55, Language = Perl, Update = 2019-05-17
-
-Convert various sequence formats to FASTA
 ##### [illumina](https://github.com/illumina)/[PrimateAI](https://github.com/Illumina/PrimateAI)
 
-ID = 259, Stars = 55, Language = Python, Update = 2019-02-26
+ID = 170, Stars = 55, Language = Python, Update = 2019-02-26
 
 deep residual neural network for classifying the pathogenicity of missense mutations.
-##### [quinlan-lab](https://github.com/quinlan-lab)/[sllobs-biostats](https://github.com/quinlan-lab/sllobs-biostats)
-
-ID = 260, Stars = 55, Language = HTML, Update = 2020-04-28
-
-None
-##### [parklab](https://github.com/parklab)/[nozzle](https://github.com/parklab/nozzle)
-
-ID = 261, Stars = 55, Language = R, Update = 2016-04-02
-
-Nozzle is a report generation toolkit for data analysis pipelines implemented in R.
-##### [gavinha](https://github.com/gavinha)/[TitanCNA](https://github.com/gavinha/TitanCNA)
-
-ID = 262, Stars = 54, Language = R, Update = 2020-06-08
-
-Analysis of subclonal copy number alterations (CNA) and loss of heterozygosity (LOH) in cancer
 ##### [ekg](https://github.com/ekg)/[fastahack](https://github.com/ekg/fastahack)
 
-ID = 263, Stars = 54, Language = C++, Update = 2020-01-06
+ID = 171, Stars = 54, Language = C++, Update = 2020-01-06
 
 utilities for indexing and sequence extraction from FASTA files
-##### [griffithlab](https://github.com/griffithlab)/[pVAC-Seq](https://github.com/griffithlab/pVAC-Seq)
-
-ID = 264, Stars = 54, Language = Python, Update = 2019-04-16
-
-DEPRECATED. This tool has been superseded by https://github.com/griffithlab/pVACtools
 ##### [ncbi](https://github.com/ncbi)/[SKESA](https://github.com/ncbi/SKESA)
 
-ID = 265, Stars = 54, Language = C++, Update = 2020-08-10
+ID = 172, Stars = 54, Language = C++, Update = 2020-08-10
 
 SKESA assembler
-##### [marianattestad](https://github.com/marianattestad)/[SplitThreader](https://github.com/MariaNattestad/SplitThreader)
-
-ID = 266, Stars = 53, Language = JavaScript, Update = 2017-02-03
-
-Explore rearrangements and copy-number amplifications in a cancer genome
 ##### [lh3](https://github.com/lh3)/[dna-nn](https://github.com/lh3/dna-nn)
 
-ID = 267, Stars = 53, Language = C, Update = 2019-06-16
+ID = 173, Stars = 53, Language = C, Update = 2019-06-16
 
 Model and predict short DNA sequence features with neural networks
-##### [wglab](https://github.com/wglab)/[DeepMod](https://github.com/WGLab/DeepMod)
-
-ID = 268, Stars = 53, Language = Python, Update = 2020-06-24
-
-DeepMod: a deep-learning tool for genomic-scale, strand-sensitive and single-nucleotide based detection of DNA modifications
 ##### [ncbi](https://github.com/ncbi)/[ngs-tools](https://github.com/ncbi/ngs-tools)
 
-ID = 269, Stars = 53, Language = C++, Update = 2020-08-19
+ID = 174, Stars = 53, Language = C++, Update = 2020-08-19
 
 None
-##### [ocxtal](https://github.com/ocxtal)/[libgaba](https://github.com/ocxtal/libgaba)
+##### [wglab](https://github.com/wglab)/[DeepMod](https://github.com/WGLab/DeepMod)
 
-ID = 270, Stars = 52, Language = C, Update = 2018-05-04
+ID = 175, Stars = 53, Language = Python, Update = 2020-06-24
 
-Adaptive semi-global banded alignment on string graphs
+DeepMod: a deep-learning tool for genomic-scale, strand-sensitive and single-nucleotide based detection of DNA modifications
 ##### [opengene](https://github.com/opengene)/[fastv](https://github.com/OpenGene/fastv)
 
-ID = 271, Stars = 52, Language = C++, Update = 2020-08-06
+ID = 176, Stars = 52, Language = C++, Update = 2020-08-06
 
 An ultra-fast tool for identification of SARS-CoV-2 and other microbes from sequencing data. This tool can be used to detect viral infectious diseases, like COVID-19.
-##### [dpryan79](https://github.com/dpryan79)/[libBigWig](https://github.com/dpryan79/libBigWig)
-
-ID = 272, Stars = 51, Language = C, Update = 2020-03-04
-
-A C library for handling bigWig files
 ##### [ewels](https://github.com/ewels)/[MegaQC](https://github.com/ewels/MegaQC)
 
-ID = 273, Stars = 51, Language = Python, Update = 2020-09-01
+ID = 177, Stars = 51, Language = Python, Update = 2020-09-01
 
 Web application to collect and visualise data across multiple MultiQC runs.
-##### [arq5x](https://github.com/arq5x)/[cyvcf](https://github.com/arq5x/cyvcf)
-
-ID = 274, Stars = 51, Language = Python, Update = 2018-03-27
-
-A fast Python library for VCF files leveraging Cython for speed.
 ##### [lh3](https://github.com/lh3)/[tabtk](https://github.com/lh3/tabtk)
 
-ID = 275, Stars = 51, Language = C, Update = 2016-09-08
+ID = 178, Stars = 51, Language = C, Update = 2016-09-08
 
 Toolkit for processing TAB-delimited format
+##### [arq5x](https://github.com/arq5x)/[cyvcf](https://github.com/arq5x/cyvcf)
+
+ID = 179, Stars = 51, Language = Python, Update = 2018-03-27
+
+A fast Python library for VCF files leveraging Cython for speed.
 ##### [illumina](https://github.com/illumina)/[interop](https://github.com/Illumina/interop)
 
-ID = 276, Stars = 51, Language = C++, Update = 2020-08-25
+ID = 180, Stars = 51, Language = C++, Update = 2020-08-25
 
 C++ Library to parse Illumina InterOp files
 ##### [broadinstitute](https://github.com/broadinstitute)/[tensorqtl](https://github.com/broadinstitute/tensorqtl)
 
-ID = 277, Stars = 51, Language = Python, Update = 2020-08-24
+ID = 181, Stars = 51, Language = Python, Update = 2020-08-24
 
 Ultrafast GPU-based QTL mapper
-##### [brentp](https://github.com/brentp)/[xopen](https://github.com/brentp/xopen)
-
-ID = 278, Stars = 50, Language = Go, Update = 2018-11-16
-
-open files for buffered reading and writing in #golang
 ##### [ewels](https://github.com/ewels)/[CPT-Bootstrap-Carousel](https://github.com/ewels/CPT-Bootstrap-Carousel)
 
-ID = 279, Stars = 50, Language = PHP, Update = 2020-04-17
+ID = 182, Stars = 50, Language = PHP, Update = 2020-04-17
 
 WordPress plugin which generates a custom post type for choosing images and content. Outputs Bootstrap Image Carousel (slider) HTML from a shortcode.
-##### [quinlan-lab](https://github.com/quinlan-lab)/[vcf2db](https://github.com/quinlan-lab/vcf2db)
+##### [brentp](https://github.com/brentp)/[xopen](https://github.com/brentp/xopen)
 
-ID = 280, Stars = 50, Language = Python, Update = 2020-02-24
+ID = 183, Stars = 50, Language = Go, Update = 2018-11-16
 
-create a gemini-compatible database from a VCF
-##### [ga4gh](https://github.com/ga4gh)/[workflow-execution-service-schemas](https://github.com/ga4gh/workflow-execution-service-schemas)
-
-ID = 281, Stars = 50, Language = Python, Update = 2020-08-17
-
-The WES API is a standard way to run and manage portable workflows.
-##### [biocore](https://github.com/biocore)/[emperor](https://github.com/biocore/emperor)
-
-ID = 282, Stars = 50, Language = JavaScript, Update = 2020-08-26
-
-Emperor a tool for the analysis and visualization of large microbial ecology datasets
-##### [genome](https://github.com/genome)/[genome](https://github.com/genome/genome)
-
-ID = 283, Stars = 50, Language = Perl, Update = 2020-08-31
-
-Core modules used by the GMS
+open files for buffered reading and writing in #golang
 ##### [lh3](https://github.com/lh3)/[ropebwt2](https://github.com/lh3/ropebwt2)
 
-ID = 284, Stars = 49, Language = TeX, Update = 2020-04-17
+ID = 184, Stars = 49, Language = TeX, Update = 2020-04-17
 
 Incremental construction of FM-index for DNA sequences
-##### [openvax](https://github.com/openvax)/[varcode](https://github.com/openvax/varcode)
-
-ID = 285, Stars = 49, Language = Python, Update = 2019-11-08
-
-Library for manipulating genomic variants and predicting their effects
-##### [ensembl](https://github.com/ensembl)/[ensembl-pipeline](https://github.com/Ensembl/ensembl-pipeline)
-
-ID = 286, Stars = 49, Language = Perl, Update = 2020-01-30
-
-*DEPRECATED* Job management for the Ensembl Genebuild pipeline
 ##### [ncbi](https://github.com/ncbi)/[icn3d](https://github.com/ncbi/icn3d)
 
-ID = 287, Stars = 49, Language = JavaScript, Update = 2020-08-12
+ID = 185, Stars = 49, Language = JavaScript, Update = 2020-08-12
 
 WebGL-based protein structure viewer
-##### [yanglab](https://github.com/yanglab)/[CIRCexplorer2](https://github.com/YangLab/CIRCexplorer2)
-
-ID = 288, Stars = 49, Language = Python, Update = 2020-02-25
-
-circular RNA analysis toolset
-##### [yanglab](https://github.com/yanglab)/[CIRCexplorer](https://github.com/YangLab/CIRCexplorer)
-
-ID = 289, Stars = 49, Language = Python, Update = 2019-06-01
-
-A combined strategy to identify circular RNAs (circRNAs and ciRNAs) (Zhang et al., Complementary Sequence-Mediated Exon Circularization, Cell (2014), 159:134-147)
 ##### [broadinstitute](https://github.com/broadinstitute)/[ABC-Enhancer-Gene-Prediction](https://github.com/broadinstitute/ABC-Enhancer-Gene-Prediction)
 
-ID = 290, Stars = 49, Language = Python, Update = 2020-08-11
+ID = 186, Stars = 49, Language = Python, Update = 2020-08-11
 
 Cell type specific enhancer-gene predictions using ABC model (Fulco, Nasser et al, Nature Genetics 2019)
-##### [nf-core](https://github.com/nf-core)/[methylseq](https://github.com/nf-core/methylseq)
+##### [ensembl](https://github.com/ensembl)/[ensembl-pipeline](https://github.com/Ensembl/ensembl-pipeline)
 
-ID = 291, Stars = 48, Language = Nextflow, Update = 2020-08-03
+ID = 187, Stars = 49, Language = Perl, Update = 2020-01-30
 
-Methylation (Bisulfite-Sequencing) analysis pipeline using Bismark or bwa-meth + MethylDackel
+*DEPRECATED* Job management for the Ensembl Genebuild pipeline
 ##### [ncbi](https://github.com/ncbi)/[amr](https://github.com/ncbi/amr)
 
-ID = 292, Stars = 48, Language = C++, Update = 2020-09-01
+ID = 188, Stars = 48, Language = C++, Update = 2020-09-01
 
 amr_finder
-##### [tanghaibao](https://github.com/tanghaibao)/[bio-pipeline](https://github.com/tanghaibao/bio-pipeline)
-
-ID = 293, Stars = 47, Language = C, Update = 2020-06-14
-
-My collection of light bioinformatics analysis pipelines for specific tasks
-##### [tanghaibao](https://github.com/tanghaibao)/[quota-alignment](https://github.com/tanghaibao/quota-alignment)
-
-ID = 294, Stars = 47, Language = Python, Update = 2017-09-05
-
-Guided synteny alignment between duplicated genomes (within specified quota constraint)
-##### [gt1](https://github.com/gt1)/[biobambam](https://github.com/gt1/biobambam)
-
-ID = 295, Stars = 47, Language = C++, Update = 2015-04-20
-
-Tools for bam file processing
-##### [tseemann](https://github.com/tseemann)/[snp-dists](https://github.com/tseemann/snp-dists)
-
-ID = 296, Stars = 47, Language = C, Update = 2020-03-01
-
-Pairwise SNP distance matrix from a FASTA sequence alignment
 ##### [pcingola](https://github.com/pcingola)/[jFuzzyLogic](https://github.com/pcingola/jFuzzyLogic)
 
-ID = 297, Stars = 47, Language = Java, Update = 2018-07-17
+ID = 189, Stars = 47, Language = Java, Update = 2018-07-17
 
 The most complete fuzzy logic library in Java. The de-facto standard for research and industrial applications.
+##### [gt1](https://github.com/gt1)/[biobambam](https://github.com/gt1/biobambam)
+
+ID = 190, Stars = 47, Language = C++, Update = 2015-04-20
+
+Tools for bam file processing
 ##### [illumina](https://github.com/illumina)/[akt](https://github.com/Illumina/akt)
 
-ID = 298, Stars = 47, Language = C++, Update = 2020-05-22
+ID = 191, Stars = 47, Language = C++, Update = 2020-05-22
 
 Ancestry and Kinship Tools
 ##### [wglab](https://github.com/wglab)/[PennCNV](https://github.com/WGLab/PennCNV)
 
-ID = 299, Stars = 47, Language = C, Update = 2020-08-15
+ID = 192, Stars = 47, Language = C, Update = 2020-08-15
 
 Copy number vaiation detection from SNP arrays
-##### [nf-core](https://github.com/nf-core)/[rnafusion](https://github.com/nf-core/rnafusion)
-
-ID = 300, Stars = 47, Language = Nextflow, Update = 2020-08-14
-
-RNA-seq analysis pipeline for detection gene-fusions
 ##### [brentp](https://github.com/brentp)/[hts-python](https://github.com/brentp/hts-python)
 
-ID = 301, Stars = 46, Language = Python, Update = 2017-03-03
+ID = 193, Stars = 46, Language = Python, Update = 2017-03-03
 
 pythonic wrapper for libhts (moved to: https://github.com/quinlan-lab/hts-python)
-##### [refresh-bio](https://github.com/refresh-bio)/[kmer-db](https://github.com/refresh-bio/kmer-db)
-
-ID = 302, Stars = 46, Language = C++, Update = 2020-08-19
-
-None
-##### [openvax](https://github.com/openvax)/[mhctools](https://github.com/openvax/mhctools)
-
-ID = 303, Stars = 46, Language = Python, Update = 2020-05-01
-
-Python interface to running command-line and web-based MHC binding predictors
-##### [ding-lab](https://github.com/ding-lab)/[MuSiC2](https://github.com/ding-lab/MuSiC2)
-
-ID = 304, Stars = 46, Language = Perl, Update = 2019-05-19
-
-identifying mutational significance in cancer genomes
-##### [griffithlab](https://github.com/griffithlab)/[civic-client](https://github.com/griffithlab/civic-client)
-
-ID = 305, Stars = 46, Language = JavaScript, Update = 2020-08-20
-
-Web client for CIViC: Clinical Interpretations of Variants in Cancer
-##### [griffithlab](https://github.com/griffithlab)/[DeepSVR](https://github.com/griffithlab/DeepSVR)
-
-ID = 306, Stars = 46, Language = Jupyter Notebook, Update = 2019-06-27
-
-None
-##### [nf-core](https://github.com/nf-core)/[atacseq](https://github.com/nf-core/atacseq)
-
-ID = 307, Stars = 46, Language = Nextflow, Update = 2020-08-18
-
-ATAC-seq peak-calling, QC and differential analysis pipeline
 ##### [opengene](https://github.com/opengene)/[CfdnaPattern](https://github.com/OpenGene/CfdnaPattern)
 
-ID = 308, Stars = 46, Language = Python, Update = 2018-08-03
+ID = 194, Stars = 46, Language = Python, Update = 2018-08-03
 
 Pattern Recognition for Cell-free DNA
 ##### [broadinstitute](https://github.com/broadinstitute)/[gnomad-browser](https://github.com/broadinstitute/gnomad-browser)
 
-ID = 309, Stars = 46, Language = JavaScript, Update = 2020-09-01
+ID = 195, Stars = 46, Language = JavaScript, Update = 2020-09-01
 
 JavaScript tools for exploring genomic data
-##### [vgteam](https://github.com/vgteam)/[odgi](https://github.com/vgteam/odgi)
+##### [refresh-bio](https://github.com/refresh-bio)/[kmer-db](https://github.com/refresh-bio/kmer-db)
 
-ID = 310, Stars = 46, Language = C++, Update = 2020-08-30
+ID = 196, Stars = 46, Language = C++, Update = 2020-08-19
 
-optimized dynamic genome graph implementation
-##### [biocore](https://github.com/biocore)/[mmvec](https://github.com/biocore/mmvec)
+None
+##### [ding-lab](https://github.com/ding-lab)/[MuSiC2](https://github.com/ding-lab/MuSiC2)
 
-ID = 311, Stars = 46, Language = Python, Update = 2020-07-13
+ID = 197, Stars = 46, Language = Perl, Update = 2019-05-19
 
-Neural networks for microbe-metabolite interaction analysis
-##### [daler](https://github.com/daler)/[matplotlibrc](https://github.com/daler/matplotlibrc)
-
-ID = 312, Stars = 45, Language = Python, Update = 2013-11-05
-
-some example matplotlibrc files, and a script display their effects
-##### [seandavi](https://github.com/seandavi)/[GEOquery](https://github.com/seandavi/GEOquery)
-
-ID = 313, Stars = 45, Language = R, Update = 2020-05-30
-
-The bridge between the NCBI Gene Expression Omnibus and Bioconductor
+identifying mutational significance in cancer genomes
 ##### [arq5x](https://github.com/arq5x)/[ggd](https://github.com/arq5x/ggd)
 
-ID = 314, Stars = 45, Language = Python, Update = 2016-04-20
+ID = 198, Stars = 45, Language = Python, Update = 2016-04-20
 
 None
 ##### [mathonco](https://github.com/mathonco)/[NeoPredPipe](https://github.com/MathOnco/NeoPredPipe)
 
-ID = 315, Stars = 45, Language = Python, Update = 2020-08-17
+ID = 199, Stars = 45, Language = Python, Update = 2020-08-17
 
 Neoantigens prediction pipeline for multi- or single-region vcf files using ANNOVAR and netMHCpan.
 ##### [broadinstitute](https://github.com/broadinstitute)/[docker-terraform](https://github.com/broadinstitute/docker-terraform)
 
-ID = 316, Stars = 45, Language = Dockerfile, Update = 2020-05-22
+ID = 200, Stars = 45, Language = Dockerfile, Update = 2020-05-22
 
 Docker container for running the Terraform application
 ##### [brentp](https://github.com/brentp)/[irelate](https://github.com/brentp/irelate)
 
-ID = 317, Stars = 44, Language = Go, Update = 2020-07-12
+ID = 201, Stars = 44, Language = Go, Update = 2020-07-12
 
 Streaming relation (overlap, distance, KNN) of (any number of) sorted genomic interval sets. #golang
 ##### [brentp](https://github.com/brentp)/[vcfgo](https://github.com/brentp/vcfgo)
 
-ID = 318, Stars = 44, Language = Go, Update = 2020-03-14
+ID = 202, Stars = 44, Language = Go, Update = 2020-03-14
 
 a golang library to read, write and manipulate files in the variant call format.
-##### [papenfusslab](https://github.com/papenfusslab)/[bioshake](https://github.com/PapenfussLab/bioshake)
-
-ID = 319, Stars = 44, Language = Haskell, Update = 2019-08-13
-
-Bioinformatics pipelines with Haskell and Shake
 ##### [refresh-bio](https://github.com/refresh-bio)/[DSRC](https://github.com/refresh-bio/DSRC)
 
-ID = 320, Stars = 44, Language = C++, Update = 2020-06-24
+ID = 203, Stars = 44, Language = C++, Update = 2020-06-24
 
 DSRC - DNA Sequence Reads Compressor
-##### [nf-core](https://github.com/nf-core)/[ampliseq](https://github.com/nf-core/ampliseq)
+##### [lh3](https://github.com/lh3)/[samtools](https://github.com/lh3/samtools)
 
-ID = 321, Stars = 44, Language = Nextflow, Update = 2020-07-31
+ID = 204, Stars = 43, Language = C, Update = 2017-06-09
 
-16S rRNA amplicon sequencing analysis workflow using QIIME2
-##### [freeseek](https://github.com/freeseek)/[gtc2vcf](https://github.com/freeseek/gtc2vcf)
-
-ID = 322, Stars = 43, Language = C, Update = 2020-08-25
-
-Tools to convert Illumina IDAT/BPM/EGT/GTC and Affymetrix CEL/CHP files to VCF
+This is *NOT* the official repository of samtools.
 ##### [brentp](https://github.com/brentp)/[fishers_exact_test](https://github.com/brentp/fishers_exact_test)
 
-ID = 323, Stars = 43, Language = Python, Update = 2019-10-02
+ID = 205, Stars = 43, Language = Python, Update = 2019-10-02
 
 Fishers Exact Test for Python (Cython)
 ##### [brentp](https://github.com/brentp)/[interlap](https://github.com/brentp/interlap)
 
-ID = 324, Stars = 43, Language = Python, Update = 2018-08-31
+ID = 206, Stars = 43, Language = Python, Update = 2018-08-31
 
 fast, pure-python interval overlap testing
 ##### [arq5x](https://github.com/arq5x)/[filo](https://github.com/arq5x/filo)
 
-ID = 325, Stars = 43, Language = C++, Update = 2015-12-21
+ID = 207, Stars = 43, Language = C++, Update = 2015-12-21
 
 Useful FILe and stream Operations
-##### [lh3](https://github.com/lh3)/[samtools](https://github.com/lh3/samtools)
+##### [niu-lab](https://github.com/niu-lab)/[msisensor2](https://github.com/niu-lab/msisensor2)
 
-ID = 326, Stars = 43, Language = C, Update = 2017-06-09
+ID = 208, Stars = 43, Language = R, Update = 2019-11-21
 
-This is *NOT* the official repository of samtools.
+Microsatellite instability (MSI) detection for tumor only data.
 ##### [biod](https://github.com/biod)/[BioD](https://github.com/biod/BioD)
 
-ID = 327, Stars = 43, Language = D, Update = 2019-12-17
+ID = 209, Stars = 43, Language = D, Update = 2019-12-17
 
 A D library for computational biology and bioinformatics
 ##### [brentp](https://github.com/brentp)/[intintmap](https://github.com/brentp/intintmap)
 
-ID = 328, Stars = 42, Language = Go, Update = 2019-02-11
+ID = 210, Stars = 42, Language = Go, Update = 2019-02-11
 
 fast int64-int64 map for go
 ##### [brentp](https://github.com/brentp)/[go-chartjs](https://github.com/brentp/go-chartjs)
 
-ID = 329, Stars = 42, Language = Go, Update = 2017-09-01
+ID = 211, Stars = 42, Language = Go, Update = 2017-09-01
 
 golang library to make https://chartjs.org/ plots (this is vanilla #golang, not gopherjs)
 ##### [astrazeneca-ngs](https://github.com/astrazeneca-ngs)/[reference_data](https://github.com/AstraZeneca-NGS/reference_data)
 
-ID = 330, Stars = 42, Language = Python, Update = 2017-11-28
+ID = 212, Stars = 42, Language = Python, Update = 2017-11-28
 
 Reference data: BED files, genes, transcripts, variations.
-##### [statgen](https://github.com/statgen)/[libStatGen](https://github.com/statgen/libStatGen)
-
-ID = 331, Stars = 42, Language = C++, Update = 2020-05-12
-
-Useful set of classes for creating statistical genetic programs.
-##### [ming-lian](https://github.com/ming-lian)/[Bioinfo_LeetCode](https://github.com/Ming-Lian/Bioinfo_LeetCode)
-
-ID = 332, Stars = 41, Language = Python, Update = 2020-04-11
-
-让我们以刷LeetCode题目的形式，来编程解决生物信息学问题吧，Come on
 ##### [brentp](https://github.com/brentp)/[hts-nim-tools](https://github.com/brentp/hts-nim-tools)
 
-ID = 333, Stars = 41, Language = Nim, Update = 2020-08-07
+ID = 213, Stars = 41, Language = Nim, Update = 2020-08-07
 
 useful command-line tools written to show-case hts-nim
-##### [openvax](https://github.com/openvax)/[gtfparse](https://github.com/openvax/gtfparse)
-
-ID = 334, Stars = 41, Language = Python, Update = 2020-08-05
-
-Parsing tools for GTF (gene transfer format) files
-##### [openvax](https://github.com/openvax)/[neoantigen-vaccine-pipeline](https://github.com/openvax/neoantigen-vaccine-pipeline)
-
-ID = 335, Stars = 41, Language = Jupyter Notebook, Update = 2020-06-01
-
-Bioinformatics pipeline for selecting patient-specific cancer neoantigen vaccines
-##### [bioinform](https://github.com/bioinform)/[metasv](https://github.com/bioinform/metasv)
-
-ID = 336, Stars = 41, Language = Python, Update = 2017-06-30
-
-MetaSV: An accurate and integrative structural-variant caller for next generation sequencing
-##### [wglab](https://github.com/wglab)/[phenolyzer](https://github.com/WGLab/phenolyzer)
-
-ID = 337, Stars = 41, Language = Perl, Update = 2019-12-04
-
-phenotype-based prioritization of candidate genes for human diseases
-##### [niu-lab](https://github.com/niu-lab)/[msisensor2](https://github.com/niu-lab/msisensor2)
-
-ID = 338, Stars = 41, Language = R, Update = 2019-11-21
-
-Microsatellite instability (MSI) detection for tumor only data.
-##### [ensembl](https://github.com/ensembl)/[ensembl-hive](https://github.com/Ensembl/ensembl-hive)
-
-ID = 339, Stars = 41, Language = Perl, Update = 2020-08-21
-
-EnsEMBL Hive - a system for creating and running pipelines on a distributed compute resource
 ##### [broadinstitute](https://github.com/broadinstitute)/[catch](https://github.com/broadinstitute/catch)
 
-ID = 340, Stars = 41, Language = Python, Update = 2020-06-12
+ID = 214, Stars = 41, Language = Python, Update = 2020-06-12
 
 A package for designing compact and comprehensive capture probe sets.
-##### [andersenlab](https://github.com/andersenlab)/[IBiS-Bootcamp](https://github.com/AndersenLab/IBiS-Bootcamp)
+##### [ensembl](https://github.com/ensembl)/[ensembl-hive](https://github.com/Ensembl/ensembl-hive)
 
-ID = 341, Stars = 41, Language = Shell, Update = 2016-09-14
+ID = 215, Stars = 41, Language = Perl, Update = 2020-08-21
 
-None
-##### [seandavi](https://github.com/seandavi)/[sars2pack](https://github.com/seandavi/sars2pack)
+EnsEMBL Hive - a system for creating and running pipelines on a distributed compute resource
+##### [wglab](https://github.com/wglab)/[phenolyzer](https://github.com/WGLab/phenolyzer)
 
-ID = 342, Stars = 40, Language = R, Update = 2020-09-02
+ID = 216, Stars = 41, Language = Perl, Update = 2019-12-04
 
-An R package with nearly 40 highly cited, read-to-use, up-to-date COVID-19 pandemic data resources
-##### [openvax](https://github.com/openvax)/[pepdata](https://github.com/openvax/pepdata)
+phenotype-based prioritization of candidate genes for human diseases
+##### [bioinform](https://github.com/bioinform)/[metasv](https://github.com/bioinform/metasv)
 
-ID = 343, Stars = 40, Language = Python, Update = 2018-02-26
+ID = 217, Stars = 41, Language = Python, Update = 2017-06-30
 
-Python interface to amino acid properties and IEDB
+MetaSV: An accurate and integrative structural-variant caller for next generation sequencing
+##### [shubhamchandak94](https://github.com/shubhamchandak94)/[Spring](https://github.com/shubhamchandak94/Spring) *new+*
+
+ID = 218, Stars = 40, Language = C++, Update = 2020-01-28
+
+FASTQ compression
 ##### [ncbi](https://github.com/ncbi)/[BAMscale](https://github.com/ncbi/BAMscale)
 
-ID = 344, Stars = 40, Language = C, Update = 2020-06-02
+ID = 219, Stars = 40, Language = C, Update = 2020-06-02
 
 BAMscale is a one-step tool for either 1) quantifying and normalizing the coverage of peaks or 2) generated scaled BigWig files for easy visualization of commonly used DNA-seq capture based methods.
-##### [ga4gh](https://github.com/ga4gh)/[vr-spec](https://github.com/ga4gh/vr-spec)
-
-ID = 345, Stars = 40, Language = Makefile, Update = 2020-09-01
-
-Extensible specification for representing and uniquely identifying biological sequence variation
-##### [zhou-lab](https://github.com/zhou-lab)/[biscuit](https://github.com/zhou-lab/biscuit)
-
-ID = 346, Stars = 40, Language = C, Update = 2020-05-13
-
-BISulfite-seq CUI Toolkit
-##### [daler](https://github.com/daler)/[trackhub](https://github.com/daler/trackhub)
-
-ID = 347, Stars = 39, Language = Python, Update = 2020-08-02
-
-create, manage, and upload track hubs for use in the UCSC genome browser
 ##### [brentp](https://github.com/brentp)/[indelope](https://github.com/brentp/indelope)
 
-ID = 348, Stars = 39, Language = Nim, Update = 2017-12-03
+ID = 220, Stars = 39, Language = Nim, Update = 2017-12-03
 
 find large indels (in the blind spot between GATK/freebayes and SV callers)
-##### [tseemann](https://github.com/tseemann)/[VelvetOptimiser](https://github.com/tseemann/VelvetOptimiser)
-
-ID = 349, Stars = 39, Language = Perl, Update = 2017-12-21
-
-📈
-Automatically optimise three of Velvet's assembly parameters.
-##### [danielecook](https://github.com/danielecook)/[iex-api-python](https://github.com/danielecook/iex-api-python)
-
-ID = 350, Stars = 39, Language = Python, Update = 2018-10-23
-
-A python wrapper for the IEX API
 ##### [ncbi](https://github.com/ncbi)/[JATSPreviewStylesheets](https://github.com/ncbi/JATSPreviewStylesheets)
 
-ID = 351, Stars = 39, Language = XSLT, Update = 2014-05-13
+ID = 221, Stars = 39, Language = XSLT, Update = 2014-05-13
 
 JATS Preview Stylesheets
 ##### [broadinstitute](https://github.com/broadinstitute)/[gamgee](https://github.com/broadinstitute/gamgee)
 
-ID = 352, Stars = 39, Language = C++, Update = 2019-08-05
+ID = 222, Stars = 39, Language = C++, Update = 2019-08-05
 
 A C++14 library for NGS data formats
-##### [vgteam](https://github.com/vgteam)/[graph-genomics-review](https://github.com/vgteam/graph-genomics-review)
-
-ID = 353, Stars = 39, Language = TeX, Update = 2020-04-15
-
-Pangenome graphs (review article on graph-based pangenomic methods)
-##### [brentp](https://github.com/brentp)/[jigv](https://github.com/brentp/jigv)
-
-ID = 354, Stars = 38, Language = Nim, Update = 2020-04-07
-
-igv.js server and automatic configuration to view bam/cram/vcf/bed. "working in under 1 minute"
 ##### [ewels](https://github.com/ewels)/[nf-core-rnaseq](https://github.com/ewels/nf-core-rnaseq)
 
-ID = 355, Stars = 38, Language = Nextflow, Update = 2020-06-17
+ID = 223, Stars = 38, Language = Nextflow, Update = 2020-06-17
 
 See the main fork of this repository here >>>
 ##### [lh3](https://github.com/lh3)/[CHM-eval](https://github.com/lh3/CHM-eval)
 
-ID = 356, Stars = 38, Language = TeX, Update = 2020-06-24
+ID = 224, Stars = 38, Language = TeX, Update = 2020-06-24
 
 None
-##### [gatk-workflows](https://github.com/gatk-workflows)/[broad-prod-wgs-germline-snps-indels](https://github.com/gatk-workflows/broad-prod-wgs-germline-snps-indels)
+##### [brentp](https://github.com/brentp)/[jigv](https://github.com/brentp/jigv)
 
-ID = 357, Stars = 38, Language = wdl, Update = 2020-03-19
+ID = 225, Stars = 38, Language = Nim, Update = 2020-04-07
 
-Workflows for germline short variant discovery in WGS data. PairedEndSingleSampleWf has been superseded in Broad production by https://github.com/gatk-workflows/five-dollar-genome-analysis-pipeline
+igv.js server and automatic configuration to view bam/cram/vcf/bed. "working in under 1 minute"
 ##### [igvteam](https://github.com/igvteam)/[igv-webapp](https://github.com/igvteam/igv-webapp)
 
-ID = 358, Stars = 38, Language = JavaScript, Update = 2020-08-22
+ID = 226, Stars = 38, Language = JavaScript, Update = 2020-08-22
 
 IGV Web App
-##### [benlangmead](https://github.com/benlangmead)/[crossbow](https://github.com/BenLangmead/crossbow)
-
-ID = 359, Stars = 37, Language = Perl, Update = 2014-01-14
-
-Variant calling from sequence reads using cloud computing
 ##### [lh3](https://github.com/lh3)/[htsbox](https://github.com/lh3/htsbox)
 
-ID = 360, Stars = 37, Language = C, Update = 2018-03-29
+ID = 227, Stars = 37, Language = C, Update = 2018-03-29
 
 My experimental tools on top of htslib. NOT OFFICIAL!!!
-##### [cgatoxford](https://github.com/cgatoxford)/[CGATPipelines](https://github.com/CGATOxford/CGATPipelines)
+##### [benlangmead](https://github.com/benlangmead)/[crossbow](https://github.com/BenLangmead/crossbow)
 
-ID = 361, Stars = 37, Language = Python, Update = 2018-11-08
+ID = 228, Stars = 37, Language = Perl, Update = 2014-01-14
 
-Collection of CGAT NGS Pipelines
-##### [ensembl](https://github.com/ensembl)/[ensembl-compara](https://github.com/Ensembl/ensembl-compara)
-
-ID = 362, Stars = 37, Language = Perl, Update = 2020-09-01
-
-The Ensembl Compara Perl API and SQL schema
-##### [parklab](https://github.com/parklab)/[SigMA](https://github.com/parklab/SigMA)
-
-ID = 363, Stars = 37, Language = R, Update = 2020-04-30
-
-Mutational signature analysis for low statistics SNV data
-##### [daehwankimlab](https://github.com/daehwankimlab)/[hisat](https://github.com/DaehwanKimLab/hisat)
-
-ID = 364, Stars = 37, Language = C++, Update = 2015-09-08
-
-Fast spliced aligner with low memory requirements
+Variant calling from sequence reads using cloud computing
 ##### [broadinstitute](https://github.com/broadinstitute)/[dsde-deep-learning](https://github.com/broadinstitute/dsde-deep-learning)
 
-ID = 365, Stars = 37, Language = Python, Update = 2019-03-28
+ID = 229, Stars = 37, Language = Python, Update = 2019-03-28
 
 DSDE Deep Learning Club
+##### [ensembl](https://github.com/ensembl)/[ensembl-compara](https://github.com/Ensembl/ensembl-compara)
+
+ID = 230, Stars = 37, Language = Perl, Update = 2020-09-01
+
+The Ensembl Compara Perl API and SQL schema
+##### [cgatoxford](https://github.com/cgatoxford)/[CGATPipelines](https://github.com/CGATOxford/CGATPipelines)
+
+ID = 231, Stars = 37, Language = Python, Update = 2018-11-08
+
+Collection of CGAT NGS Pipelines
+##### [daehwankimlab](https://github.com/daehwankimlab)/[hisat](https://github.com/DaehwanKimLab/hisat)
+
+ID = 232, Stars = 37, Language = C++, Update = 2015-09-08
+
+Fast spliced aligner with low memory requirements
 ##### [ekg](https://github.com/ekg)/[bamaddrg](https://github.com/ekg/bamaddrg)
 
-ID = 366, Stars = 36, Language = C++, Update = 2017-09-21
+ID = 233, Stars = 36, Language = C++, Update = 2017-09-21
 
 adds sample names and read-group (RG) tags to BAM alignments
 ##### [mdshw5](https://github.com/mdshw5)/[simplesam](https://github.com/mdshw5/simplesam)
 
-ID = 367, Stars = 36, Language = Python, Update = 2020-06-02
+ID = 234, Stars = 36, Language = Python, Update = 2020-06-02
 
 Simple pure Python SAM parser and objects for working with SAM records
-##### [papenfusslab](https://github.com/papenfusslab)/[StructuralVariantAnnotation](https://github.com/PapenfussLab/StructuralVariantAnnotation)
-
-ID = 368, Stars = 36, Language = R, Update = 2020-08-17
-
-R package designed to simplify structural variant analysis
 ##### [lh3](https://github.com/lh3)/[yak](https://github.com/lh3/yak)
 
-ID = 369, Stars = 35, Language = C, Update = 2020-08-03
+ID = 235, Stars = 35, Language = C, Update = 2020-08-03
 
 Yet another k-mer analyzer
-##### [pharmgkb](https://github.com/pharmgkb)/[PharmCAT](https://github.com/PharmGKB/PharmCAT)
-
-ID = 370, Stars = 35, Language = Java, Update = 2020-06-14
-
-The Pharmacogenomic Clinical Annotation Tool
-##### [igvteam](https://github.com/igvteam)/[igv-reports](https://github.com/igvteam/igv-reports)
-
-ID = 371, Stars = 35, Language = Python, Update = 2020-07-21
-
-Python application to generate self-contained igv.js pages that can be opened within a browser with "file" protocol.
-##### [griffithlab](https://github.com/griffithlab)/[civic-server](https://github.com/griffithlab/civic-server)
-
-ID = 372, Stars = 35, Language = HTML, Update = 2020-08-20
-
-Backend Server for CIViC Project
 ##### [broadinstitute](https://github.com/broadinstitute)/[CellBender](https://github.com/broadinstitute/CellBender)
 
-ID = 373, Stars = 35, Language = Python, Update = 2020-06-19
+ID = 236, Stars = 35, Language = Python, Update = 2020-06-19
 
 CellBender is a software package for eliminating technical artifacts from high-throughput single-cell RNA sequencing (scRNA-seq) data.
 ##### [broadinstitute](https://github.com/broadinstitute)/[gtex-viz](https://github.com/broadinstitute/gtex-viz)
 
-ID = 374, Stars = 35, Language = JavaScript, Update = 2020-01-28
+ID = 237, Stars = 35, Language = JavaScript, Update = 2020-01-28
 
 GTEx Visualizations
-##### [biocore](https://github.com/biocore)/[gneiss](https://github.com/biocore/gneiss)
+##### [pharmgkb](https://github.com/pharmgkb)/[PharmCAT](https://github.com/PharmGKB/PharmCAT)
 
-ID = 375, Stars = 35, Language = Jupyter Notebook, Update = 2019-10-11
+ID = 238, Stars = 35, Language = Java, Update = 2020-06-14
 
-compositional data analysis toolbox
-##### [brentp](https://github.com/brentp)/[bigly](https://github.com/brentp/bigly)
+The Pharmacogenomic Clinical Annotation Tool
+##### [igvteam](https://github.com/igvteam)/[igv-reports](https://github.com/igvteam/igv-reports)
 
-ID = 376, Stars = 34, Language = Go, Update = 2018-01-17
+ID = 239, Stars = 35, Language = Python, Update = 2020-07-21
 
-a pileup library that embraces the huge
-##### [ekg](https://github.com/ekg)/[glia](https://github.com/ekg/glia)
-
-ID = 377, Stars = 34, Language = C++, Update = 2016-07-05
-
-a string to graph aligner
+Python application to generate self-contained igv.js pages that can be opened within a browser with "file" protocol.
 ##### [lh3](https://github.com/lh3)/[etrf](https://github.com/lh3/etrf)
 
-ID = 378, Stars = 34, Language = C, Update = 2019-10-22
+ID = 240, Stars = 34, Language = C, Update = 2019-10-22
 
 Exact Tandem Repeat Finder (not a TRF replacement)
-##### [openvax](https://github.com/openvax)/[vaxrank](https://github.com/openvax/vaxrank)
+##### [ekg](https://github.com/ekg)/[glia](https://github.com/ekg/glia)
 
-ID = 379, Stars = 34, Language = Python, Update = 2020-08-19
+ID = 241, Stars = 34, Language = C++, Update = 2016-07-05
 
-Ranked vaccine peptides for personalized cancer immunotherapy
+a string to graph aligner
+##### [brentp](https://github.com/brentp)/[bigly](https://github.com/brentp/bigly)
+
+ID = 242, Stars = 34, Language = Go, Update = 2018-01-17
+
+a pileup library that embraces the huge
 ##### [ding-lab](https://github.com/ding-lab)/[hotspot3d](https://github.com/ding-lab/hotspot3d)
 
-ID = 380, Stars = 34, Language = Perl, Update = 2019-08-22
+ID = 243, Stars = 34, Language = Perl, Update = 2019-08-22
 
 3D hotspot mutation proximity analysis tool
-##### [nf-core](https://github.com/nf-core)/[eager](https://github.com/nf-core/eager)
-
-ID = 381, Stars = 34, Language = Nextflow, Update = 2020-09-01
-
-A fully reproducible and state of the art ancient DNA analysis pipeline
-##### [biowdl](https://github.com/biowdl)/[tasks](https://github.com/biowdl/tasks)
-
-ID = 382, Stars = 34, Language = wdl, Update = 2020-09-01
-
-A collection of reusable WDL tasks. Category:Other
-##### [ga4gh](https://github.com/ga4gh)/[data-repository-service-schemas](https://github.com/ga4gh/data-repository-service-schemas)
-
-ID = 383, Stars = 34, Language = Python, Update = 2020-08-17
-
-A repository for the schemas used for the Data Repository Service.
-##### [seandavi](https://github.com/seandavi)/[wdlRunR](https://github.com/seandavi/wdlRunR)
-
-ID = 384, Stars = 33, Language = R, Update = 2019-01-30
-
-Elastic, reproducible, and reusable genomic data science tools from R backed by cloud resources
-##### [pacificbiosciences](https://github.com/pacificbiosciences)/[barcoding](https://github.com/PacificBiosciences/barcoding)
-
-ID = 385, Stars = 33, Language = R, Update = 2020-02-18
-
-Lima - Demultiplex Barcoded PacBio Samples
-##### [statgen](https://github.com/statgen)/[locuszoom-standalone](https://github.com/statgen/locuszoom-standalone)
-
-ID = 386, Stars = 33, Language = Python, Update = 2020-01-21
-
-Create regional association plots from GWAS or meta-analysis
 ##### [broadinstitute](https://github.com/broadinstitute)/[single_cell_portal_core](https://github.com/broadinstitute/single_cell_portal_core)
 
-ID = 387, Stars = 33, Language = Ruby, Update = 2020-09-01
+ID = 244, Stars = 33, Language = Ruby, Update = 2020-09-01
 
 Rails/Docker application for the Broad Institute's single cell RNA-seq data portal
-##### [biocore](https://github.com/biocore)/[scikit-bio-cookbook](https://github.com/biocore/scikit-bio-cookbook)
-
-ID = 388, Stars = 33, Language = Jupyter Notebook, Update = 2016-06-15
-
-Recipes for bioinformatics analyses with scikit-bio
 ##### [lh3](https://github.com/lh3)/[klib.nim](https://github.com/lh3/klib.nim)
 
-ID = 389, Stars = 32, Language = Nim, Update = 2020-04-20
+ID = 245, Stars = 32, Language = Nim, Update = 2020-04-20
 
 Experimental getopt, gzip reader, FASTA/Q parser and interval queries in nim-lang
-##### [ensembl](https://github.com/ensembl)/[ensembl-tools](https://github.com/Ensembl/ensembl-tools)
-
-ID = 390, Stars = 32, Language = Perl, Update = 2020-08-19
-
-Ensembl tools
 ##### [broadinstitute](https://github.com/broadinstitute)/[long-read-pipelines](https://github.com/broadinstitute/long-read-pipelines)
 
-ID = 391, Stars = 32, Language = Jupyter Notebook, Update = 2020-09-02
+ID = 246, Stars = 32, Language = Jupyter Notebook, Update = 2020-09-02
 
 Long read production pipelines
-##### [shenwei356](https://github.com/shenwei356)/[ClipboardTextJoiner](https://github.com/shenwei356/ClipboardTextJoiner)
+##### [ensembl](https://github.com/ensembl)/[ensembl-tools](https://github.com/Ensembl/ensembl-tools)
 
-ID = 392, Stars = 31, Language = Perl, Update = 2016-07-22
+ID = 247, Stars = 32, Language = Perl, Update = 2020-08-19
 
-Monitoring system clipboard change and joining multi-line text. It's very useful when copying multi-line text from PDF files.
-##### [brentp](https://github.com/brentp)/[450k-analysis-guide](https://github.com/brentp/450k-analysis-guide)
-
-ID = 393, Stars = 31, Language = TeX, Update = 2014-10-02
-
-A Practical (And Opinionated) Guide To Analyzing 450K Data
-##### [arq5x](https://github.com/arq5x)/[nanopore-scripts](https://github.com/arq5x/nanopore-scripts)
-
-ID = 394, Stars = 31, Language = Python, Update = 2016-04-17
-
-Various scripts and recipes for working with nanopore data
+Ensembl tools
 ##### [lh3](https://github.com/lh3)/[bioseq-js](https://github.com/lh3/bioseq-js)
 
-ID = 395, Stars = 31, Language = HTML, Update = 2019-08-08
+ID = 248, Stars = 31, Language = HTML, Update = 2019-08-08
 
 For live demo, see http://lh3lh3.users.sourceforge.net/bioseq.shtml
-##### [bioinformaticsfmrp](https://github.com/bioinformaticsfmrp)/[TCGAbiolinksGUI](https://github.com/BioinformaticsFMRP/TCGAbiolinksGUI)
+##### [brentp](https://github.com/brentp)/[450k-analysis-guide](https://github.com/brentp/450k-analysis-guide)
 
-ID = 396, Stars = 31, Language = R, Update = 2019-12-15
+ID = 249, Stars = 31, Language = TeX, Update = 2014-10-02
 
-TCGAbiolinksGUI code development for R/Bioconductor submission http://tcgabiolinks.fmrp.usp.br:3838/
-##### [pacificbiosciences](https://github.com/pacificbiosciences)/[pbdagcon](https://github.com/PacificBiosciences/pbdagcon)
+A Practical (And Opinionated) Guide To Analyzing 450K Data
+##### [shenwei356](https://github.com/shenwei356)/[ClipboardTextJoiner](https://github.com/shenwei356/ClipboardTextJoiner)
 
-ID = 397, Stars = 31, Language = C++, Update = 2018-04-12
+ID = 250, Stars = 31, Language = Perl, Update = 2016-07-22
 
-A sequence consensus algorithm implementation based on using directed acyclic graphs to encode multiple sequence alignment
-##### [parklab](https://github.com/parklab)/[MosaicForecast](https://github.com/parklab/MosaicForecast)
+Monitoring system clipboard change and joining multi-line text. It's very useful when copying multi-line text from PDF files.
+##### [arq5x](https://github.com/arq5x)/[nanopore-scripts](https://github.com/arq5x/nanopore-scripts)
 
-ID = 398, Stars = 31, Language = Python, Update = 2020-08-21
+ID = 251, Stars = 31, Language = Python, Update = 2016-04-17
 
-A mosaic detecting software based on phasing and random forest
+Various scripts and recipes for working with nanopore data
 ##### [broadinstitute](https://github.com/broadinstitute)/[single_cell_portal](https://github.com/broadinstitute/single_cell_portal)
 
-ID = 399, Stars = 31, Language = Python, Update = 2020-09-01
+ID = 252, Stars = 31, Language = Python, Update = 2020-09-01
 
 Tutorials, workflows, and convenience scripts for Single Cell Portal
-##### [brentp](https://github.com/brentp)/[quicksect](https://github.com/brentp/quicksect)
-
-ID = 400, Stars = 30, Language = Python, Update = 2019-06-04
-
-a cythonized, extended version of the interval search tree in bx
 ##### [ekg](https://github.com/ekg)/[thesis](https://github.com/ekg/thesis)
 
-ID = 401, Stars = 30, Language = TeX, Update = 2019-07-10
+ID = 253, Stars = 30, Language = TeX, Update = 2019-07-10
 
 my PhD thesis
-##### [pacificbiosciences](https://github.com/pacificbiosciences)/[FALCON_unzip](https://github.com/PacificBiosciences/FALCON_unzip)
+##### [brentp](https://github.com/brentp)/[quicksect](https://github.com/brentp/quicksect)
 
-ID = 402, Stars = 30, Language = Python, Update = 2017-10-02
+ID = 254, Stars = 30, Language = Python, Update = 2019-06-04
 
-Making diploid assembly becomes common practice for genomic study
-##### [gatk-workflows](https://github.com/gatk-workflows)/[gatk4-exome-analysis-pipeline](https://github.com/gatk-workflows/gatk4-exome-analysis-pipeline)
-
-ID = 403, Stars = 30, Language = wdl, Update = 2020-08-20
-
-This WDL pipeline implements data pre-processing and initial variant calling according to the GATK Best Practices for germline SNP and Indel discovery in human exome sequencing data.
-##### [biocore](https://github.com/biocore)/[tcga](https://github.com/biocore/tcga)
-
-ID = 404, Stars = 30, Language = Jupyter Notebook, Update = 2020-01-11
-
-Microbial analysis in TCGA data
-##### [s-andrews](https://github.com/s-andrews)/[BamQC](https://github.com/s-andrews/BamQC)
-
-ID = 405, Stars = 29, Language = Java, Update = 2018-05-16
-
-Mapped QC analysis program
-##### [freeseek](https://github.com/freeseek)/[gwaspipeline](https://github.com/freeseek/gwaspipeline)
-
-ID = 406, Stars = 29, Language = R, Update = 2018-01-24
-
-None
-##### [brentp](https://github.com/brentp)/[align](https://github.com/brentp/align)
-
-ID = 407, Stars = 29, Language = Python, Update = 2016-12-21
-
-sequence alignment. global, local, glocal.
-##### [richarddurbin](https://github.com/richarddurbin)/[modimizer](https://github.com/richarddurbin/modimizer)
-
-ID = 408, Stars = 29, Language = C, Update = 2020-06-03
-
-a toolset for fast DNA read set matching and assembly using a new type of reduced kmer
+a cythonized, extended version of the interval search tree in bx
 ##### [ewels](https://github.com/ewels)/[Labrador](https://github.com/ewels/Labrador)
 
-ID = 409, Stars = 29, Language = PHP, Update = 2018-11-16
+ID = 255, Stars = 29, Language = PHP, Update = 2018-11-16
 
 A web based tool to manage and automate the processing of publicly available datasets.
-##### [umcugenetics](https://github.com/umcugenetics)/[RNASeq](https://github.com/UMCUGenetics/RNASeq)
+##### [s-andrews](https://github.com/s-andrews)/[BamQC](https://github.com/s-andrews/BamQC)
 
-ID = 410, Stars = 29, Language = Perl, Update = 2019-10-28
+ID = 256, Stars = 29, Language = Java, Update = 2018-05-16
 
-RNASeq pipeline
-##### [pacificbiosciences](https://github.com/pacificbiosciences)/[pbcore](https://github.com/PacificBiosciences/pbcore)
+Mapped QC analysis program
+##### [brentp](https://github.com/brentp)/[align](https://github.com/brentp/align)
 
-ID = 411, Stars = 29, Language = Python, Update = 2020-09-01
+ID = 257, Stars = 29, Language = Python, Update = 2016-12-21
 
-A Python library for reading and writing PacBio® data files
+sequence alignment. global, local, glocal.
 ##### [ding-lab](https://github.com/ding-lab)/[PanCanAtlasGermline](https://github.com/ding-lab/PanCanAtlasGermline)
 
-ID = 412, Stars = 29, Language = R, Update = 2018-10-27
+ID = 258, Stars = 29, Language = R, Update = 2018-10-27
 
 None
-##### [statgen](https://github.com/statgen)/[gotcloud](https://github.com/statgen/gotcloud)
-
-ID = 413, Stars = 29, Language = C++, Update = 2017-03-24
-
-Genomes on the Cloud, Mapping & Variant Calling Pipelines
-##### [ga4gh](https://github.com/ga4gh)/[mme-apis](https://github.com/ga4gh/mme-apis)
-
-ID = 414, Stars = 29, Language = HTML, Update = 2020-01-10
-
-Documentation for the MatchmakerExchange APIs
-##### [tanghaibao](https://github.com/tanghaibao)/[allhic](https://github.com/tanghaibao/allhic)
-
-ID = 415, Stars = 28, Language = Jupyter Notebook, Update = 2020-08-09
-
-Genome scaffolding based on HiC data in heterozygous and high ploidy genomes
 ##### [brentp](https://github.com/brentp)/[combined-pvalues](https://github.com/brentp/combined-pvalues)
 
-ID = 416, Stars = 28, Language = Python, Update = 2020-08-24
+ID = 259, Stars = 28, Language = Python, Update = 2020-08-24
 
 combining p-values using modified stouffer-liptak for spatially correlated results (probes)
-##### [yongxinliu](https://github.com/yongxinliu)/[Metagenome](https://github.com/YongxinLiu/Metagenome)
-
-ID = 417, Stars = 28, Language = Shell, Update = 2019-06-28
-
-Metagenome analysis pipeline
-##### [quinlan-lab](https://github.com/quinlan-lab)/[STRling](https://github.com/quinlan-lab/STRling)
-
-ID = 418, Stars = 28, Language = Nim, Update = 2020-08-25
-
-Detect novel (and reference) STR expansions from short-read data
-##### [pacificbiosciences](https://github.com/pacificbiosciences)/[FALCON-integrate](https://github.com/PacificBiosciences/FALCON-integrate)
-
-ID = 419, Stars = 28, Language = Shell, Update = 2018-04-06
-
-Mostly deprecated. See https://github.com/PacificBiosciences/FALCON_unzip/wiki/Binaries
-##### [statgen](https://github.com/statgen)/[fastQValidator](https://github.com/statgen/fastQValidator)
-
-ID = 420, Stars = 28, Language = C++, Update = 2018-10-30
-
-Validate FastQ Files
 ##### [broadinstitute](https://github.com/broadinstitute)/[genomics-in-the-cloud](https://github.com/broadinstitute/genomics-in-the-cloud)
 
-ID = 421, Stars = 28, Language = Jupyter Notebook, Update = 2020-05-29
+ID = 260, Stars = 28, Language = Jupyter Notebook, Update = 2020-05-29
 
 Source code and related materials for the O'Reilly book
 ##### [broadinstitute](https://github.com/broadinstitute)/[SignatureAnalyzer-GPU](https://github.com/broadinstitute/SignatureAnalyzer-GPU)
 
-ID = 422, Stars = 28, Language = Python, Update = 2019-12-09
+ID = 261, Stars = 28, Language = Python, Update = 2019-12-09
 
 GPU implementation of ARD NMF
-##### [biocore](https://github.com/biocore)/[songbird](https://github.com/biocore/songbird)
+##### [felixkrueger](https://github.com/felixkrueger)/[SNPsplit](https://github.com/FelixKrueger/SNPsplit)
 
-ID = 423, Stars = 28, Language = Python, Update = 2020-05-19
+ID = 262, Stars = 27, Language = Perl, Update = 2020-07-10
 
-Vanilla regression methods for microbiome differential abundance analysis
+Allele-specific alignment sorting
+##### [lh3](https://github.com/lh3)/[hapdip](https://github.com/lh3/hapdip)
+
+ID = 263, Stars = 27, Language = JavaScript, Update = 2018-02-20
+
+The CHM1-NA12878 benchmark for single-sample SNP/INDEL calling from WGS Illumina data
 ##### [brentp](https://github.com/brentp)/[gsort](https://github.com/brentp/gsort)
 
-ID = 424, Stars = 27, Language = Go, Update = 2020-05-26
+ID = 264, Stars = 27, Language = Go, Update = 2020-05-26
 
 sort genomic data
 ##### [brentp](https://github.com/brentp)/[bsub](https://github.com/brentp/bsub)
 
-ID = 425, Stars = 27, Language = Python, Update = 2020-02-27
+ID = 265, Stars = 27, Language = Python, Update = 2020-02-27
 
 python wrapper to submit jobs to bsub (and later qsub)
-##### [lh3](https://github.com/lh3)/[hapdip](https://github.com/lh3/hapdip)
-
-ID = 426, Stars = 27, Language = JavaScript, Update = 2018-02-20
-
-The CHM1-NA12878 benchmark for single-sample SNP/INDEL calling from WGS Illumina data
 ##### [illumina](https://github.com/illumina)/[BeadArrayFiles](https://github.com/Illumina/BeadArrayFiles)
 
-ID = 427, Stars = 27, Language = Python, Update = 2020-02-17
+ID = 266, Stars = 27, Language = Python, Update = 2020-02-17
 
 Python library to parse file formats related to Illumina bead arrays
 ##### [broadinstitute](https://github.com/broadinstitute)/[cromshell](https://github.com/broadinstitute/cromshell)
 
-ID = 428, Stars = 27, Language = Shell, Update = 2020-08-17
+ID = 267, Stars = 27, Language = Shell, Update = 2020-08-17
 
 CLI for interacting with Cromwell servers
 ##### [broadinstitute](https://github.com/broadinstitute)/[PhylogicNDT](https://github.com/broadinstitute/PhylogicNDT)
 
-ID = 429, Stars = 27, Language = HTML, Update = 2020-06-29
+ID = 268, Stars = 27, Language = HTML, Update = 2020-06-29
 
 None
 ##### [s-andrews](https://github.com/s-andrews)/[SeqMonk](https://github.com/s-andrews/SeqMonk)
 
-ID = 430, Stars = 26, Language = Java, Update = 2020-07-29
+ID = 269, Stars = 26, Language = Java, Update = 2020-07-29
 
 SeqMonk NGS visualisation and analysis tool
-##### [felixkrueger](https://github.com/felixkrueger)/[SNPsplit](https://github.com/FelixKrueger/SNPsplit)
+##### [lh3](https://github.com/lh3)/[pre-pe](https://github.com/lh3/pre-pe)
 
-ID = 431, Stars = 26, Language = Perl, Update = 2020-07-10
+ID = 270, Stars = 26, Language = C, Update = 2018-06-28
 
-Allele-specific alignment sorting
-##### [alimanfoo](https://github.com/alimanfoo)/[vcfnp](https://github.com/alimanfoo/vcfnp)
-
-ID = 432, Stars = 26, Language = Python, Update = 2017-06-27
-
-Load numpy arrays and HDF5 files from VCF (variant call format)
+Preprocessing paired-end reads produced with experiment-specific protocols
 ##### [brentp](https://github.com/brentp)/[poverlap](https://github.com/brentp/poverlap)
 
-ID = 433, Stars = 26, Language = Python, Update = 2020-07-11
+ID = 271, Stars = 26, Language = Python, Update = 2020-07-11
 
 significance testing over interval overlaps
 ##### [brentp](https://github.com/brentp)/[geneimpacts](https://github.com/brentp/geneimpacts)
 
-ID = 434, Stars = 26, Language = Python, Update = 2019-10-29
+ID = 272, Stars = 26, Language = Python, Update = 2019-10-29
 
 prioritize effects of variant annotations from VEP, SnpEff, et al.
-##### [tseemann](https://github.com/tseemann)/[homebrew-bioinformatics-linux](https://github.com/tseemann/homebrew-bioinformatics-linux)
-
-ID = 435, Stars = 26, Language = Ruby, Update = 2019-08-23
-
-🍺
-🐧
-Homebrew formulae for bioinformatics software only available for Linux
-##### [lh3](https://github.com/lh3)/[pre-pe](https://github.com/lh3/pre-pe)
-
-ID = 436, Stars = 26, Language = C, Update = 2018-06-28
-
-Preprocessing paired-end reads produced with experiment-specific protocols
-##### [wglab](https://github.com/wglab)/[VirTect](https://github.com/WGLab/VirTect)
-
-ID = 437, Stars = 26, Language = Python, Update = 2020-06-02
-
-Detection of viruses from RNA-Seq on human samples
 ##### [ncbi](https://github.com/ncbi)/[docker](https://github.com/ncbi/docker)
 
-ID = 438, Stars = 26, Language = C++, Update = 2020-07-09
+ID = 273, Stars = 26, Language = C++, Update = 2020-07-09
 
 None
 ##### [broadinstitute](https://github.com/broadinstitute)/[gnomad_methods](https://github.com/broadinstitute/gnomad_methods)
 
-ID = 439, Stars = 26, Language = Python, Update = 2020-08-25
+ID = 274, Stars = 26, Language = Python, Update = 2020-08-25
 
 Hail helper functions for gnomAD/MacArthur lab
-##### [shenwei356](https://github.com/shenwei356)/[unikmer](https://github.com/shenwei356/unikmer)
+##### [wglab](https://github.com/wglab)/[VirTect](https://github.com/WGLab/VirTect)
 
-ID = 440, Stars = 25, Language = Go, Update = 2020-09-01
+ID = 275, Stars = 26, Language = Python, Update = 2020-06-02
 
-unikmer: toolkit for nucleic acid k-mer analysis, including set operation, indexing, and searching on k-mers optional with TaxIDs but without count information.
+Detection of viruses from RNA-Seq on human samples
 ##### [mozack](https://github.com/mozack)/[vdjer](https://github.com/mozack/vdjer)
 
-ID = 441, Stars = 25, Language = C, Update = 2017-04-11
+ID = 276, Stars = 25, Language = C, Update = 2017-04-11
 
 V'DJer - B Cell Receptor Repertoire Reconstruction from short read mRNA-Seq data
-##### [jodyphelan](https://github.com/jodyphelan)/[TBProfiler](https://github.com/jodyphelan/TBProfiler)
-
-ID = 442, Stars = 25, Language = Python, Update = 2020-08-19
-
-Profiling tool for Mycobacterium tuberculosis to detect ressistance and strain type from WGS data
 ##### [brentp](https://github.com/brentp)/[fastbit-python](https://github.com/brentp/fastbit-python)
 
-ID = 443, Stars = 25, Language = Python, Update = 2018-08-10
+ID = 277, Stars = 25, Language = Python, Update = 2018-08-10
 
 pythonic access to fastbit
+##### [shenwei356](https://github.com/shenwei356)/[unikmer](https://github.com/shenwei356/unikmer)
+
+ID = 278, Stars = 25, Language = Go, Update = 2020-09-01
+
+unikmer: toolkit for nucleic acid k-mer analysis, including set operation, indexing, and searching on k-mers optional with TaxIDs but without count information.
+##### [opengene](https://github.com/opengene)/[ctdna-pipeline](https://github.com/OpenGene/ctdna-pipeline)
+
+ID = 279, Stars = 25, Language = Shell, Update = 2017-09-23
+
+A simplified pipeline for ctDNA sequencing data analysis
 ##### [illumina](https://github.com/illumina)/[GTCtoVCF](https://github.com/Illumina/GTCtoVCF)
 
-ID = 444, Stars = 25, Language = Python, Update = 2020-07-09
+ID = 280, Stars = 25, Language = Python, Update = 2020-07-09
 
 Script to convert GTC/BPM files to VCF
 ##### [illumina](https://github.com/illumina)/[gvcfgenotyper](https://github.com/Illumina/gvcfgenotyper)
 
-ID = 445, Stars = 25, Language = C++, Update = 2019-02-26
+ID = 281, Stars = 25, Language = C++, Update = 2019-02-26
 
 A utility for merging and genotyping Illumina-style GVCFs.
 ##### [ensembl](https://github.com/ensembl)/[postgap](https://github.com/Ensembl/postgap)
 
-ID = 446, Stars = 25, Language = Jupyter Notebook, Update = 2020-05-18
+ID = 282, Stars = 25, Language = Jupyter Notebook, Update = 2020-05-18
 
 Linking GWAS studies to genes through cis-regulatory datasets
-##### [statgen](https://github.com/statgen)/[EPACTS](https://github.com/statgen/EPACTS)
-
-ID = 447, Stars = 25, Language = C++, Update = 2019-07-30
-
-None
-##### [opengene](https://github.com/opengene)/[ctdna-pipeline](https://github.com/OpenGene/ctdna-pipeline)
-
-ID = 448, Stars = 25, Language = Shell, Update = 2017-09-23
-
-A simplified pipeline for ctDNA sequencing data analysis
-##### [benlangmead](https://github.com/benlangmead)/[qtip](https://github.com/BenLangmead/qtip)
-
-ID = 449, Stars = 24, Language = C++, Update = 2019-10-31
-
-Qtip: a tandem simulation approach for accurately predicting read alignment mapping qualities
-##### [marianattestad](https://github.com/marianattestad)/[R_for_biologists](https://github.com/MariaNattestad/R_for_biologists)
-
-ID = 450, Stars = 24, Language = R, Update = 2018-11-25
-
-Scripts and data for Plotting in R for Biologists, a video course on YouTube
-##### [tseemann](https://github.com/tseemann)/[seeka](https://github.com/tseemann/seeka)
-
-ID = 451, Stars = 24, Language = Perl, Update = 2019-11-07
-
-Get microbial sequence data easier and faster
 ##### [lh3](https://github.com/lh3)/[asub](https://github.com/lh3/asub)
 
-ID = 452, Stars = 24, Language = Perl, Update = 2019-11-29
+ID = 283, Stars = 24, Language = Perl, Update = 2019-11-29
 
 A unified array job submitter for LSF, SGE/UGE and Slurm
-##### [wglab](https://github.com/wglab)/[NanoMod](https://github.com/WGLab/NanoMod)
+##### [benlangmead](https://github.com/benlangmead)/[qtip](https://github.com/BenLangmead/qtip)
 
-ID = 453, Stars = 24, Language = Python, Update = 2020-07-24
+ID = 284, Stars = 24, Language = C++, Update = 2019-10-31
 
-NanoMod: a computational tool to detect DNA modifications using Nanopore long-read sequencing data
-##### [wglab](https://github.com/wglab)/[EHR-Phenolyzer](https://github.com/WGLab/EHR-Phenolyzer)
-
-ID = 454, Stars = 24, Language = Python, Update = 2019-10-30
-
-A pipeline that takes clinical notes from EHRs and generate phenotype terms, then generate ranked gene list
+Qtip: a tandem simulation approach for accurately predicting read alignment mapping qualities
 ##### [opengene](https://github.com/opengene)/[FusionDirect.jl](https://github.com/OpenGene/FusionDirect.jl)
 
-ID = 455, Stars = 24, Language = Julia, Update = 2017-08-13
+ID = 285, Stars = 24, Language = Julia, Update = 2017-08-13
 
 (No maintenance) Detect gene fusion directly from raw fastq files
 ##### [broadinstitute](https://github.com/broadinstitute)/[gdctools](https://github.com/broadinstitute/gdctools)
 
-ID = 456, Stars = 24, Language = Python, Update = 2018-10-11
+ID = 286, Stars = 24, Language = Python, Update = 2018-10-11
 
 Python and UNIX CLI utilities to simplify interaction with the NIH/NCI Genomics Data Commons
 ##### [broadinstitute](https://github.com/broadinstitute)/[single_cell_analysis](https://github.com/broadinstitute/single_cell_analysis)
 
-ID = 457, Stars = 24, Language = HTML, Update = 2017-02-05
+ID = 287, Stars = 24, Language = HTML, Update = 2017-02-05
 
 Documents used for workshops on single cell analysis
-##### [hall-lab](https://github.com/hall-lab)/[sv-pipeline](https://github.com/hall-lab/sv-pipeline)
+##### [wglab](https://github.com/wglab)/[NanoMod](https://github.com/WGLab/NanoMod)
 
-ID = 458, Stars = 24, Language = wdl, Update = 2020-08-18
+ID = 288, Stars = 24, Language = Python, Update = 2020-07-24
 
-Pipeline for structural variation detection in cohorts
-##### [vgteam](https://github.com/vgteam)/[gssw](https://github.com/vgteam/gssw)
+NanoMod: a computational tool to detect DNA modifications using Nanopore long-read sequencing data
+##### [wglab](https://github.com/wglab)/[EHR-Phenolyzer](https://github.com/WGLab/EHR-Phenolyzer)
 
-ID = 459, Stars = 24, Language = C, Update = 2020-07-14
+ID = 289, Stars = 24, Language = Python, Update = 2019-10-30
 
-efficient alignment of strings to partially ordered string graphs
-##### [freeseek](https://github.com/freeseek)/[mocha](https://github.com/freeseek/mocha)
-
-ID = 460, Stars = 23, Language = C, Update = 2020-08-25
-
-MOsaic CHromosomal Alterations (MoChA) caller
-##### [tanghaibao](https://github.com/tanghaibao)/[treecut](https://github.com/tanghaibao/treecut)
-
-ID = 461, Stars = 23, Language = Python, Update = 2017-10-15
-
-Find nodes in hierarchical clustering that are statistically significant
+A pipeline that takes clinical notes from EHRs and generate phenotype terms, then generate ranked gene list
 ##### [lh3](https://github.com/lh3)/[fermi2](https://github.com/lh3/fermi2)
 
-ID = 462, Stars = 23, Language = C, Update = 2018-02-07
+ID = 290, Stars = 23, Language = C, Update = 2018-02-07
 
 None
-##### [vibansal](https://github.com/vibansal)/[hapcut](https://github.com/vibansal/hapcut)
-
-ID = 463, Stars = 23, Language = C, Update = 2018-11-29
-
-program for haplotype phasing from sequence reads and related tools
-##### [quinlan-lab](https://github.com/quinlan-lab)/[ccrhtml](https://github.com/quinlan-lab/ccrhtml)
-
-ID = 464, Stars = 23, Language = HTML, Update = 2019-10-22
-
-A small repo for storing the code for making the files and html for CCRs.
-##### [pacificbiosciences](https://github.com/pacificbiosciences)/[PacBioFileFormats](https://github.com/PacificBiosciences/PacBioFileFormats)
-
-ID = 465, Stars = 23, Language = Python, Update = 2020-04-07
-
-Specifications for PacBio® native file formats
 ##### [bioconda](https://github.com/bioconda)/[bioconda.github.io](https://github.com/bioconda/bioconda.github.io)
 
-ID = 466, Stars = 23, Language = HTML, Update = 2020-08-30
+ID = 291, Stars = 23, Language = HTML, Update = 2020-08-30
 
 Bioconda is a distribution of bioinformatics software realized as a channel for the versatile package manager Conda.
-##### [nf-core](https://github.com/nf-core)/[mag](https://github.com/nf-core/mag)
+##### [lh3](https://github.com/lh3)/[dipcall](https://github.com/lh3/dipcall)
 
-ID = 467, Stars = 23, Language = Nextflow, Update = 2020-08-28
+ID = 292, Stars = 22, Language = JavaScript, Update = 2020-05-04
 
-Assembly and binning of metagenomes
-##### [nf-core](https://github.com/nf-core)/[modules](https://github.com/nf-core/modules)
-
-ID = 468, Stars = 23, Language = HTML, Update = 2020-08-20
-
-Repository to host tool-specific module files for the Nextflow DSL2 community!
-##### [statgen](https://github.com/statgen)/[emeraLD](https://github.com/statgen/emeraLD)
-
-ID = 469, Stars = 23, Language = C++, Update = 2019-08-27
-
-tools to efficiently retrieve and calculate LD
-##### [statgen](https://github.com/statgen)/[verifyBamID](https://github.com/statgen/verifyBamID)
-
-ID = 470, Stars = 23, Language = C++, Update = 2017-03-15
-
-None
-##### [biocore](https://github.com/biocore)/[redbiom](https://github.com/biocore/redbiom)
-
-ID = 471, Stars = 23, Language = Python, Update = 2020-08-19
-
-Sample search by metadata and features
-##### [cschin](https://github.com/cschin)/[Write_A_Genome_Assembler_With_IPython](https://github.com/cschin/Write_A_Genome_Assembler_With_IPython)
-
-ID = 472, Stars = 22, Language = Python, Update = 2018-05-10
-
-The repository keeps the files for an IPython notebook on about how to make a simple genome assembler using python
+Reference-based variant calling pipeline for a pair of phased haplotype assemblies
 ##### [brentp](https://github.com/brentp)/[nim-lapper](https://github.com/brentp/nim-lapper)
 
-ID = 473, Stars = 22, Language = Nim, Update = 2020-06-09
+ID = 293, Stars = 22, Language = Nim, Update = 2020-06-09
 
 fast easy interval overlapping for nim-lang
 ##### [brentp](https://github.com/brentp)/[cigar](https://github.com/brentp/cigar)
 
-ID = 474, Stars = 22, Language = Python, Update = 2019-09-26
+ID = 294, Stars = 22, Language = Python, Update = 2019-09-26
 
 simple library for dealing with SAM cigar strings
-##### [yongxinliu](https://github.com/yongxinliu)/[Zhang2018SCLS](https://github.com/YongxinLiu/Zhang2018SCLS)
-
-ID = 475, Stars = 22, Language = R, Update = 2019-03-29
-
-Rice (Oryza Sative) root microbiome time-course analysis. (Zhang2018SCLS)
 ##### [arq5x](https://github.com/arq5x)/[bits](https://github.com/arq5x/bits)
 
-ID = 476, Stars = 22, Language = C++, Update = 2017-04-26
+ID = 295, Stars = 22, Language = C++, Update = 2017-04-26
 
 BITS: Binary Interval Search
-##### [lh3](https://github.com/lh3)/[dipcall](https://github.com/lh3/dipcall)
-
-ID = 477, Stars = 22, Language = JavaScript, Update = 2020-05-04
-
-Reference-based variant calling pipeline for a pair of phased haplotype assemblies
-##### [refresh-bio](https://github.com/refresh-bio)/[FAMSA](https://github.com/refresh-bio/FAMSA)
-
-ID = 478, Stars = 22, Language = C++, Update = 2020-06-28
-
-Algorithm for large-scale multiple sequence alignments (400k proteins in 2 hours and 8BG of RAM)
-##### [bioinformaticsfmrp](https://github.com/bioinformaticsfmrp)/[TCGAWorkflow](https://github.com/BioinformaticsFMRP/TCGAWorkflow)
-
-ID = 479, Stars = 22, Language = R, Update = 2020-04-20
-
-TCGA Workflow: Analyze cancer genomics and epigenomics data using Bioconductor packages
-##### [ensembl](https://github.com/ensembl)/[ensembl-variation](https://github.com/Ensembl/ensembl-variation)
-
-ID = 480, Stars = 22, Language = Perl, Update = 2020-09-01
-
-The Ensembl Variation Perl API and SQL schema
 ##### [opengene](https://github.com/opengene)/[VisualMSI](https://github.com/OpenGene/VisualMSI)
 
-ID = 481, Stars = 22, Language = C++, Update = 2019-06-04
+ID = 296, Stars = 22, Language = C++, Update = 2019-06-04
 
 Detect and visualize microsatellite instability(MSI) from NGS data
 ##### [opengene](https://github.com/opengene)/[defq](https://github.com/OpenGene/defq)
 
-ID = 482, Stars = 22, Language = C, Update = 2018-07-28
+ID = 297, Stars = 22, Language = C, Update = 2018-07-28
 
 Ultra-fast Multi-threaded FASTQ Demultiplexing
-##### [gregoryfaust](https://github.com/gregoryfaust)/[yaha](https://github.com/GregoryFaust/yaha)
+##### [ensembl](https://github.com/ensembl)/[ensembl-variation](https://github.com/Ensembl/ensembl-variation)
 
-ID = 483, Stars = 21, Language = C, Update = 2017-12-06
+ID = 298, Stars = 22, Language = Perl, Update = 2020-09-01
 
-yaha: a flexible, sensitive and accurate DNA alignment tool designed to find optimal split-read mappings on single-end queries from 100bp to 32kb.
-##### [vibansal](https://github.com/vibansal)/[ancestry](https://github.com/vibansal/ancestry)
+The Ensembl Variation Perl API and SQL schema
+##### [refresh-bio](https://github.com/refresh-bio)/[FAMSA](https://github.com/refresh-bio/FAMSA)
 
-ID = 484, Stars = 21, Language = C, Update = 2018-04-26
+ID = 299, Stars = 22, Language = C++, Update = 2020-06-28
 
-program to estimate admixture coefficients from individual genotype or sequence data
+Algorithm for large-scale multiple sequence alignments (400k proteins in 2 hours and 8BG of RAM)
 ##### [pcingola](https://github.com/pcingola)/[SnpSift](https://github.com/pcingola/SnpSift)
 
-ID = 485, Stars = 21, Language = Java, Update = 2020-08-09
+ID = 300, Stars = 21, Language = Java, Update = 2020-08-09
 
 None
-##### [illumina](https://github.com/illumina)/[ExpansionHunterDenovo](https://github.com/Illumina/ExpansionHunterDenovo)
+##### [gregoryfaust](https://github.com/gregoryfaust)/[yaha](https://github.com/GregoryFaust/yaha)
 
-ID = 486, Stars = 21, Language = C++, Update = 2020-08-26
+ID = 301, Stars = 21, Language = C, Update = 2017-12-06
 
-A suite of tools for detecting expansions of short tandem repeats
-##### [wglab](https://github.com/wglab)/[Phen2Gene](https://github.com/WGLab/Phen2Gene)
-
-ID = 487, Stars = 21, Language = Python, Update = 2020-06-12
-
-Phenotype driven gene prioritization for HPO
-##### [pacificbiosciences](https://github.com/pacificbiosciences)/[pbh5tools](https://github.com/PacificBiosciences/pbh5tools)
-
-ID = 488, Stars = 21, Language = Python, Update = 2018-12-12
-
-A swiss-army knife for interrogating PacBio® HDF5 files (cmp.h5, bas.h5)
+yaha: a flexible, sensitive and accurate DNA alignment tool designed to find optimal split-read mappings on single-end queries from 100bp to 32kb.
 ##### [ncbi](https://github.com/ncbi)/[magicblast](https://github.com/ncbi/magicblast)
 
-ID = 489, Stars = 21, Language = Python, Update = 2020-07-18
+ID = 302, Stars = 21, Language = Python, Update = 2020-07-18
 
 None
 ##### [ncbi](https://github.com/ncbi)/[consul-announcer](https://github.com/ncbi/consul-announcer)
 
-ID = 490, Stars = 21, Language = Python, Update = 2016-12-12
+ID = 303, Stars = 21, Language = Python, Update = 2016-12-12
 
 Service announcer for Consul (https://www.consul.io/).
+##### [illumina](https://github.com/illumina)/[ExpansionHunterDenovo](https://github.com/Illumina/ExpansionHunterDenovo)
+
+ID = 304, Stars = 21, Language = C++, Update = 2020-08-26
+
+A suite of tools for detecting expansions of short tandem repeats
 ##### [broadinstitute](https://github.com/broadinstitute)/[gatk-sv](https://github.com/broadinstitute/gatk-sv)
 
-ID = 491, Stars = 21, Language = wdl, Update = 2020-08-31
+ID = 305, Stars = 21, Language = wdl, Update = 2020-08-31
 
 None
 ##### [broadinstitute](https://github.com/broadinstitute)/[firecloud-orchestration](https://github.com/broadinstitute/firecloud-orchestration)
 
-ID = 492, Stars = 21, Language = Scala, Update = 2020-08-28
+ID = 306, Stars = 21, Language = Scala, Update = 2020-08-28
 
 None
 ##### [broadinstitute](https://github.com/broadinstitute)/[2019_scWorkshop](https://github.com/broadinstitute/2019_scWorkshop)
 
-ID = 493, Stars = 21, Language = TeX, Update = 2019-11-09
+ID = 307, Stars = 21, Language = TeX, Update = 2019-11-09
 
 Repo for Physalia course Analysis of Single Cell RNA-Seq data
-##### [biocore](https://github.com/biocore)/[unifrac](https://github.com/biocore/unifrac)
+##### [wglab](https://github.com/wglab)/[Phen2Gene](https://github.com/WGLab/Phen2Gene)
 
-ID = 494, Stars = 21, Language = C++, Update = 2020-09-01
+ID = 308, Stars = 21, Language = Python, Update = 2020-06-12
 
-None
-##### [freeseek](https://github.com/freeseek)/[getmydnamatches](https://github.com/freeseek/getmydnamatches)
-
-ID = 495, Stars = 20, Language = Python, Update = 2019-01-21
-
-None
-##### [seandavi](https://github.com/seandavi)/[SRAdbV2](https://github.com/seandavi/SRAdbV2)
-
-ID = 496, Stars = 20, Language = R, Update = 2018-11-19
-
-R Interface to the NCBI SRA metadata
-##### [ekg](https://github.com/ekg)/[1000G-integration](https://github.com/ekg/1000G-integration)
-
-ID = 497, Stars = 20, Language = Shell, Update = 2018-01-16
-
-variant integration methods for the 1000 Genomes Project
-##### [sigven](https://github.com/sigven)/[cpsr](https://github.com/sigven/cpsr)
-
-ID = 498, Stars = 20, Language = R, Update = 2020-08-14
-
-Cancer Predisposition Sequencing Reporter (CPSR)
+Phenotype driven gene prioritization for HPO
 ##### [lh3](https://github.com/lh3)/[sdust](https://github.com/lh3/sdust)
 
-ID = 499, Stars = 20, Language = C, Update = 2019-10-03
+ID = 309, Stars = 20, Language = C, Update = 2019-10-03
 
 Symmetric DUST for finding low-complexity regions in DNA sequences
-##### [papenfusslab](https://github.com/papenfusslab)/[PathOS](https://github.com/PapenfussLab/PathOS)
+##### [ekg](https://github.com/ekg)/[1000G-integration](https://github.com/ekg/1000G-integration)
 
-ID = 500, Stars = 20, Language = Java, Update = 2020-06-07
+ID = 310, Stars = 20, Language = Shell, Update = 2018-01-16
 
-PathOS is a clinical application for filtering, analysing and reporting on NGS variants
-##### [refresh-bio](https://github.com/refresh-bio)/[Whisper](https://github.com/refresh-bio/Whisper)
-
-ID = 501, Stars = 20, Language = C++, Update = 2020-07-02
-
-None
-##### [openvax](https://github.com/openvax)/[topiary](https://github.com/openvax/topiary)
-
-ID = 502, Stars = 20, Language = Python, Update = 2018-02-26
-
-Predict mutated T-cell epitopes from sequencing data
-##### [wglab](https://github.com/wglab)/[SeqMule](https://github.com/WGLab/SeqMule)
-
-ID = 503, Stars = 20, Language = C++, Update = 2020-01-05
-
-Automated human exome/genome variants detection from FASTQ files
-##### [fhcrc](https://github.com/fhcrc)/[nestly](https://github.com/fhcrc/nestly)
-
-ID = 504, Stars = 20, Language = Python, Update = 2017-04-23
-
-Make and use nested directory trees corresponding to combinatorial choices of parameters
-##### [pacificbiosciences](https://github.com/pacificbiosciences)/[pbsmrtpipe](https://github.com/PacificBiosciences/pbsmrtpipe)
-
-ID = 505, Stars = 20, Language = Python, Update = 2018-10-24
-
-PacBio Workflow Engine
-##### [ensembl](https://github.com/ensembl)/[Bio-DB-HTS](https://github.com/Ensembl/Bio-DB-HTS)
-
-ID = 506, Stars = 20, Language = Perl, Update = 2020-07-31
-
-Git repo for Bio::DB::HTS module on CPAN, providing Perl links into HTSlib
-##### [parklab](https://github.com/parklab)/[ShatterSeek](https://github.com/parklab/ShatterSeek)
-
-ID = 507, Stars = 20, Language = TeX, Update = 2020-08-19
-
-None
-##### [nf-core](https://github.com/nf-core)/[nf-co.re](https://github.com/nf-core/nf-co.re)
-
-ID = 508, Stars = 20, Language = PHP, Update = 2020-08-24
-
-Code and files for the main nf-core website.
-##### [nf-core](https://github.com/nf-core)/[hic](https://github.com/nf-core/hic)
-
-ID = 509, Stars = 20, Language = Python, Update = 2020-08-10
-
-Analysis of Chromosome Conformation Capture data (Hi-C)
+variant integration methods for the 1000 Genomes Project
 ##### [ncbi](https://github.com/ncbi)/[JUDI](https://github.com/ncbi/JUDI)
 
-ID = 510, Stars = 20, Language = Python, Update = 2019-12-13
+ID = 311, Stars = 20, Language = Python, Update = 2019-12-13
 
 This repository contains the source code of JUDI, a workflow management system for developing complex bioinformatics software with many parameter settings. Bioinformatics pipeline: Just Do It!
-##### [shenwei356](https://github.com/shenwei356)/[easy_qsub](https://github.com/shenwei356/easy_qsub)
+##### [ensembl](https://github.com/ensembl)/[Bio-DB-HTS](https://github.com/Ensembl/Bio-DB-HTS)
 
-ID = 511, Stars = 19, Language = Python, Update = 2019-06-18
+ID = 312, Stars = 20, Language = Perl, Update = 2020-07-31
 
-Easily submitting multiple PBS jobs or running local jobs in parallel. Multiple input files supported.
-##### [brentp](https://github.com/brentp)/[toolshed](https://github.com/brentp/toolshed)
+Git repo for Bio::DB::HTS module on CPAN, providing Perl links into HTSlib
+##### [refresh-bio](https://github.com/refresh-bio)/[Whisper](https://github.com/refresh-bio/Whisper)
 
-ID = 512, Stars = 19, Language = Python, Update = 2019-12-18
-
-python stuff I use
-##### [ekg](https://github.com/ekg)/[hhga](https://github.com/ekg/hhga)
-
-ID = 513, Stars = 19, Language = C++, Update = 2019-06-13
-
-haplotypes genotypes and alleles example decision synthesizer
-##### [sigven](https://github.com/sigven)/[gvanno](https://github.com/sigven/gvanno)
-
-ID = 514, Stars = 19, Language = Python, Update = 2020-07-01
-
-Generic germline variant annotation pipeline
-##### [tseemann](https://github.com/tseemann)/[ekidna](https://github.com/tseemann/ekidna)
-
-ID = 515, Stars = 19, Language = Perl, Update = 2019-10-23
-
-Assembly based core genome SNP alignments for bacteria
-##### [illumina](https://github.com/illumina)/[Isaac3](https://github.com/Illumina/Isaac3)
-
-ID = 516, Stars = 19, Language = C++, Update = 2018-02-13
-
-Aligner for sequencing data
-##### [papenfusslab](https://github.com/papenfusslab)/[sv_benchmark](https://github.com/PapenfussLab/sv_benchmark)
-
-ID = 517, Stars = 19, Language = R, Update = 2020-08-27
-
-Comprehensive benchmark of structural variant callers
-##### [griffithlab](https://github.com/griffithlab)/[rnaseq_tutorial_wiki](https://github.com/griffithlab/rnaseq_tutorial_wiki)
-
-ID = 518, Stars = 19, Language = Perl, Update = 2020-05-07
-
-The wiki repo, with pull request enabled, for the rnaseq_tutorial
-##### [statgen](https://github.com/statgen)/[Minimac4](https://github.com/statgen/Minimac4)
-
-ID = 519, Stars = 19, Language = C++, Update = 2020-07-31
+ID = 313, Stars = 20, Language = C++, Update = 2020-07-02
 
 None
+##### [wglab](https://github.com/wglab)/[SeqMule](https://github.com/WGLab/SeqMule)
+
+ID = 314, Stars = 20, Language = C++, Update = 2020-01-05
+
+Automated human exome/genome variants detection from FASTQ files
+##### [ekg](https://github.com/ekg)/[hhga](https://github.com/ekg/hhga)
+
+ID = 315, Stars = 19, Language = C++, Update = 2019-06-13
+
+haplotypes genotypes and alleles example decision synthesizer
+##### [brentp](https://github.com/brentp)/[toolshed](https://github.com/brentp/toolshed)
+
+ID = 316, Stars = 19, Language = Python, Update = 2019-12-18
+
+python stuff I use
+##### [shenwei356](https://github.com/shenwei356)/[easy_qsub](https://github.com/shenwei356/easy_qsub)
+
+ID = 317, Stars = 19, Language = Python, Update = 2019-06-18
+
+Easily submitting multiple PBS jobs or running local jobs in parallel. Multiple input files supported.
 ##### [opengene](https://github.com/opengene)/[MrBam](https://github.com/OpenGene/MrBam)
 
-ID = 520, Stars = 19, Language = Python, Update = 2018-11-26
+ID = 318, Stars = 19, Language = Python, Update = 2018-11-26
 
 Query Mutated Reads from a Bam
 ##### [opengene](https://github.com/opengene)/[SeqMaker.jl](https://github.com/OpenGene/SeqMaker.jl)
 
-ID = 521, Stars = 19, Language = Julia, Update = 2017-08-10
+ID = 319, Stars = 19, Language = Julia, Update = 2017-08-10
 
 (No maintenance) Next Generation Sequencing Simulation with SNP, Variation and Sequencing Error Integrated
+##### [illumina](https://github.com/illumina)/[Isaac3](https://github.com/Illumina/Isaac3)
+
+ID = 320, Stars = 19, Language = C++, Update = 2018-02-13
+
+Aligner for sequencing data
 ##### [broadinstitute](https://github.com/broadinstitute)/[BipolarCell2016](https://github.com/broadinstitute/BipolarCell2016)
 
-ID = 522, Stars = 19, Language = R, Update = 2020-02-07
+ID = 321, Stars = 19, Language = R, Update = 2020-02-07
 
 None
 ##### [broadinstitute](https://github.com/broadinstitute)/[gatk-docs](https://github.com/broadinstitute/gatk-docs)
 
-ID = 523, Stars = 19, Language = HTML, Update = 2020-01-06
+ID = 322, Stars = 19, Language = HTML, Update = 2020-01-06
 
 Documentation archive for GATK tools and workflows
 ##### [broadinstitute](https://github.com/broadinstitute)/[BARD](https://github.com/broadinstitute/BARD)
 
-ID = 524, Stars = 19, Language = Groovy, Update = 2019-01-29
+ID = 323, Stars = 19, Language = Groovy, Update = 2019-01-29
 
 BioAssay Research Database
-##### [ga4gh](https://github.com/ga4gh)/[tool-registry-service-schemas](https://github.com/ga4gh/tool-registry-service-schemas)
-
-ID = 525, Stars = 19, Language = Shell, Update = 2020-08-07
-
-APIs for discovering genomics tools, their metadata and their containers
-##### [biocore](https://github.com/biocore)/[calour](https://github.com/biocore/calour)
-
-ID = 526, Stars = 19, Language = Python, Update = 2020-08-26
-
-exploratory and interactive microbiome analyses based on heatmaps
 ##### [gt1](https://github.com/gt1)/[daccord](https://github.com/gt1/daccord)
 
-ID = 527, Stars = 18, Language = C++, Update = 2018-09-12
+ID = 324, Stars = 18, Language = C++, Update = 2018-09-12
 
 d'accord is a non hybrid long read consensus program based on local de Bruijn graph assembly
-##### [a-slide](https://github.com/a-slide)/[pycoMeth](https://github.com/a-slide/pycoMeth)
-
-ID = 528, Stars = 18, Language = Python, Update = 2020-07-17
-
-DNA methylation analysis downstream to Nanopolish for Oxford Nanopore DNA sequencing datasets
-##### [sigven](https://github.com/sigven)/[vcf2tsv](https://github.com/sigven/vcf2tsv)
-
-ID = 529, Stars = 18, Language = Python, Update = 2019-10-14
-
-Genomic VCF to tab-separated values
-##### [openvax](https://github.com/openvax)/[pepnet](https://github.com/openvax/pepnet)
-
-ID = 530, Stars = 18, Language = Python, Update = 2018-02-26
-
-Neural networks for amino acid sequences
-##### [wglab](https://github.com/wglab)/[GenGen](https://github.com/WGLab/GenGen)
-
-ID = 531, Stars = 18, Language = C, Update = 2019-01-16
-
-A set of software tools to facilitate GWAS analysis
-##### [fhcrc](https://github.com/fhcrc)/[taxtastic](https://github.com/fhcrc/taxtastic)
-
-ID = 532, Stars = 18, Language = Python, Update = 2020-08-14
-
-Create and maintain phylogenetic "reference packages" of biological sequences.
-##### [ding-lab](https://github.com/ding-lab)/[BreakPointSurveyor](https://github.com/ding-lab/BreakPointSurveyor)
-
-ID = 533, Stars = 18, Language = Shell, Update = 2020-01-28
-
-A comprehensive pipeline to analyze and visualize structural variants
-##### [ensembl](https://github.com/ensembl)/[ensembl-webcode](https://github.com/Ensembl/ensembl-webcode)
-
-ID = 534, Stars = 18, Language = Perl, Update = 2020-09-01
-
-The code to run an Ensembl website
-##### [griffithlab](https://github.com/griffithlab)/[rnabio.org](https://github.com/griffithlab/rnabio.org)
-
-ID = 535, Stars = 18, Language = CSS, Update = 2020-08-24
-
-website for the rnaseq course
 ##### [ncbi](https://github.com/ncbi)/[gprobe](https://github.com/ncbi/gprobe)
 
-ID = 536, Stars = 18, Language = Go, Update = 2020-01-31
+ID = 325, Stars = 18, Language = Go, Update = 2020-01-31
 
 client app for the gRPC health-checking protocol
 ##### [broadinstitute](https://github.com/broadinstitute)/[firecloud-ui](https://github.com/broadinstitute/firecloud-ui)
 
-ID = 537, Stars = 18, Language = Clojure, Update = 2020-08-26
+ID = 326, Stars = 18, Language = Clojure, Update = 2020-08-26
 
 FireCloud user interface for web browsers.
 ##### [broadinstitute](https://github.com/broadinstitute)/[gnomad_qc](https://github.com/broadinstitute/gnomad_qc)
 
-ID = 538, Stars = 18, Language = Python, Update = 2020-08-24
+ID = 327, Stars = 18, Language = Python, Update = 2020-08-24
 
 None
 ##### [broadinstitute](https://github.com/broadinstitute)/[wdl-ide](https://github.com/broadinstitute/wdl-ide)
 
-ID = 539, Stars = 18, Language = Python, Update = 2019-11-14
+ID = 328, Stars = 18, Language = Python, Update = 2019-11-14
 
 Rich IDE support for Workflow Description Language
-##### [biocore](https://github.com/biocore)/[DEICODE](https://github.com/biocore/DEICODE)
+##### [ensembl](https://github.com/ensembl)/[ensembl-webcode](https://github.com/Ensembl/ensembl-webcode)
 
-ID = 540, Stars = 18, Language = JavaScript, Update = 2020-06-25
+ID = 329, Stars = 18, Language = Perl, Update = 2020-09-01
 
-Robust Aitchison PCA from sparse count data
-##### [tseemann](https://github.com/tseemann)/[samclip](https://github.com/tseemann/samclip)
+The code to run an Ensembl website
+##### [wglab](https://github.com/wglab)/[GenGen](https://github.com/WGLab/GenGen)
 
-ID = 541, Stars = 17, Language = Perl, Update = 2020-03-07
+ID = 330, Stars = 18, Language = C, Update = 2019-01-16
 
-Filter SAM file for soft and hard clipped alignments
+A set of software tools to facilitate GWAS analysis
+##### [ding-lab](https://github.com/ding-lab)/[BreakPointSurveyor](https://github.com/ding-lab/BreakPointSurveyor)
+
+ID = 331, Stars = 18, Language = Shell, Update = 2020-01-28
+
+A comprehensive pipeline to analyze and visualize structural variants
+##### [xjtu-omics](https://github.com/xjtu-omics)/[msisensor-pro](https://github.com/xjtu-omics/msisensor-pro)
+
+ID = 332, Stars = 17, Language = C++, Update = 2020-07-23
+
+Microsatellite Instability (MSI) detection using high-throughput sequencing data.
 ##### [illumina](https://github.com/illumina)/[SMNCopyNumberCaller](https://github.com/Illumina/SMNCopyNumberCaller)
 
-ID = 542, Stars = 17, Language = Python, Update = 2020-08-27
+ID = 333, Stars = 17, Language = Python, Update = 2020-08-27
 
 A copy number caller for SMN1 and SMN2 to enable SMA diagnosis and carrier screening with WGS
 ##### [illumina](https://github.com/illumina)/[GraphAlignmentViewer](https://github.com/Illumina/GraphAlignmentViewer)
 
-ID = 543, Stars = 17, Language = Python, Update = 2020-06-05
+ID = 334, Stars = 17, Language = Python, Update = 2020-06-05
 
 None
-##### [quinlan-lab](https://github.com/quinlan-lab)/[pathoscore](https://github.com/quinlan-lab/pathoscore)
-
-ID = 544, Stars = 17, Language = Python, Update = 2019-06-29
-
-pathoscore evaluates variant pathogenicity tools and scores.
-##### [humanlongevity](https://github.com/humanlongevity)/[tredparse](https://github.com/humanlongevity/tredparse)
-
-ID = 545, Stars = 17, Language = Python, Update = 2020-08-20
-
-TREDPARSE: HLI Short Tandem Repeat (STR) caller
-##### [maxplanck-ie](https://github.com/maxplanck-ie)/[parkour](https://github.com/maxplanck-ie/parkour)
-
-ID = 546, Stars = 17, Language = JavaScript, Update = 2020-03-13
-
-An open-source Laboratory Information Management System (LIMS) for Next-Generation Sequencing (NGS)
-##### [maxplanck-ie](https://github.com/maxplanck-ie)/[HiCAssembler](https://github.com/maxplanck-ie/HiCAssembler)
-
-ID = 547, Stars = 17, Language = Python, Update = 2019-11-07
-
-Software to assemble contigs/scaffolds into chromosomes using Hi-C data
-##### [astrazeneca-ngs](https://github.com/astrazeneca-ngs)/[disambiguate](https://github.com/AstraZeneca-NGS/disambiguate)
-
-ID = 548, Stars = 17, Language = C++, Update = 2018-05-08
-
-Disambiguation algorithm for reads aligned to human and mouse genomes using Tophat or BWA mem
-##### [nf-core](https://github.com/nf-core)/[nanoseq](https://github.com/nf-core/nanoseq)
-
-ID = 549, Stars = 17, Language = Nextflow, Update = 2020-08-27
-
-Nanopore demultiplexing, QC and alignment pipeline
-##### [statgen](https://github.com/statgen)/[popscle](https://github.com/statgen/popscle)
-
-ID = 550, Stars = 17, Language = C++, Update = 2020-06-16
-
-A suite of population scale analysis tools for single-cell genomics data including implementation of Demuxlet / Freemuxlet methods and auxilary tools
 ##### [broadinstitute](https://github.com/broadinstitute)/[sam](https://github.com/broadinstitute/sam)
 
-ID = 551, Stars = 17, Language = Scala, Update = 2020-09-01
+ID = 335, Stars = 17, Language = Scala, Update = 2020-09-01
 
 workbench identity and access management
 ##### [broadinstitute](https://github.com/broadinstitute)/[getzlab-SignatureAnalyzer](https://github.com/broadinstitute/getzlab-SignatureAnalyzer)
 
-ID = 552, Stars = 17, Language = Python, Update = 2020-07-28
+ID = 336, Stars = 17, Language = Python, Update = 2020-07-28
 
 Updated SignatureAnalyzer-GPU with mutational spectra & RNA expression compatibility.
 ##### [broadinstitute](https://github.com/broadinstitute)/[cromwell-tools](https://github.com/broadinstitute/cromwell-tools)
 
-ID = 553, Stars = 17, Language = Python, Update = 2020-02-21
+ID = 337, Stars = 17, Language = Python, Update = 2020-02-21
 
 A collection of Python clients and accessory scripts for interacting with the Cromwell
 ##### [broadinstitute](https://github.com/broadinstitute)/[deepometry](https://github.com/broadinstitute/deepometry)
 
-ID = 554, Stars = 17, Language = Python, Update = 2018-06-30
+ID = 338, Stars = 17, Language = Python, Update = 2018-06-30
 
 Image classification for imaging flow cytometry.
-##### [biocore](https://github.com/biocore)/[micronota](https://github.com/biocore/micronota)
+##### [astrazeneca-ngs](https://github.com/astrazeneca-ngs)/[disambiguate](https://github.com/AstraZeneca-NGS/disambiguate)
 
-ID = 555, Stars = 17, Language = Python, Update = 2018-02-23
+ID = 339, Stars = 17, Language = C++, Update = 2018-05-08
 
-annotation pipeline for microbial genomes and metagenomes
-##### [seandavi](https://github.com/seandavi)/[BiocPkgTools](https://github.com/seandavi/BiocPkgTools)
+Disambiguation algorithm for reads aligned to human and mouse genomes using Tophat or BWA mem
+##### [humanlongevity](https://github.com/humanlongevity)/[tredparse](https://github.com/humanlongevity/tredparse)
 
-ID = 556, Stars = 16, Language = R, Update = 2020-03-25
+ID = 340, Stars = 17, Language = Python, Update = 2020-08-20
 
-Computable build reports, package metadata, and download stats from the Bioconductor project
-##### [brentp](https://github.com/brentp)/[genoiser](https://github.com/brentp/genoiser)
-
-ID = 557, Stars = 16, Language = Nim, Update = 2020-04-15
-
-use the noise
-##### [ekg](https://github.com/ekg)/[viral-assembly](https://github.com/ekg/viral-assembly)
-
-ID = 558, Stars = 16, Language = Shell, Update = 2020-05-18
-
-exploring viral genome assembly with variation graph tools
-##### [ekg](https://github.com/ekg)/[multichoose](https://github.com/ekg/multichoose)
-
-ID = 559, Stars = 16, Language = C++, Update = 2019-12-09
-
-generate multiset combinations (n multichoose k)
-##### [ekg](https://github.com/ekg)/[drawbwt](https://github.com/ekg/drawbwt)
-
-ID = 560, Stars = 16, Language = C++, Update = 2019-04-29
-
-vector illustrations of BWT based searching on small strings
-##### [sigven](https://github.com/sigven)/[cacao](https://github.com/sigven/cacao)
-
-ID = 561, Stars = 16, Language = R, Update = 2020-05-10
-
-Callable Cancer Loci - assessment of sequencing coverage for actionable and pathogenic loci in cancer
-##### [tseemann](https://github.com/tseemann)/[phastaf](https://github.com/tseemann/phastaf)
-
-ID = 562, Stars = 16, Language = Perl, Update = 2019-09-05
-
-Identify phage regions in bacterial genomes for masking purposes
+TREDPARSE: HLI Short Tandem Repeat (STR) caller
 ##### [lh3](https://github.com/lh3)/[calN50](https://github.com/lh3/calN50)
 
-ID = 563, Stars = 16, Language = JavaScript, Update = 2020-07-14
+ID = 341, Stars = 16, Language = JavaScript, Update = 2020-07-14
 
 Compute N50/NG50 and auN/auNG
 ##### [lh3](https://github.com/lh3)/[lianti](https://github.com/lh3/lianti)
 
-ID = 564, Stars = 16, Language = C, Update = 2019-02-20
+ID = 342, Stars = 16, Language = C, Update = 2019-02-20
 
 Tools to process LIANTI sequence data
-##### [openvax](https://github.com/openvax)/[isovar](https://github.com/openvax/isovar)
-
-ID = 565, Stars = 16, Language = Python, Update = 2020-08-19
-
-Assembly of RNA reads to determine the effect of a cancer mutation on protein sequence
-##### [openvax](https://github.com/openvax)/[varlens](https://github.com/openvax/varlens)
-
-ID = 566, Stars = 16, Language = Python, Update = 2018-02-26
-
-commandline manipulation of genomic variants and NGS reads
-##### [wglab](https://github.com/wglab)/[RepeatHMM](https://github.com/WGLab/RepeatHMM)
-
-ID = 567, Stars = 16, Language = Python, Update = 2020-08-04
-
-a hidden Markov model to infer simple repeats from genome sequences
-##### [pacificbiosciences](https://github.com/pacificbiosciences)/[pbbam](https://github.com/PacificBiosciences/pbbam)
-
-ID = 568, Stars = 16, Language = C++, Update = 2020-08-27
-
-PacBio BAM C++ library
-##### [igvteam](https://github.com/igvteam)/[igv.js-flask](https://github.com/igvteam/igv.js-flask)
-
-ID = 569, Stars = 16, Language = Python, Update = 2020-04-06
-
-Example project for integrating igv.js and flask
-##### [nf-core](https://github.com/nf-core)/[hlatyping](https://github.com/nf-core/hlatyping)
-
-ID = 570, Stars = 16, Language = Nextflow, Update = 2020-08-24
-
-Precision HLA typing from next-generation sequencing data
-##### [broadinstitute](https://github.com/broadinstitute)/[wordpress-crowd-plugin](https://github.com/broadinstitute/wordpress-crowd-plugin)
-
-ID = 571, Stars = 16, Language = PHP, Update = 2018-01-11
-
-Crowd Authentication Plugin for Wordpress
-##### [ga4gh](https://github.com/ga4gh)/[vr-python](https://github.com/ga4gh/vr-python)
-
-ID = 572, Stars = 16, Language = Jupyter Notebook, Update = 2020-08-31
-
-GA4GH Variation Representation Python Implementation
-##### [xjtu-omics](https://github.com/xjtu-omics)/[msisensor-pro](https://github.com/xjtu-omics/msisensor-pro)
-
-ID = 573, Stars = 16, Language = C++, Update = 2020-07-23
-
-Microsatellite Instability (MSI) detection using high-throughput sequencing data.
-##### [ocxtal](https://github.com/ocxtal)/[opa64](https://github.com/ocxtal/opa64)
-
-ID = 574, Stars = 15, Language = Python, Update = 2020-07-04
-
-Armv8 A64 Assembly & Intrinsics Guide Server
-##### [yongxinliu](https://github.com/yongxinliu)/[Zhang2019NBT](https://github.com/YongxinLiu/Zhang2019NBT)
-
-ID = 575, Stars = 15, Language = HTML, Update = 2019-04-12
-
-Scripts for stat and plot figures in rice microbiome paper
-##### [yongxinliu](https://github.com/yongxinliu)/[Amplicon2017](https://github.com/YongxinLiu/Amplicon2017)
-
-ID = 576, Stars = 15, Language = HTML, Update = 2019-03-10
-
-Data and scripts for amplicon pipeline
 ##### [ekg](https://github.com/ekg)/[edyeet](https://github.com/ekg/edyeet)
 
-ID = 577, Stars = 15, Language = C++, Update = 2020-09-01
+ID = 343, Stars = 16, Language = C++, Update = 2020-09-01
 
 base-accurate DNA sequence alignments using edlib and mashmap2
-##### [richarddurbin](https://github.com/richarddurbin)/[hash10x](https://github.com/richarddurbin/hash10x)
+##### [ekg](https://github.com/ekg)/[viral-assembly](https://github.com/ekg/viral-assembly)
 
-ID = 578, Stars = 15, Language = C, Update = 2019-11-27
+ID = 344, Stars = 16, Language = Shell, Update = 2020-05-18
 
-a toolset for efficient analysis of 10X Genomics linked read data sets, in particular for de novo assembly
-##### [vals](https://github.com/vals)/[Blog](https://github.com/vals/Blog)
+exploring viral genome assembly with variation graph tools
+##### [ekg](https://github.com/ekg)/[multichoose](https://github.com/ekg/multichoose)
 
-ID = 579, Stars = 15, Language = Jupyter Notebook, Update = 2020-05-10
+ID = 345, Stars = 16, Language = C++, Update = 2019-12-09
 
-None
+generate multiset combinations (n multichoose k)
+##### [ekg](https://github.com/ekg)/[drawbwt](https://github.com/ekg/drawbwt)
+
+ID = 346, Stars = 16, Language = C++, Update = 2019-04-29
+
+vector illustrations of BWT based searching on small strings
+##### [brentp](https://github.com/brentp)/[genoiser](https://github.com/brentp/genoiser)
+
+ID = 347, Stars = 16, Language = Nim, Update = 2020-04-15
+
+use the noise
+##### [broadinstitute](https://github.com/broadinstitute)/[wordpress-crowd-plugin](https://github.com/broadinstitute/wordpress-crowd-plugin)
+
+ID = 348, Stars = 16, Language = PHP, Update = 2018-01-11
+
+Crowd Authentication Plugin for Wordpress
+##### [igvteam](https://github.com/igvteam)/[igv.js-flask](https://github.com/igvteam/igv.js-flask)
+
+ID = 349, Stars = 16, Language = Python, Update = 2020-04-06
+
+Example project for integrating igv.js and flask
+##### [wglab](https://github.com/wglab)/[RepeatHMM](https://github.com/WGLab/RepeatHMM)
+
+ID = 350, Stars = 16, Language = Python, Update = 2020-08-04
+
+a hidden Markov model to infer simple repeats from genome sequences
 ##### [qiime2](https://github.com/qiime2)/[q2cli](https://github.com/qiime2/q2cli)
 
-ID = 580, Stars = 15, Language = Python, Update = 2020-08-22
+ID = 351, Stars = 15, Language = Python, Update = 2020-08-22
 
 Command line interface for QIIME 2
-##### [parklab](https://github.com/parklab)/[MSIprofiler](https://github.com/parklab/MSIprofiler)
+##### [gpertea](https://github.com/gpertea)/[gclib](https://github.com/gpertea/gclib)
 
-ID = 581, Stars = 15, Language = Python, Update = 2019-10-03
-
-Repo that aids in the detection of microsatellite instabilities (MSI) from sequencing data
-##### [nf-core](https://github.com/nf-core)/[configs](https://github.com/nf-core/configs)
-
-ID = 582, Stars = 15, Language = Nextflow, Update = 2020-08-18
-
-Config files used to define parameters specific to compute environments at different Institutions
-##### [vgteam](https://github.com/vgteam)/[libbdsg](https://github.com/vgteam/libbdsg)
-
-ID = 583, Stars = 15, Language = C++, Update = 2020-08-11
-
-Optimized sequence graph implementations for graph genomics
-##### [vgteam](https://github.com/vgteam)/[xg-old](https://github.com/vgteam/xg-old)
-
-ID = 584, Stars = 15, Language = C++, Update = 2018-11-18
-
-succinct labeled graphs with collections and paths
-##### [brentp](https://github.com/brentp)/[lua-stringy](https://github.com/brentp/lua-stringy)
-
-ID = 585, Stars = 14, Language = C, Update = 2020-03-21
-
-fast lua string operations
-##### [ocxtal](https://github.com/ocxtal)/[dozeu](https://github.com/ocxtal/dozeu)
-
-ID = 586, Stars = 14, Language = C, Update = 2020-08-30
-
-SIMD-parallel BLAST X-drop DP on sequence graphs
-##### [gpertea](https://github.com/gpertea)/[gclib](https://github.com/gpertea/gclib) *new+*
-
-ID = 587, Stars = 14, Language = C++, Update = 2020-08-25
+ID = 352, Stars = 14, Language = C++, Update = 2020-08-25
 
 GCLib - Genomic C++ library of reusable code for bioinformatics projects
-##### [tseemann](https://github.com/tseemann)/[sixess](https://github.com/tseemann/sixess)
+##### [brentp](https://github.com/brentp)/[lua-stringy](https://github.com/brentp/lua-stringy)
 
-ID = 588, Stars = 14, Language = Shell, Update = 2018-04-24
+ID = 353, Stars = 14, Language = C, Update = 2020-03-21
 
-🔬
-🐛
-Rapid 16s rRNA identification from isolate FASTQ files
+fast lua string operations
+##### [ncbi](https://github.com/ncbi)/[pipelines](https://github.com/ncbi/pipelines)
+
+ID = 354, Stars = 14, Language = Common Workflow Language, Update = 2018-11-28
+
+None
 ##### [illumina](https://github.com/illumina)/[witty.er](https://github.com/Illumina/witty.er)
 
-ID = 589, Stars = 14, Language = C#, Update = 2020-08-03
+ID = 355, Stars = 14, Language = C#, Update = 2020-08-03
 
 What is true, thank you, ernestly. A large variant benchmarking tool analogous to hap.py for small variants.
 ##### [illumina](https://github.com/illumina)/[BaseSpace_Clarity_LIMS](https://github.com/Illumina/BaseSpace_Clarity_LIMS)
 
-ID = 590, Stars = 14, Language = Python, Update = 2020-07-03
+ID = 356, Stars = 14, Language = Python, Update = 2020-07-03
 
 API libraries, application examples, and custom tools for BaseSpace Clarity LIMS
-##### [quinlan-lab](https://github.com/quinlan-lab)/[ccr](https://github.com/quinlan-lab/ccr)
-
-ID = 591, Stars = 14, Language = Python, Update = 2018-12-19
-
-Building the constrained coding regions (CCR) model
 ##### [qiime2](https://github.com/qiime2)/[docs](https://github.com/qiime2/docs)
 
-ID = 592, Stars = 14, Language = Python, Update = 2020-08-27
+ID = 357, Stars = 14, Language = Python, Update = 2020-08-27
 
 Source repository for https://docs.qiime2.org
-##### [pacificbiosciences](https://github.com/pacificbiosciences)/[kineticsTools](https://github.com/PacificBiosciences/kineticsTools)
+##### [lh3](https://github.com/lh3)/[gfa1](https://github.com/lh3/gfa1)
 
-ID = 593, Stars = 14, Language = Python, Update = 2020-07-30
+ID = 358, Stars = 13, Language = C, Update = 2018-08-17
 
-Tools for detecting DNA modifications from single molecule, real-time sequencing data
-##### [pacificbiosciences](https://github.com/pacificbiosciences)/[pbalign](https://github.com/PacificBiosciences/pbalign)
+This repo is deprecated. Please use gfatools instead.
+##### [ekg](https://github.com/ekg)/[tabixpp](https://github.com/ekg/tabixpp)
 
-ID = 594, Stars = 14, Language = Python, Update = 2018-12-11
+ID = 359, Stars = 13, Language = C++, Update = 2020-05-31
 
-pbalign maps PacBio reads to reference sequences and saves alignments to a BAM file
-##### [gatk-workflows](https://github.com/gatk-workflows)/[gatk4-genome-processing-pipeline](https://github.com/gatk-workflows/gatk4-genome-processing-pipeline)
+C++ wrapper to tabix indexer
+##### [brentp](https://github.com/brentp)/[bigwig-nim](https://github.com/brentp/bigwig-nim)
 
-ID = 595, Stars = 14, Language = wdl, Update = 2020-07-22
+ID = 360, Stars = 13, Language = Nim, Update = 2020-05-02
 
-Workflows used for processing whole genome sequence data + germline variant calling.
-##### [ncbi](https://github.com/ncbi)/[pipelines](https://github.com/ncbi/pipelines)
-
-ID = 596, Stars = 14, Language = Common Workflow Language, Update = 2018-11-28
-
-None
-##### [ga4gh](https://github.com/ga4gh)/[htsget](https://github.com/ga4gh/htsget)
-
-ID = 597, Stars = 14, Language = Python, Update = 2018-06-22
-
-Python client for GA4GH htsget protocol
-##### [vgteam](https://github.com/vgteam)/[sv-genotyping-paper](https://github.com/vgteam/sv-genotyping-paper)
-
-ID = 598, Stars = 14, Language = Python, Update = 2019-11-25
-
-None
-##### [biocore](https://github.com/biocore)/[qurro](https://github.com/biocore/qurro)
-
-ID = 599, Stars = 14, Language = JavaScript, Update = 2020-05-22
-
-Visualize differentially ranked features (taxa, metabolites, ...) and their log-ratios across samples
+command-line querying+conversion of bigwigs and a nim wrapper for dpryan's libbigwig
 ##### [shenwei356](https://github.com/shenwei356)/[bwt](https://github.com/shenwei356/bwt)
 
-ID = 600, Stars = 13, Language = Go, Update = 2020-04-18
+ID = 361, Stars = 13, Language = Go, Update = 2020-04-18
 
 Burrows-Wheeler Transform and FM-index in golang
 ##### [gt1](https://github.com/gt1)/[libmaus2](https://github.com/gt1/libmaus2)
 
-ID = 601, Stars = 13, Language = C++, Update = 2019-03-19
+ID = 362, Stars = 13, Language = C++, Update = 2019-03-19
 
 collection of data structures and algorithms
-##### [brentp](https://github.com/brentp)/[bigwig-nim](https://github.com/brentp/bigwig-nim)
-
-ID = 602, Stars = 13, Language = Nim, Update = 2020-05-02
-
-command-line querying+conversion of bigwigs and a nim wrapper for dpryan's libbigwig
-##### [ekg](https://github.com/ekg)/[tabixpp](https://github.com/ekg/tabixpp)
-
-ID = 603, Stars = 13, Language = C++, Update = 2020-05-31
-
-C++ wrapper to tabix indexer
-##### [tseemann](https://github.com/tseemann)/[berokka](https://github.com/tseemann/berokka)
-
-ID = 604, Stars = 13, Language = Perl, Update = 2019-09-07
-
-🍊
-💫
-Trim, circularise and orient long read bacterial genome assemblies
-##### [lh3](https://github.com/lh3)/[gfa1](https://github.com/lh3/gfa1)
-
-ID = 605, Stars = 13, Language = C, Update = 2018-08-17
-
-This repo is deprecated. Please use gfatools instead.
-##### [refresh-bio](https://github.com/refresh-bio)/[ORCOM](https://github.com/refresh-bio/ORCOM)
-
-ID = 606, Stars = 13, Language = C++, Update = 2020-06-24
-
-Overlapping Reads COmpression with Minimizers
-##### [refresh-bio](https://github.com/refresh-bio)/[GTC](https://github.com/refresh-bio/GTC)
-
-ID = 607, Stars = 13, Language = C++, Update = 2020-06-24
-
-GenoTypes Compressor
-##### [umcugenetics](https://github.com/umcugenetics)/[NextflowModules](https://github.com/UMCUGenetics/NextflowModules)
-
-ID = 608, Stars = 13, Language = Nextflow, Update = 2020-08-21
-
-UMCU Genetics Nextflow modules
-##### [wglab](https://github.com/wglab)/[LinkedSV](https://github.com/WGLab/LinkedSV)
-
-ID = 609, Stars = 13, Language = C, Update = 2020-04-25
-
-None
-##### [wglab](https://github.com/wglab)/[icages](https://github.com/WGLab/icages)
-
-ID = 610, Stars = 13, Language = Perl, Update = 2019-03-21
-
-iCAGES (integrated CAncer GEnome Score) is an effective tool for prioritizing cancer driver genes for a patient
-##### [pacificbiosciences](https://github.com/pacificbiosciences)/[apps-scripts](https://github.com/PacificBiosciences/apps-scripts)
-
-ID = 611, Stars = 13, Language = Python, Update = 2020-08-12
-
-Miscellaneous scripts for applications of PacBio systems
-##### [parklab](https://github.com/parklab)/[HiNT](https://github.com/parklab/HiNT)
-
-ID = 612, Stars = 13, Language = Python, Update = 2020-02-17
-
-HiC for copy Number variation and Translocation detection
-##### [griffithlab](https://github.com/griffithlab)/[pmbio.org](https://github.com/griffithlab/pmbio.org)
-
-ID = 613, Stars = 13, Language = CSS, Update = 2020-08-08
-
-Website for the precision medicine workshop
-##### [nf-core](https://github.com/nf-core)/[smrnaseq](https://github.com/nf-core/smrnaseq)
-
-ID = 614, Stars = 13, Language = Nextflow, Update = 2020-07-31
-
-A small-RNA sequencing analysis pipeline
-##### [nf-core](https://github.com/nf-core)/[scrnaseq](https://github.com/nf-core/scrnaseq)
-
-ID = 615, Stars = 13, Language = Nextflow, Update = 2020-07-31
-
-A single-cell RNAseq pipeline for 10X genomics data
 ##### [ncbi](https://github.com/ncbi)/[cwl-ngs-workflows-cbb](https://github.com/ncbi/cwl-ngs-workflows-cbb)
 
-ID = 616, Stars = 13, Language = Common Workflow Language, Update = 2020-08-19
+ID = 363, Stars = 13, Language = Common Workflow Language, Update = 2020-08-19
 
 A set of CWL tools and workflows used by NCBI Computational Biology Branch for NGS data analysis
-##### [yanglab](https://github.com/yanglab)/[bamTobw](https://github.com/YangLab/bamTobw)
-
-ID = 617, Stars = 13, Language = Shell, Update = 2018-11-30
-
-Convert BAM files to bigWig files with a simple command
 ##### [broadinstitute](https://github.com/broadinstitute)/[rawls](https://github.com/broadinstitute/rawls)
 
-ID = 618, Stars = 13, Language = Scala, Update = 2020-09-01
+ID = 364, Stars = 13, Language = Scala, Update = 2020-09-01
 
 Rawls service for DSDE
 ##### [broadinstitute](https://github.com/broadinstitute)/[fiss](https://github.com/broadinstitute/fiss)
 
-ID = 619, Stars = 13, Language = Python, Update = 2020-08-31
+ID = 365, Stars = 13, Language = Python, Update = 2020-08-31
 
 FireCloud Service Selector (FISS) -- Python bindings and CLI for FireCloud execution engine
-##### [ekg](https://github.com/ekg)/[mmmulti](https://github.com/ekg/mmmulti)
+##### [refresh-bio](https://github.com/refresh-bio)/[ORCOM](https://github.com/refresh-bio/ORCOM)
 
-ID = 620, Stars = 12, Language = C++, Update = 2020-08-29
+ID = 366, Stars = 13, Language = C++, Update = 2020-06-24
 
-memory mapped multimap, multiset, and implicit interval tree based on an in-place parallel sort
+Overlapping Reads COmpression with Minimizers
+##### [refresh-bio](https://github.com/refresh-bio)/[GTC](https://github.com/refresh-bio/GTC)
+
+ID = 367, Stars = 13, Language = C++, Update = 2020-06-24
+
+GenoTypes Compressor
+##### [wglab](https://github.com/wglab)/[LinkedSV](https://github.com/WGLab/LinkedSV)
+
+ID = 368, Stars = 13, Language = C, Update = 2020-04-25
+
+None
+##### [wglab](https://github.com/wglab)/[icages](https://github.com/WGLab/icages)
+
+ID = 369, Stars = 13, Language = Perl, Update = 2019-03-21
+
+iCAGES (integrated CAncer GEnome Score) is an effective tool for prioritizing cancer driver genes for a patient
 ##### [lh3](https://github.com/lh3)/[lh3-snippets](https://github.com/lh3/lh3-snippets)
 
-ID = 621, Stars = 12, Language = C, Update = 2020-01-23
+ID = 370, Stars = 12, Language = C, Update = 2020-01-23
 
 None
-##### [vibansal](https://github.com/vibansal)/[crisp](https://github.com/vibansal/crisp)
+##### [ekg](https://github.com/ekg)/[mmmulti](https://github.com/ekg/mmmulti)
 
-ID = 622, Stars = 12, Language = C, Update = 2020-02-25
+ID = 371, Stars = 12, Language = C++, Update = 2020-08-29
 
-Code for multi-sample variant calling from sequence data of pooled or unpooled DNA samples
-##### [illumina](https://github.com/illumina)/[Cyrius](https://github.com/Illumina/Cyrius)
+memory mapped multimap, multiset, and implicit interval tree based on an in-place parallel sort
+##### [shubhamchandak94](https://github.com/shubhamchandak94)/[HARC](https://github.com/shubhamchandak94/HARC) *new+*
 
-ID = 623, Stars = 12, Language = Python, Update = 2020-07-24
+ID = 372, Stars = 12, Language = C++, Update = 2019-10-03
 
-A tool to genotype CYP2D6 with WGS data
-##### [refresh-bio](https://github.com/refresh-bio)/[FaStore](https://github.com/refresh-bio/FaStore)
-
-ID = 624, Stars = 12, Language = C++, Update = 2020-06-24
-
-FaStore - high-performance FASTQ files compressor
-##### [pacificbiosciences](https://github.com/pacificbiosciences)/[ANGEL](https://github.com/PacificBiosciences/ANGEL)
-
-ID = 625, Stars = 12, Language = Python, Update = 2020-08-30
-
-Robust Open Reading Frame prediction (ANGLE re-implementation)
-##### [pacificbiosciences](https://github.com/pacificbiosciences)/[bam2fastx](https://github.com/PacificBiosciences/bam2fastx)
-
-ID = 626, Stars = 12, Language = Python, Update = 2020-06-04
-
-Converting and demultiplexing of PacBio BAM files into gzipped fasta and fastq files.
-##### [gatk-workflows](https://github.com/gatk-workflows)/[seq-format-conversion](https://github.com/gatk-workflows/seq-format-conversion)
-
-ID = 627, Stars = 12, Language = wdl, Update = 2020-06-01
-
-Workflows for converting between sequence data formats
-##### [ensembl](https://github.com/ensembl)/[ensembl-funcgen](https://github.com/Ensembl/ensembl-funcgen)
-
-ID = 628, Stars = 12, Language = Perl, Update = 2020-08-19
-
-Ensembl Funcgen Perl API and SQL schema
-##### [abyzovlab](https://github.com/abyzovlab)/[CNVpytor](https://github.com/abyzovlab/CNVpytor)
-
-ID = 629, Stars = 12, Language = Python, Update = 2020-09-02
-
-a python extension of CNVnator -- a tool for CNV analysis from depth-of-coverage by mapped reads
-##### [statgen](https://github.com/statgen)/[savvy](https://github.com/statgen/savvy)
-
-ID = 630, Stars = 12, Language = C++, Update = 2020-08-02
-
-Interface to various variant calling formats.
+Fastq compression
 ##### [ncbi](https://github.com/ncbi)/[cxx-toolkit](https://github.com/ncbi/cxx-toolkit)
 
-ID = 631, Stars = 12, Language = CSS, Update = 2020-08-25
+ID = 373, Stars = 12, Language = CSS, Update = 2020-08-25
 
 None
+##### [abyzovlab](https://github.com/abyzovlab)/[CNVpytor](https://github.com/abyzovlab/CNVpytor)
+
+ID = 374, Stars = 12, Language = Python, Update = 2020-09-02
+
+a python extension of CNVnator -- a tool for CNV analysis from depth-of-coverage by mapped reads
+##### [opengene](https://github.com/opengene)/[UniqueKMER](https://github.com/OpenGene/UniqueKMER)
+
+ID = 375, Stars = 12, Language = C, Update = 2020-07-28
+
+Generate unique KMERs for every contig in a FASTA file
+##### [illumina](https://github.com/illumina)/[Cyrius](https://github.com/Illumina/Cyrius)
+
+ID = 376, Stars = 12, Language = Python, Update = 2020-07-24
+
+A tool to genotype CYP2D6 with WGS data
 ##### [broadinstitute](https://github.com/broadinstitute)/[covid19-testing](https://github.com/broadinstitute/covid19-testing)
 
-ID = 632, Stars = 12, Language = HTML, Update = 2020-09-02
+ID = 377, Stars = 12, Language = HTML, Update = 2020-09-02
 
 COVID-19 Diagnostic Processing Dashboard
 ##### [broadinstitute](https://github.com/broadinstitute)/[cms](https://github.com/broadinstitute/cms)
 
-ID = 633, Stars = 12, Language = Python, Update = 2020-07-04
+ID = 378, Stars = 12, Language = Python, Update = 2020-07-04
 
 Composite of Multiple Signals: tests for selection in meiotically recombinant populations
-##### [biocore](https://github.com/biocore)/[oecophylla](https://github.com/biocore/oecophylla)
+##### [ensembl](https://github.com/ensembl)/[ensembl-funcgen](https://github.com/Ensembl/ensembl-funcgen)
 
-ID = 634, Stars = 12, Language = Python, Update = 2019-04-03
+ID = 379, Stars = 12, Language = Perl, Update = 2020-08-19
 
-shotgun pipeline
-##### [brentp](https://github.com/brentp)/[nim-kmer](https://github.com/brentp/nim-kmer)
+Ensembl Funcgen Perl API and SQL schema
+##### [refresh-bio](https://github.com/refresh-bio)/[FaStore](https://github.com/refresh-bio/FaStore)
 
-ID = 635, Stars = 11, Language = Nim, Update = 2020-04-11
+ID = 380, Stars = 12, Language = C++, Update = 2020-06-24
 
-DNA kmer operations for nim
+FaStore - high-performance FASTQ files compressor
+##### [ewels](https://github.com/ewels)/[MultiQC_TestData](https://github.com/ewels/MultiQC_TestData)
+
+ID = 381, Stars = 11, Language = HTML, Update = 2020-08-31
+
+Test data for MultiQC. See https://github.com/ewels/MultiQC
 ##### [ekg](https://github.com/ekg)/[gimbricate](https://github.com/ekg/gimbricate)
 
-ID = 636, Stars = 11, Language = C++, Update = 2020-08-30
+ID = 382, Stars = 11, Language = C++, Update = 2020-08-30
 
 recompute GFA link overlaps
 ##### [ekg](https://github.com/ekg)/[smoothxg](https://github.com/ekg/smoothxg)
 
-ID = 637, Stars = 11, Language = C++, Update = 2020-08-29
+ID = 383, Stars = 11, Language = C++, Update = 2020-08-29
 
 linearize and simplify variation graphs using blocked partial order alignment
-##### [dpryan79](https://github.com/dpryan79)/[SE-MEI](https://github.com/dpryan79/SE-MEI)
+##### [brentp](https://github.com/brentp)/[nim-kmer](https://github.com/brentp/nim-kmer)
 
-ID = 638, Stars = 11, Language = C, Update = 2019-12-14
+ID = 384, Stars = 11, Language = Nim, Update = 2020-04-11
 
-Tools for finding mobile element insertions from single-end datasets
-##### [ewels](https://github.com/ewels)/[MultiQC_TestData](https://github.com/ewels/MultiQC_TestData)
+DNA kmer operations for nim
+##### [ncbi](https://github.com/ncbi)/[osiris](https://github.com/ncbi/osiris)
 
-ID = 639, Stars = 11, Language = HTML, Update = 2020-08-31
+ID = 385, Stars = 11, Language = C++, Update = 2020-06-04
 
-Test data for MultiQC. See https://github.com/ewels/MultiQC
-##### [vals](https://github.com/vals)/[python-gprofiler](https://github.com/vals/python-gprofiler)
-
-ID = 640, Stars = 11, Language = Python, Update = 2019-02-16
-
-None
+OSIRIS is a public domain quality assurance software package that facilitates the assessment of multiplex short tandem repeat (STR) DNA profiles based on laboratory-specific protocols. OSIRIS evaluates the raw electrophoresis data contained in .fsa or .hid files using an independently derived mathematically-based sizing algorithm. OSIRIS current…
 ##### [illumina](https://github.com/illumina)/[Isaac4](https://github.com/Illumina/Isaac4)
 
-ID = 641, Stars = 11, Language = C++, Update = 2020-06-19
+ID = 386, Stars = 11, Language = C++, Update = 2020-06-19
 
 Isaac aligner version 4
 ##### [illumina](https://github.com/illumina)/[happyR](https://github.com/Illumina/happyR)
 
-ID = 642, Stars = 11, Language = R, Update = 2019-07-12
+ID = 387, Stars = 11, Language = R, Update = 2019-07-12
 
 R tools to interact with hap.py output
-##### [umcugenetics](https://github.com/umcugenetics)/[IAP](https://github.com/UMCUGenetics/IAP)
-
-ID = 643, Stars = 11, Language = Perl, Update = 2020-04-06
-
-Illumina analysis pipeline
-##### [qiime2](https://github.com/qiime2)/[q2studio](https://github.com/qiime2/q2studio)
-
-ID = 644, Stars = 11, Language = JavaScript, Update = 2020-08-27
-
-Prototype graphical user interface for QIIME 2
-##### [pacificbiosciences](https://github.com/pacificbiosciences)/[pypeFLOW](https://github.com/PacificBiosciences/pypeFLOW)
-
-ID = 645, Stars = 11, Language = HTML, Update = 2019-09-05
-
-a simple lightweight workflow engine for data analysis scripting
-##### [astrazeneca-ngs](https://github.com/astrazeneca-ngs)/[simple_sv_annotation](https://github.com/AstraZeneca-NGS/simple_sv_annotation)
-
-ID = 646, Stars = 11, Language = Python, Update = 2019-02-18
-
-Simplify snpEff annotations for interesting cases
-##### [nf-core](https://github.com/nf-core)/[bacass](https://github.com/nf-core/bacass)
-
-ID = 647, Stars = 11, Language = Nextflow, Update = 2020-07-31
-
-Simple bacterial assembly and annotation pipeline
-##### [ncbi](https://github.com/ncbi)/[osiris](https://github.com/ncbi/osiris)
-
-ID = 648, Stars = 11, Language = C++, Update = 2020-06-04
-
-OSIRIS is a public domain quality assurance software package that facilitates the assessment of multiplex short tandem repeat (STR) DNA profiles based on laboratory-specific protocols. OSIRIS evaluates the raw electrophoresis data contained in .fsa or .hid files using an independently derived mathematically-based sizing algorithm. OSIRIS current…
-##### [opengene](https://github.com/opengene)/[UniqueKMER](https://github.com/OpenGene/UniqueKMER)
-
-ID = 649, Stars = 11, Language = C, Update = 2020-07-28
-
-Generate unique KMERs for every contig in a FASTA file
-##### [dellytools](https://github.com/dellytools)/[svprops](https://github.com/dellytools/svprops)
-
-ID = 650, Stars = 11, Language = C++, Update = 2020-04-14
-
-Computes various SV statistics
 ##### [broadinstitute](https://github.com/broadinstitute)/[viral-pipelines](https://github.com/broadinstitute/viral-pipelines)
 
-ID = 651, Stars = 11, Language = wdl, Update = 2020-08-28
+ID = 388, Stars = 11, Language = wdl, Update = 2020-08-28
 
 viral-ngs: complete pipelines
 ##### [broadinstitute](https://github.com/broadinstitute)/[2020_scWorkshop](https://github.com/broadinstitute/2020_scWorkshop)
 
-ID = 652, Stars = 11, Language = Shell, Update = 2020-04-15
+ID = 389, Stars = 11, Language = Shell, Update = 2020-04-15
 
 Code and data repository for the 2020 physalia course on single cell RNA sequencing.
 ##### [broadinstitute](https://github.com/broadinstitute)/[python-cert_manager](https://github.com/broadinstitute/python-cert_manager)
 
-ID = 653, Stars = 11, Language = Python, Update = 2020-04-10
+ID = 390, Stars = 11, Language = Python, Update = 2020-04-10
 
 Python interface to the Sectigo Certificate Manager REST API
-##### [vgteam](https://github.com/vgteam)/[libhandlegraph](https://github.com/vgteam/libhandlegraph)
+##### [astrazeneca-ngs](https://github.com/astrazeneca-ngs)/[simple_sv_annotation](https://github.com/AstraZeneca-NGS/simple_sv_annotation)
 
-ID = 654, Stars = 11, Language = C++, Update = 2020-08-11
+ID = 391, Stars = 11, Language = Python, Update = 2019-02-18
 
-Library for the Handle Graph abstraction
-##### [biocore](https://github.com/biocore)/[q2-qemistree](https://github.com/biocore/q2-qemistree)
+Simplify snpEff annotations for interesting cases
+##### [qiime2](https://github.com/qiime2)/[q2studio](https://github.com/qiime2/q2studio)
 
-ID = 655, Stars = 11, Language = Python, Update = 2020-08-05
+ID = 392, Stars = 11, Language = JavaScript, Update = 2020-08-27
 
-Hierarchical orderings for mass spectrometry data. Canonically pronounced "chemis-tree".
+Prototype graphical user interface for QIIME 2
+##### [dellytools](https://github.com/dellytools)/[svprops](https://github.com/dellytools/svprops)
+
+ID = 393, Stars = 11, Language = C++, Update = 2020-04-14
+
+Computes various SV statistics
 ##### [shenwei356](https://github.com/shenwei356)/[taxid-changelog](https://github.com/shenwei356/taxid-changelog)
 
-ID = 656, Stars = 10, Language = R, Update = 2020-07-02
+ID = 394, Stars = 10, Language = R, Update = 2020-07-02
 
 NCBI taxonomic identifier (taxid) changelog, including taxids deletion, new adding, merge, reuse, and rank/name changes.
-##### [benjjneb](https://github.com/benjjneb)/[LRASManuscript](https://github.com/benjjneb/LRASManuscript)
+##### [ncbi](https://github.com/ncbi)/[scPopCorn](https://github.com/ncbi/scPopCorn)
 
-ID = 657, Stars = 10, Language = HTML, Update = 2019-06-29
+ID = 395, Stars = 10, Language = Jupyter Notebook, Update = 2019-10-25
 
-Reproducible Analyses accompanying DADA2 + PacBio Manuscript
-##### [refresh-bio](https://github.com/refresh-bio)/[fqsqueezer](https://github.com/refresh-bio/fqsqueezer)
-
-ID = 658, Stars = 10, Language = C++, Update = 2020-06-16
-
-FQSqueezer - FASTQ compressor based on k-mer statistics
-##### [umcugenetics](https://github.com/umcugenetics)/[CHORD](https://github.com/UMCUGenetics/CHORD)
-
-ID = 659, Stars = 10, Language = R, Update = 2020-08-28
-
-An R package for predicting HR deficiency from mutation contexts
-##### [qiime2](https://github.com/qiime2)/[q2-fragment-insertion](https://github.com/qiime2/q2-fragment-insertion)
-
-ID = 660, Stars = 10, Language = Python, Update = 2020-08-22
-
-QIIME 2 plugin for fragment insertion
-##### [qiime2](https://github.com/qiime2)/[q2-dada2](https://github.com/qiime2/q2-dada2)
-
-ID = 661, Stars = 10, Language = Python, Update = 2020-08-22
-
-QIIME 2 plugin wrapping DADA2
+A python tool to do comparative analysis of mulitple single cell datasets.
 ##### [mathonco](https://github.com/mathonco)/[HAL](https://github.com/MathOnco/HAL)
 
-ID = 662, Stars = 10, Language = Java, Update = 2020-07-09
+ID = 396, Stars = 10, Language = Java, Update = 2020-07-09
 
 HAL (Hybrid Automata Library) is the one-stop shop for all of your hybrid modeling needs
 ##### [mathonco](https://github.com/mathonco)/[EvoFreq](https://github.com/MathOnco/EvoFreq)
 
-ID = 663, Stars = 10, Language = R, Update = 2020-04-08
+ID = 397, Stars = 10, Language = R, Update = 2020-04-08
 
 Evolutionary frequency visualization tool of temporal data
-##### [ensembl](https://github.com/ensembl)/[ensembl-analysis](https://github.com/Ensembl/ensembl-analysis)
-
-ID = 664, Stars = 10, Language = Perl, Update = 2020-08-31
-
-Modules to interface with tools used in Ensembl Gene Annotation Process and scripts to run pipelines
-##### [parklab](https://github.com/parklab)/[LiRA](https://github.com/parklab/LiRA)
-
-ID = 665, Stars = 10, Language = R, Update = 2019-05-17
-
-None
-##### [igvteam](https://github.com/igvteam)/[juicebox.js](https://github.com/igvteam/juicebox.js)
-
-ID = 666, Stars = 10, Language = JavaScript, Update = 2020-08-31
-
-HiC contact matrix visualization
-##### [nf-core](https://github.com/nf-core)/[bcellmagic](https://github.com/nf-core/bcellmagic)
-
-ID = 667, Stars = 10, Language = Nextflow, Update = 2020-08-05
-
-B cell repertoire sequencing analysis pipeline using the immcantation framework
-##### [biowdl](https://github.com/biowdl)/[RNA-seq](https://github.com/biowdl/RNA-seq)
-
-ID = 668, Stars = 10, Language = wdl, Update = 2020-08-07
-
-A BioWDL pipeline for processing RNA-seq data, starting with FASTQ files to produce expression measures and VCFs. Category:Multi-Sample
-##### [statgen](https://github.com/statgen)/[encore](https://github.com/statgen/encore)
-
-ID = 669, Stars = 10, Language = Python, Update = 2020-09-01
-
-Encore Analysis Server
-##### [ncbi](https://github.com/ncbi)/[scPopCorn](https://github.com/ncbi/scPopCorn)
-
-ID = 670, Stars = 10, Language = Jupyter Notebook, Update = 2019-10-25
-
-A python tool to do comparative analysis of mulitple single cell datasets.
 ##### [broadinstitute](https://github.com/broadinstitute)/[sparklespray](https://github.com/broadinstitute/sparklespray)
 
-ID = 671, Stars = 10, Language = HTML, Update = 2020-08-22
+ID = 398, Stars = 10, Language = HTML, Update = 2020-08-22
 
 Easy batch submission of adhoc jobs onto GCP
 ##### [broadinstitute](https://github.com/broadinstitute)/[vim-wdl](https://github.com/broadinstitute/vim-wdl)
 
-ID = 672, Stars = 10, Language = Vim script, Update = 2020-01-29
+ID = 399, Stars = 10, Language = Vim script, Update = 2020-01-29
 
 Vim syntax highlighting for WDL
-##### [biocore](https://github.com/biocore)/[empress](https://github.com/biocore/empress)
+##### [ensembl](https://github.com/ensembl)/[ensembl-analysis](https://github.com/Ensembl/ensembl-analysis)
 
-ID = 673, Stars = 10, Language = JavaScript, Update = 2020-09-01
+ID = 400, Stars = 10, Language = Perl, Update = 2020-08-31
 
-A fast and scalable phylogenetic tree viewer for microbiome data analysis
-##### [seandavi](https://github.com/seandavi)/[BiocActions](https://github.com/seandavi/BiocActions)
+Modules to interface with tools used in Ensembl Gene Annotation Process and scripts to run pipelines
+##### [igvteam](https://github.com/igvteam)/[juicebox.js](https://github.com/igvteam/juicebox.js)
 
-ID = 674, Stars = 9, Language = Dockerfile, Update = 2019-12-03
+ID = 401, Stars = 10, Language = JavaScript, Update = 2020-08-31
 
-Develop and host GitHub actions for Bioconductor
-##### [alimanfoo](https://github.com/alimanfoo)/[alimanfoo.github.io](https://github.com/alimanfoo/alimanfoo.github.io)
+HiC contact matrix visualization
+##### [refresh-bio](https://github.com/refresh-bio)/[fqsqueezer](https://github.com/refresh-bio/fqsqueezer)
 
-ID = 675, Stars = 9, Language = Jupyter Notebook, Update = 2020-07-17
+ID = 402, Stars = 10, Language = C++, Update = 2020-06-16
 
-Alistair Miles' blog
-##### [ekg](https://github.com/ekg)/[guix-genomics](https://github.com/ekg/guix-genomics)
+FQSqueezer - FASTQ compressor based on k-mer statistics
+##### [qiime2](https://github.com/qiime2)/[q2-fragment-insertion](https://github.com/qiime2/q2-fragment-insertion)
 
-ID = 676, Stars = 9, Language = Scheme, Update = 2020-08-31
+ID = 403, Stars = 10, Language = Python, Update = 2020-08-22
 
-guix packages for bioinformatics software
-##### [sigven](https://github.com/sigven)/[oncoEnrichR](https://github.com/sigven/oncoEnrichR)
+QIIME 2 plugin for fragment insertion
+##### [qiime2](https://github.com/qiime2)/[q2-dada2](https://github.com/qiime2/q2-dada2)
 
-ID = 677, Stars = 9, Language = R, Update = 2020-08-12
+ID = 404, Stars = 10, Language = Python, Update = 2020-08-22
 
-Functional analysis and prioritization of genesets in the context of cancer
+QIIME 2 plugin wrapping DADA2
 ##### [lh3](https://github.com/lh3)/[unicall](https://github.com/lh3/unicall)
 
-ID = 678, Stars = 9, Language = Perl, Update = 2019-07-21
+ID = 405, Stars = 9, Language = Perl, Update = 2019-07-21
 
 A wrapper for calling small variants from human germline high-coverage single-sample Illumina data
-##### [danielecook](https://github.com/danielecook)/[seq-collection](https://github.com/danielecook/seq-collection)
+##### [ekg](https://github.com/ekg)/[guix-genomics](https://github.com/ekg/guix-genomics)
 
-ID = 679, Stars = 9, Language = Nim, Update = 2020-08-14
+ID = 406, Stars = 9, Language = Scheme, Update = 2020-08-31
 
-None
-##### [qiime2](https://github.com/qiime2)/[q2-longitudinal](https://github.com/qiime2/q2-longitudinal)
-
-ID = 680, Stars = 9, Language = Python, Update = 2020-08-22
-
-QIIME 2 plugin for paired sample comparisons
-##### [qiime2](https://github.com/qiime2)/[q2cwl](https://github.com/qiime2/q2cwl)
-
-ID = 681, Stars = 9, Language = Python, Update = 2020-02-13
-
-Prototype interface for automatically generating CWL tools from QIIME 2 actions
-##### [maxplanck-ie](https://github.com/maxplanck-ie)/[10X_snakepipe](https://github.com/maxplanck-ie/10X_snakepipe)
-
-ID = 682, Stars = 9, Language = Python, Update = 2020-08-31
-
-A snakemake pipeline for 10X genomics cellranger
-##### [deeptools](https://github.com/deeptools)/[HiCBrowser](https://github.com/deeptools/HiCBrowser)
-
-ID = 683, Stars = 9, Language = JavaScript, Update = 2019-12-12
-
-Simple web browser to visualize HiC tracks
-##### [ensembl](https://github.com/ensembl)/[ensembl-production](https://github.com/Ensembl/ensembl-production)
-
-ID = 684, Stars = 9, Language = Perl, Update = 2020-08-26
-
-Ensembl Production code
-##### [ensembl](https://github.com/ensembl)/[ensj-healthcheck](https://github.com/Ensembl/ensj-healthcheck)
-
-ID = 685, Stars = 9, Language = Java, Update = 2020-08-04
-
-Ensembl's Automated QC Framework
-##### [griffithlab](https://github.com/griffithlab)/[genviz.org](https://github.com/griffithlab/genviz.org)
-
-ID = 686, Stars = 9, Language = CSS, Update = 2020-08-08
-
-Genomic data interpretation and visualization Workshop
-##### [griffithlab](https://github.com/griffithlab)/[VAtools](https://github.com/griffithlab/VAtools)
-
-ID = 687, Stars = 9, Language = Python, Update = 2020-07-27
-
-A set of tools to annotate VCF files with expression and readcount data
-##### [biowdl](https://github.com/biowdl)/[germline-DNA](https://github.com/biowdl/germline-DNA)
-
-ID = 688, Stars = 9, Language = wdl, Update = 2020-08-27
-
-A BioWDL variantcalling pipeline for germline DNA data. Starting with FASTQ files to produce VCF files. Category:Multi-Sample
+guix packages for bioinformatics software
 ##### [broadinstitute](https://github.com/broadinstitute)/[agora](https://github.com/broadinstitute/agora)
 
-ID = 689, Stars = 9, Language = Scala, Update = 2020-07-31
+ID = 407, Stars = 9, Language = Scala, Update = 2020-07-31
 
 It's a methods repository!
 ##### [broadinstitute](https://github.com/broadinstitute)/[scRNA-Seq](https://github.com/broadinstitute/scRNA-Seq)
 
-ID = 690, Stars = 9, Language = Python, Update = 2019-07-26
+ID = 408, Stars = 9, Language = Python, Update = 2019-07-26
 
 None
-##### [ga4gh](https://github.com/ga4gh)/[cloud-interop-testing](https://github.com/ga4gh/cloud-interop-testing)
+##### [ensembl](https://github.com/ensembl)/[ensembl-production](https://github.com/Ensembl/ensembl-production)
 
-ID = 691, Stars = 9, Language = Python, Update = 2019-10-05
+ID = 409, Stars = 9, Language = Perl, Update = 2020-08-26
 
-Interoperable execution of workflows using GA4GH APIs
-##### [benlangmead](https://github.com/benlangmead)/[aws-indexes](https://github.com/BenLangmead/aws-indexes)
+Ensembl Production code
+##### [ensembl](https://github.com/ensembl)/[ensj-healthcheck](https://github.com/Ensembl/ensj-healthcheck)
 
-ID = 692, Stars = 8, Language = Python, Update = 2020-06-26
+ID = 410, Stars = 9, Language = Java, Update = 2020-08-04
 
-Catalog of genomic indexes freely available from public clouds
-##### [jodyphelan](https://github.com/jodyphelan)/[tbdb](https://github.com/jodyphelan/tbdb)
+Ensembl's Automated QC Framework
+##### [deeptools](https://github.com/deeptools)/[HiCBrowser](https://github.com/deeptools/HiCBrowser)
 
-ID = 693, Stars = 8, Language = Python, Update = 2020-07-07
+ID = 411, Stars = 9, Language = JavaScript, Update = 2019-12-12
 
-Standard database for the TBProfiler tool
-##### [a-slide](https://github.com/a-slide)/[NanoCount](https://github.com/a-slide/NanoCount)
+Simple web browser to visualize HiC tracks
+##### [qiime2](https://github.com/qiime2)/[q2-longitudinal](https://github.com/qiime2/q2-longitudinal)
 
-ID = 694, Stars = 8, Language = Python, Update = 2020-06-23
+ID = 412, Stars = 9, Language = Python, Update = 2020-08-22
 
-EM based transcript abundance from nanopore reads mapped to a transcriptome with minimap2
-##### [a-slide](https://github.com/a-slide)/[NanopolishComp](https://github.com/a-slide/NanopolishComp)
+QIIME 2 plugin for paired sample comparisons
+##### [qiime2](https://github.com/qiime2)/[q2cwl](https://github.com/qiime2/q2cwl)
 
-ID = 695, Stars = 8, Language = Python, Update = 2019-09-10
+ID = 413, Stars = 9, Language = Python, Update = 2020-02-13
 
-NanopolishComp is a Python3 package for downstream analyses of Nanopolish output files
+Prototype interface for automatically generating CWL tools from QIIME 2 actions
 ##### [ekg](https://github.com/ekg)/[yeast-pangenome](https://github.com/ekg/yeast-pangenome)
 
-ID = 696, Stars = 8, Language = Shell, Update = 2020-07-29
+ID = 414, Stars = 8, Language = Shell, Update = 2020-07-29
 
 yeast pangenome
-##### [danielecook](https://github.com/danielecook)/[tut](https://github.com/danielecook/tut)
+##### [benlangmead](https://github.com/benlangmead)/[aws-indexes](https://github.com/BenLangmead/aws-indexes)
 
-ID = 697, Stars = 8, Language = Nim, Update = 2020-06-02
+ID = 415, Stars = 8, Language = Python, Update = 2020-06-26
 
-A collection of CSV/TSV Utilities
-##### [maxplanck-ie](https://github.com/maxplanck-ie)/[TheWhoTheWhatTheHuh](https://github.com/maxplanck-ie/TheWhoTheWhatTheHuh)
-
-ID = 698, Stars = 8, Language = Python, Update = 2019-10-16
-
-"The who the what the huh?" is our pipeline for converting bcl files to fastq and performing QC.
-##### [gatk-workflows](https://github.com/gatk-workflows)/[gatk4-jupyter-notebook-tutorials](https://github.com/gatk-workflows/gatk4-jupyter-notebook-tutorials)
-
-ID = 699, Stars = 8, Language = Jupyter Notebook, Update = 2019-12-19
-
-This repository contains Jupyter Notebooks containing GATK Best Practices Workflows
-##### [nf-core](https://github.com/nf-core)/[proteomicslfq](https://github.com/nf-core/proteomicslfq)
-
-ID = 700, Stars = 8, Language = Nextflow, Update = 2020-08-29
-
-UNDER CONSTRUCTION - Proteomics label-free quantification (LFQ) analysis pipeline
-##### [statgen](https://github.com/statgen)/[METAL](https://github.com/statgen/METAL)
-
-ID = 701, Stars = 8, Language = C++, Update = 2020-07-30
-
-Meta-analysis of genomewide association scans
-##### [statgen](https://github.com/statgen)/[swiss](https://github.com/statgen/swiss)
-
-ID = 702, Stars = 8, Language = Python, Update = 2019-11-11
-
-Software to help identify overlap between association scan results and GWAS hit catalogs.
+Catalog of genomic indexes freely available from public clouds
 ##### [ncbi](https://github.com/ncbi)/[blast-cloud](https://github.com/ncbi/blast-cloud)
 
-ID = 703, Stars = 8, Language = CSS, Update = 2020-08-27
+ID = 416, Stars = 8, Language = CSS, Update = 2020-08-27
 
 Documentation for NCBI BLAST AMI
 ##### [broadinstitute](https://github.com/broadinstitute)/[wdl-runner](https://github.com/broadinstitute/wdl-runner)
 
-ID = 704, Stars = 8, Language = Python, Update = 2020-08-31
+ID = 417, Stars = 8, Language = Python, Update = 2020-08-31
 
 Easily run WDL workflows on GCP
 ##### [broadinstitute](https://github.com/broadinstitute)/[cell-health](https://github.com/broadinstitute/cell-health)
 
-ID = 705, Stars = 8, Language = HTML, Update = 2020-08-14
+ID = 418, Stars = 8, Language = HTML, Update = 2020-08-14
 
 Predicting Cell Health with Morphological Profiles
 ##### [broadinstitute](https://github.com/broadinstitute)/[pyfrost](https://github.com/broadinstitute/pyfrost)
 
-ID = 706, Stars = 8, Language = C++, Update = 2020-08-11
+ID = 419, Stars = 8, Language = C++, Update = 2020-08-11
 
 Python bindings for Bifrost with a NetworkX compatible API
-##### [ekg](https://github.com/ekg)/[gyeet](https://github.com/ekg/gyeet)
-
-ID = 707, Stars = 7, Language = C++, Update = 2020-05-25
-
-sequence to graph mapper
-##### [richarddurbin](https://github.com/richarddurbin)/[phynder](https://github.com/richarddurbin/phynder)
-
-ID = 708, Stars = 7, Language = C, Update = 2020-08-17
-
-likelihood calculations over a tree to support ancient DNA Y chr analysis and more
 ##### [lh3](https://github.com/lh3)/[lh3.github.com](https://github.com/lh3/lh3.github.com)
 
-ID = 709, Stars = 7, Language = HTML, Update = 2020-05-27
+ID = 420, Stars = 7, Language = HTML, Update = 2020-05-27
 
 None
-##### [umcugenetics](https://github.com/umcugenetics)/[sparqling-genomics](https://github.com/UMCUGenetics/sparqling-genomics)
+##### [ekg](https://github.com/ekg)/[gyeet](https://github.com/ekg/gyeet)
 
-ID = 710, Stars = 7, Language = C, Update = 2020-08-31
+ID = 421, Stars = 7, Language = C++, Update = 2020-05-25
 
-Ontologies, RDF-generators, and a web interface for querying it all.
-##### [qiime2](https://github.com/qiime2)/[q2view](https://github.com/qiime2/q2view)
-
-ID = 711, Stars = 7, Language = JavaScript, Update = 2020-06-24
-
-A web-based "serverless" viewer of QIIME 2 Artifacts and Visualizations
-##### [pacificbiosciences](https://github.com/pacificbiosciences)/[pbcommand](https://github.com/PacificBiosciences/pbcommand)
-
-ID = 712, Stars = 7, Language = Python, Update = 2020-09-01
-
-PacBio common models, CLI tool contract interface and SMRT Link Service Interface
-##### [pacificbiosciences](https://github.com/pacificbiosciences)/[hg002-ccs](https://github.com/PacificBiosciences/hg002-ccs)
-
-ID = 713, Stars = 7, Language = Python, Update = 2020-07-08
-
-None
-##### [deeptools](https://github.com/deeptools)/[HiCMatrix](https://github.com/deeptools/HiCMatrix)
-
-ID = 714, Stars = 7, Language = Python, Update = 2020-09-01
-
-None
-##### [ensembl](https://github.com/ensembl)/[public-plugins](https://github.com/Ensembl/public-plugins)
-
-ID = 715, Stars = 7, Language = HTML, Update = 2020-09-01
-
-Plugins for an Ensembl website
-##### [ensembl](https://github.com/ensembl)/[ensembl-io](https://github.com/Ensembl/ensembl-io)
-
-ID = 716, Stars = 7, Language = Perl, Update = 2020-08-18
-
-File parsing and writing code for Ensembl
-##### [ensembl](https://github.com/ensembl)/[trackhub-registry](https://github.com/Ensembl/trackhub-registry)
-
-ID = 717, Stars = 7, Language = Perl, Update = 2020-07-27
-
-Specifications and implementation of the TrackHub registry
-##### [ensembl](https://github.com/ensembl)/[ensembl-git-tools](https://github.com/Ensembl/ensembl-git-tools)
-
-ID = 718, Stars = 7, Language = Perl, Update = 2019-12-09
-
-A collection of tools which Ensembl uses to work with Git
-##### [nf-core](https://github.com/nf-core)/[imcyto](https://github.com/nf-core/imcyto)
-
-ID = 719, Stars = 7, Language = Python, Update = 2020-08-18
-
-Image Mass Cytometry analysis pipeline
-##### [statgen](https://github.com/statgen)/[bravo](https://github.com/statgen/bravo)
-
-ID = 720, Stars = 7, Language = HTML, Update = 2020-08-04
-
-BRowse All Variants Online
+sequence to graph mapper
 ##### [ncbi](https://github.com/ncbi)/[pm4ngs](https://github.com/ncbi/pm4ngs)
 
-ID = 721, Stars = 7, Language = Jupyter Notebook, Update = 2020-08-14
+ID = 422, Stars = 7, Language = Jupyter Notebook, Update = 2020-08-14
 
 Project Manager for NGS data analysis
 ##### [ncbi](https://github.com/ncbi)/[HYDROID](https://github.com/ncbi/HYDROID)
 
-ID = 722, Stars = 7, Language = Python, Update = 2020-07-15
+ID = 423, Stars = 7, Language = Python, Update = 2020-07-15
 
 Python package for analyzing hydroxyl-radical footprinting experiments of DNA-protein complexes
 ##### [broadinstitute](https://github.com/broadinstitute)/[gtex-v8](https://github.com/broadinstitute/gtex-v8)
 
-ID = 723, Stars = 7, Language = Jupyter Notebook, Update = 2020-07-05
+ID = 424, Stars = 7, Language = Jupyter Notebook, Update = 2020-07-05
 
 Notebooks and scripts for reproducing analyses and figures from the V8 GTEx Consortium paper
 ##### [broadinstitute](https://github.com/broadinstitute)/[firecloud-tools](https://github.com/broadinstitute/firecloud-tools)
 
-ID = 724, Stars = 7, Language = Python, Update = 2020-05-29
+ID = 425, Stars = 7, Language = Python, Update = 2020-05-29
 
 Tools for use with FireCloud
-##### [vgteam](https://github.com/vgteam)/[toil-vg](https://github.com/vgteam/toil-vg)
+##### [ensembl](https://github.com/ensembl)/[public-plugins](https://github.com/Ensembl/public-plugins)
 
-ID = 725, Stars = 7, Language = Python, Update = 2020-08-27
+ID = 426, Stars = 7, Language = HTML, Update = 2020-09-01
 
-Distributed and cloud computing framework for vg
-##### [andersenlab](https://github.com/andersenlab)/[cegwas2-nf](https://github.com/AndersenLab/cegwas2-nf)
+Plugins for an Ensembl website
+##### [ensembl](https://github.com/ensembl)/[ensembl-io](https://github.com/Ensembl/ensembl-io)
 
-ID = 726, Stars = 7, Language = R, Update = 2020-08-20
+ID = 427, Stars = 7, Language = Perl, Update = 2020-08-18
 
-GWA mapping with C. elegans
-##### [biocore](https://github.com/biocore)/[gemelli](https://github.com/biocore/gemelli)
+File parsing and writing code for Ensembl
+##### [ensembl](https://github.com/ensembl)/[trackhub-registry](https://github.com/Ensembl/trackhub-registry)
 
-ID = 727, Stars = 7, Language = Jupyter Notebook, Update = 2020-07-21
+ID = 428, Stars = 7, Language = Perl, Update = 2020-07-27
 
-tensor decomposition for spatiotemporal omics data
+Specifications and implementation of the TrackHub registry
+##### [ensembl](https://github.com/ensembl)/[ensembl-git-tools](https://github.com/Ensembl/ensembl-git-tools)
+
+ID = 429, Stars = 7, Language = Perl, Update = 2019-12-09
+
+A collection of tools which Ensembl uses to work with Git
+##### [deeptools](https://github.com/deeptools)/[HiCMatrix](https://github.com/deeptools/HiCMatrix)
+
+ID = 430, Stars = 7, Language = Python, Update = 2020-09-01
+
+None
+##### [qiime2](https://github.com/qiime2)/[q2view](https://github.com/qiime2/q2view)
+
+ID = 431, Stars = 7, Language = JavaScript, Update = 2020-06-24
+
+A web-based "serverless" viewer of QIIME 2 Artifacts and Visualizations
 ##### [felixkrueger](https://github.com/felixkrueger)/[nextflow_pipelines](https://github.com/FelixKrueger/nextflow_pipelines)
 
-ID = 728, Stars = 6, Language = Nextflow, Update = 2020-07-23
+ID = 432, Stars = 6, Language = Nextflow, Update = 2020-07-23
 
 The set of NGS processing pipelines used at Babraham
-##### [seandavi](https://github.com/seandavi)/[BuildABiocWorkshop2020](https://github.com/seandavi/BuildABiocWorkshop2020)
-
-ID = 729, Stars = 6, Language = Dockerfile, Update = 2020-07-22
-
-Template for building a bioconductor workshop package using github actions
-##### [danielecook](https://github.com/danielecook)/[gg](https://github.com/danielecook/gg)
-
-ID = 730, Stars = 6, Language = Go, Update = 2020-05-04
-
-Github Gists from the command line. On MAC OSX, it (will be) an Alfred Workflow!
-##### [qiime2](https://github.com/qiime2)/[vm-playbooks](https://github.com/qiime2/vm-playbooks)
-
-ID = 731, Stars = 6, Language = Shell, Update = 2020-08-28
-
-Ansible playbooks for QIIME 2 environments
-##### [qiime2](https://github.com/qiime2)/[Keemei](https://github.com/qiime2/Keemei)
-
-ID = 732, Stars = 6, Language = JavaScript, Update = 2020-08-24
-
-Validate tabular bioinformatics file formats in Google Sheets
-##### [qiime2](https://github.com/qiime2)/[q2-types](https://github.com/qiime2/q2-types)
-
-ID = 733, Stars = 6, Language = Python, Update = 2020-08-22
-
-Definitions of common QIIME 2 types.
-##### [gatk-workflows](https://github.com/gatk-workflows)/[gatk4-rnaseq-germline-snps-indels](https://github.com/gatk-workflows/gatk4-rnaseq-germline-snps-indels)
-
-ID = 734, Stars = 6, Language = wdl, Update = 2020-07-04
-
-Workflows for processing RNA data for germline short variant discovery with GATK v4 and related tools
-##### [ding-lab](https://github.com/ding-lab)/[somaticwrapper](https://github.com/ding-lab/somaticwrapper)
-
-ID = 735, Stars = 6, Language = Perl, Update = 2020-07-02
-
-Detect somatic variants from tumor and normal exome data
-##### [mhammell-laboratory](https://github.com/mhammell-laboratory)/[TElocal](https://github.com/mhammell-laboratory/TElocal)
-
-ID = 736, Stars = 6, Language = Python, Update = 2020-08-17
-
-A package for quantifying transposable elements at a locus level for RNAseq datasets.
 ##### [broadinstitute](https://github.com/broadinstitute)/[wfl](https://github.com/broadinstitute/wfl)
 
-ID = 737, Stars = 6, Language = Clojure, Update = 2020-09-01
+ID = 433, Stars = 6, Language = Clojure, Update = 2020-09-01
 
 WorkFlow Launcher (née Zero)
 ##### [broadinstitute](https://github.com/broadinstitute)/[ccle_processing](https://github.com/broadinstitute/ccle_processing)
 
-ID = 738, Stars = 6, Language = Jupyter Notebook, Update = 2020-08-31
+ID = 434, Stars = 6, Language = Jupyter Notebook, Update = 2020-08-31
 
 What you need to process the Quarterly DepMap-Omics releases from Terra
 ##### [broadinstitute](https://github.com/broadinstitute)/[barclay](https://github.com/broadinstitute/barclay)
 
-ID = 739, Stars = 6, Language = Java, Update = 2020-08-25
+ID = 435, Stars = 6, Language = Java, Update = 2020-08-25
 
 Command line argument parser and online documentation generation utilities for java command line programs.
 ##### [broadinstitute](https://github.com/broadinstitute)/[DLBCL_Nat_Med_April_2018](https://github.com/broadinstitute/DLBCL_Nat_Med_April_2018)
 
-ID = 740, Stars = 6, Language = R, Update = 2020-06-11
+ID = 436, Stars = 6, Language = R, Update = 2020-06-11
 
 None
-##### [yongxinliu](https://github.com/yongxinliu)/[Culturome](https://github.com/YongxinLiu/Culturome)
+##### [ding-lab](https://github.com/ding-lab)/[somaticwrapper](https://github.com/ding-lab/somaticwrapper)
 
-ID = 741, Stars = 5, Language = HTML, Update = 2020-08-12
+ID = 437, Stars = 6, Language = Perl, Update = 2020-07-02
 
-None
-##### [yongxinliu](https://github.com/yongxinliu)/[Liu2020ProteinCell](https://github.com/YongxinLiu/Liu2020ProteinCell)
+Detect somatic variants from tumor and normal exome data
+##### [qiime2](https://github.com/qiime2)/[vm-playbooks](https://github.com/qiime2/vm-playbooks)
 
-ID = 742, Stars = 5, Language = Shell, Update = 2020-06-25
+ID = 438, Stars = 6, Language = Shell, Update = 2020-08-28
 
-Pipeline & Reproducible analysis examples for amplicon and metagenome in microbiome
-##### [papenfusslab](https://github.com/papenfusslab)/[bionix](https://github.com/PapenfussLab/bionix)
+Ansible playbooks for QIIME 2 environments
+##### [qiime2](https://github.com/qiime2)/[Keemei](https://github.com/qiime2/Keemei)
 
-ID = 743, Stars = 5, Language = Nix, Update = 2020-08-25
+ID = 439, Stars = 6, Language = JavaScript, Update = 2020-08-24
 
-Functional highly reproducible bioinformatics pipelines
-##### [refresh-bio](https://github.com/refresh-bio)/[RADULS](https://github.com/refresh-bio/RADULS)
+Validate tabular bioinformatics file formats in Google Sheets
+##### [qiime2](https://github.com/qiime2)/[q2-types](https://github.com/qiime2/q2-types)
 
-ID = 744, Stars = 5, Language = C++, Update = 2020-06-23
+ID = 440, Stars = 6, Language = Python, Update = 2020-08-22
 
-Ultra fast MSD radix sorter
-##### [umcugenetics](https://github.com/umcugenetics)/[guix-additions](https://github.com/UMCUGenetics/guix-additions)
-
-ID = 745, Stars = 5, Language = Scheme, Update = 2020-08-31
-
-None
-##### [qiime2](https://github.com/qiime2)/[q2-feature-classifier](https://github.com/qiime2/q2-feature-classifier)
-
-ID = 746, Stars = 5, Language = Python, Update = 2020-08-22
-
-QIIME 2 plugin supporting taxonomic classification
-##### [qiime2](https://github.com/qiime2)/[q2-sample-classifier](https://github.com/qiime2/q2-sample-classifier)
-
-ID = 747, Stars = 5, Language = Python, Update = 2020-08-22
-
-QIIME 2 plugin for machine learning prediction of sample data.
-##### [pharmgkb](https://github.com/pharmgkb)/[PGxPOP](https://github.com/PharmGKB/PGxPOP)
-
-ID = 748, Stars = 5, Language = Python, Update = 2020-06-17
-
-PGxPOP
-##### [ensembl](https://github.com/ensembl)/[ensembl-client](https://github.com/Ensembl/ensembl-client)
-
-ID = 749, Stars = 5, Language = TypeScript, Update = 2020-08-28
-
-Ensembl 2020 client
-##### [ensembl](https://github.com/ensembl)/[homebrew-ensembl](https://github.com/Ensembl/homebrew-ensembl)
-
-ID = 750, Stars = 5, Language = Ruby, Update = 2020-08-20
-
-Core formula for Ensembl
-##### [ensembl](https://github.com/ensembl)/[ensembl-test](https://github.com/Ensembl/ensembl-test)
-
-ID = 751, Stars = 5, Language = Perl, Update = 2020-08-17
-
-Test libraries and harnesses used for running the Ensembl test suite
-##### [parklab](https://github.com/parklab)/[bamsnap](https://github.com/parklab/bamsnap)
-
-ID = 752, Stars = 5, Language = Python, Update = 2020-08-28
-
-None
-##### [nf-core](https://github.com/nf-core)/[epitopeprediction](https://github.com/nf-core/epitopeprediction)
-
-ID = 753, Stars = 5, Language = Python, Update = 2020-09-01
-
-A bioinformatics best-practice analysis pipeline for epitope prediction and annotation
-##### [nf-core](https://github.com/nf-core)/[kmermaid](https://github.com/nf-core/kmermaid)
-
-ID = 754, Stars = 5, Language = Nextflow, Update = 2020-08-29
-
-k-mer similarity analysis pipeline
-##### [biowdl](https://github.com/biowdl)/[somatic-variantcalling](https://github.com/biowdl/somatic-variantcalling)
-
-ID = 755, Stars = 5, Language = wdl, Update = 2020-08-06
-
-A pipeline for somatic variantcalling. Category:Single-Sample
-##### [statgen](https://github.com/statgen)/[topmed_variant_calling](https://github.com/statgen/topmed_variant_calling)
-
-ID = 756, Stars = 5, Language = C++, Update = 2020-08-28
-
-None
-##### [statgen](https://github.com/statgen)/[LDServer](https://github.com/statgen/LDServer)
-
-ID = 757, Stars = 5, Language = C++, Update = 2020-08-26
-
-Fast API server for calculating linkage disequilibrium
+Definitions of common QIIME 2 types.
 ##### [broadinstitute](https://github.com/broadinstitute)/[warp](https://github.com/broadinstitute/warp)
 
-ID = 758, Stars = 5, Language = wdl, Update = 2020-09-01
+ID = 441, Stars = 5, Language = wdl, Update = 2020-09-01
 
 WDL Analysis Research Pipelines
 ##### [broadinstitute](https://github.com/broadinstitute)/[taiga](https://github.com/broadinstitute/taiga)
 
-ID = 759, Stars = 5, Language = Python, Update = 2020-08-18
+ID = 442, Stars = 5, Language = Python, Update = 2020-08-18
 
 Taiga for Dataset management
 ##### [broadinstitute](https://github.com/broadinstitute)/[dig-diabetes-portal](https://github.com/broadinstitute/dig-diabetes-portal)
 
-ID = 760, Stars = 5, Language = JavaScript, Update = 2020-07-23
+ID = 443, Stars = 5, Language = JavaScript, Update = 2020-07-23
 
 Diabetes portal for the Medical Population Genetics department at the Broad Institute
 ##### [broadinstitute](https://github.com/broadinstitute)/[lincs-cell-painting](https://github.com/broadinstitute/lincs-cell-painting)
 
-ID = 761, Stars = 5, Language = Jupyter Notebook, Update = 2020-07-02
+ID = 444, Stars = 5, Language = Jupyter Notebook, Update = 2020-07-02
 
 Processed Cell Painting Data for the LINCS Drug Repurposing Project
 ##### [broadinstitute](https://github.com/broadinstitute)/[Celligner_ms](https://github.com/broadinstitute/Celligner_ms)
 
-ID = 762, Stars = 5, Language = R, Update = 2020-06-29
+ID = 445, Stars = 5, Language = R, Update = 2020-06-29
 
 Code related to the Celligner manuscript
 ##### [broadinstitute](https://github.com/broadinstitute)/[reasoner](https://github.com/broadinstitute/reasoner)
 
-ID = 763, Stars = 5, Language = Python, Update = 2020-06-19
+ID = 446, Stars = 5, Language = Python, Update = 2020-06-19
 
 Reasoner
-##### [vgteam](https://github.com/vgteam)/[vg_wdl](https://github.com/vgteam/vg_wdl)
+##### [ensembl](https://github.com/ensembl)/[ensembl-client](https://github.com/Ensembl/ensembl-client)
 
-ID = 764, Stars = 5, Language = wdl, Update = 2020-06-21
+ID = 447, Stars = 5, Language = TypeScript, Update = 2020-08-28
 
-Workflow Description Language (WDL) scripts for common vg workflows
-##### [biocore](https://github.com/biocore)/[wol](https://github.com/biocore/wol)
+Ensembl 2020 client
+##### [ensembl](https://github.com/ensembl)/[homebrew-ensembl](https://github.com/Ensembl/homebrew-ensembl)
 
-ID = 765, Stars = 5, Language = Jupyter Notebook, Update = 2020-07-15
+ID = 448, Stars = 5, Language = Ruby, Update = 2020-08-20
 
-Reference Phylogeny for Bacterial and Archaeal Genomes
+Core formula for Ensembl
+##### [ensembl](https://github.com/ensembl)/[ensembl-test](https://github.com/Ensembl/ensembl-test)
+
+ID = 449, Stars = 5, Language = Perl, Update = 2020-08-17
+
+Test libraries and harnesses used for running the Ensembl test suite
+##### [pharmgkb](https://github.com/pharmgkb)/[PGxPOP](https://github.com/PharmGKB/PGxPOP)
+
+ID = 450, Stars = 5, Language = Python, Update = 2020-06-17
+
+PGxPOP
+##### [refresh-bio](https://github.com/refresh-bio)/[RADULS](https://github.com/refresh-bio/RADULS)
+
+ID = 451, Stars = 5, Language = C++, Update = 2020-06-23
+
+Ultra fast MSD radix sorter
+##### [qiime2](https://github.com/qiime2)/[q2-feature-classifier](https://github.com/qiime2/q2-feature-classifier)
+
+ID = 452, Stars = 5, Language = Python, Update = 2020-08-22
+
+QIIME 2 plugin supporting taxonomic classification
+##### [qiime2](https://github.com/qiime2)/[q2-sample-classifier](https://github.com/qiime2/q2-sample-classifier)
+
+ID = 453, Stars = 5, Language = Python, Update = 2020-08-22
+
+QIIME 2 plugin for machine learning prediction of sample data.
+##### [broadinstitute](https://github.com/broadinstitute)/[ddp-study-server](https://github.com/broadinstitute/ddp-study-server) *new+*
+
+ID = 454, Stars = 4, Language = Java, Update = 2020-09-02
+
+Pepper Study Server
