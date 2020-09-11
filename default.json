@@ -21,7 +21,8 @@
         "gpertea": "stringtie",
         "shubhamchandak94": "Spring",
         "seppinho": "haplogrep-cmd",
-        "andreas-wilm": "nimreadfq"
+        "andreas-wilm": "nimreadfq",
+        "Steven-N-Hart": "vcf-miner"
     },
     "teams": {
         "illumina": "strelka",
